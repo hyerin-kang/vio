@@ -1,0 +1,120 @@
+// KeyVisual.js
+.main-visual-swiper {
+  width: 100vw;
+  height: 100vh;
+  background: red;
+  position: relative;
+  .bg {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: 100%;
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+  .text-area {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    color: #fff;
+    padding: 100px 50px;
+    width: 100%;
+  }
+
+  // Swiper Controls
+  .autoplay-progress-wrap {
+    position: absolute;
+    left: 50%;
+    bottom: 20vh;
+    width: calc(100% - 100px);
+    height: 2px;
+    overflow: hidden;
+    background-color: #79797941;
+    transform: translateX(-50%);
+    pointer-events: none;
+    z-index: 10;
+  }
+  .autoplay-progress {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 0%;
+    background: #fff;
+    transition: width 0.1s linear;
+  }
+  .swiper-navigation-icon {
+    display: none;
+  }
+
+  .swiper-button-prev {
+    width: 44px;
+    height: 44px;
+    bottom: 170px;
+    bottom: calc(20vh - 80px);
+    top: auto;
+    right: 95px;
+    left: auto;
+    z-index: 11;
+    &::after {
+      content: "";
+      display: block;
+      width: 44px;
+      height: 44px;
+      background: url("./../../public/images/icon/swiper-arrow-prev.svg")
+        no-repeat center;
+      background-size: 100%;
+    }
+  }
+  .swiper-button-next {
+    width: 44px;
+    height: 44px;
+    bottom: 170px;
+    bottom: calc(20vh - 80px);
+    top: auto;
+    right: 40px;
+    left: auto;
+    z-index: 11;
+    &::after {
+      content: "";
+      display: block;
+      width: 44px;
+      height: 44px;
+      background: url("./../../public/images/icon/swiper-arrow-next.svg")
+        no-repeat center;
+      background-size: 100%;
+    }
+  }
+  .swiper-pagination-fraction {
+    top: auto;
+    left: auto;
+    bottom: calc(20vh - 80px); // @@182px
+    right: 155px;
+    display: flex;
+    align-items: center;
+    width: auto;
+    height: 44px;
+    color: #fff;
+    font-size: 14px;
+    span {
+      color: #fff;
+    }
+
+    &.swiper-pagination-lock {
+      display: none;
+    }
+  }
+
+  .swiper-slide-active {
+    .text-contents {
+      /*transform: translateY(0);
+      opacity: 1;*/
+    }
+  }
+}
