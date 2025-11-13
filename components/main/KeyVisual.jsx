@@ -6,8 +6,10 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/css";
 import "swiper/css/pagination";
 import "swiper/css/navigation";
+import AnimatedTextWrapper from "@/components/AnimateText/AnimatedTextWrapper";
+import AnimatedTextCharacter from "@/components/AnimateText/AnimatedTextCharacter";
 import useSWR from "swr";
-import { motion } from "motion/react";
+import { motion } from "framer-motion";
 import { useRef } from "react";
 
 const fetcher = (url) => axiosInstance.get(url).then((res) => res);
@@ -15,8 +17,6 @@ const fetcher = (url) => axiosInstance.get(url).then((res) => res);
 const KeyVisual = () => {
   const progressLine = useRef(null);
   const { data: bannerData, error: bannerErr } = useSWR(`/kr/main`, fetcher);
-
-  console.log(bannerData, "bannerData");
 
   const onAutoplayTimeLeft = (swiper, time, progress) => {
     console.log("autoplay event →", { time, progress });
@@ -50,7 +50,12 @@ const KeyVisual = () => {
               </div>
 
               <div className="text-area">
-                <p className="title">{item.title}</p>
+                <AnimatedTextWrapper>
+                  <AnimatedTextCharacter
+                    text={item.title}
+                    style={{ "font-size": "40px" }}
+                  />
+                </AnimatedTextWrapper>
                 <motion.div
                   className="sub-title"
                   initial={{ opacity: 0, y: 80 }}
