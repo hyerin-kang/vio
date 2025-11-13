@@ -11,14 +11,13 @@ import { motion } from "motion/react";
 import { useRef } from "react";
 
 const fetcher = (url) => axiosInstance.get(url).then((res) => res);
+
 const KeyVisual = () => {
   const progressLine = useRef(null);
-
   const { data: bannerData, error: bannerErr } = useSWR(`/kr/main`, fetcher);
 
   console.log(bannerData, "bannerData");
 
-  //swiper processLine
   const onAutoplayTimeLeft = (swiper, time, progress) => {
     console.log("autoplay event →", { time, progress });
     if (progressLine.current) {
@@ -26,9 +25,8 @@ const KeyVisual = () => {
     }
   };
 
-  if (bannerErr) {
-    <div>에러발생</div>;
-  }
+  if (bannerErr) return <div>에러발생</div>;
+
   return (
     <div>
       <Swiper
@@ -37,9 +35,8 @@ const KeyVisual = () => {
         pagination={{ type: "fraction", clickable: true }}
         spaceBetween={0}
         slidesPerView={1}
-        // onSlideChange={handleSlideChange}
-        autoplay={{ delay: 4000, disableOnInteraction: false }}
-        onAutoplayTimeLeft={onAutoplayTimeLeft}
+        // autoplay={{ delay: 4000, disableOnInteraction: false }}
+        // onAutoplayTimeLeft={onAutoplayTimeLeft}
         className="main-visual-swiper"
       >
         {bannerData?.data?.map((item, i) => (
@@ -47,10 +44,7 @@ const KeyVisual = () => {
             <div className="border">
               <div className="bg">
                 <video
-                  autoPlay
-                  muted
                   playsInline
-                  loop
                   src={`${process.env.NEXT_PUBLIC_API_URL}${item.file.webPath}`}
                 />
               </div>
@@ -66,12 +60,13 @@ const KeyVisual = () => {
                     ease: [0.76, 0, 0.24, 1],
                     delay: 0.8,
                   }}
-                  //   className="sub-tit"
                   dangerouslySetInnerHTML={{
                     __html: item?.subTitle.replace(/\n/g, "<br />"),
                   }}
                 />{" "}
-                <Link href={item.butUrl}>{item.butText}</Link>
+                <div className="btn-area">
+                  <Link href={item.butUrl}>{item.butText}</Link>
+                </div>
               </div>
             </div>
           </SwiperSlide>

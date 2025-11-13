@@ -1,12 +1,9 @@
-// KeyVisual.js
 .main-visual-swiper {
   width: 100vw;
   height: 100vh;
-  background: red;
   position: relative;
   .bg {
     position: absolute;
-
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -18,13 +15,48 @@
       object-fit: cover;
     }
   }
+
   .text-area {
     position: absolute;
     left: 0;
     bottom: 0;
     color: #fff;
-    padding: 100px 50px;
     width: 100%;
+    padding: 0 50px;
+
+    .title {
+      font-size: 40px;
+    }
+    .sub-title {
+      font-size: 20px;
+      margin: 20px 0;
+    }
+  }
+
+  .btn-area {
+    height: 20vh;
+    position: relative;
+    a {
+      width: 220px;
+      height: 44px;
+      background: #fff;
+      display: block;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      color: #000;
+      font-size: 12px;
+      padding: 0 20px;
+      justify-content: space-between;
+      position: absolute;
+      bottom: calc(20vh - 80px);
+      &::after {
+        content: "";
+        width: 16px;
+        height: 16px;
+        background: url("./../../public/images/icon/arrow-link-black.svg");
+      }
+    }
   }
 
   // Swiper Controls
@@ -40,6 +72,7 @@
     pointer-events: none;
     z-index: 10;
   }
+
   .autoplay-progress {
     position: absolute;
     top: 0;
@@ -49,6 +82,7 @@
     background: #fff;
     transition: width 0.1s linear;
   }
+
   .swiper-navigation-icon {
     display: none;
   }
@@ -56,10 +90,9 @@
   .swiper-button-prev {
     width: 44px;
     height: 44px;
-    bottom: 170px;
     bottom: calc(20vh - 80px);
     top: auto;
-    right: 95px;
+    right: 105px;
     left: auto;
     z-index: 11;
     &::after {
@@ -72,13 +105,13 @@
       background-size: 100%;
     }
   }
+
   .swiper-button-next {
     width: 44px;
     height: 44px;
-    bottom: 170px;
     bottom: calc(20vh - 80px);
     top: auto;
-    right: 40px;
+    right: 50px;
     left: auto;
     z-index: 11;
     &::after {
@@ -91,11 +124,12 @@
       background-size: 100%;
     }
   }
+
   .swiper-pagination-fraction {
     top: auto;
     left: auto;
-    bottom: calc(20vh - 80px); // @@182px
-    right: 155px;
+    bottom: calc(20vh - 80px);
+    right: 160px;
     display: flex;
     align-items: center;
     width: auto;
@@ -113,8 +147,7 @@
 
   .swiper-slide-active {
     .text-contents {
-      /*transform: translateY(0);
-      opacity: 1;*/
+      /*transform: translateY(0); opacity: 1;*/
     }
   }
 }
