@@ -29,7 +29,7 @@ export default function AnimatedTextCharacter({ text, isInView }) {
   return (
     <AnimatePresence>
       <motion.div
-        style={{ overflow: "hidden", display: "inline-flex" }}
+        style={{ overflow: "hidden", display: "inline-flex", width: "100%" }}
         variants={{
           hidden: { opacity: 0 },
           visible: (i = 1) => ({
@@ -46,7 +46,7 @@ export default function AnimatedTextCharacter({ text, isInView }) {
       >
         <h1>
           {letters.map((letter, idx) => (
-            <motion.span key={idx} variants={child} className="font-inter">
+            <motion.span key={idx} variants={child} className="-inter">
               {" "}
               {letter === " " ? "\u00A0" : letter}
             </motion.span>

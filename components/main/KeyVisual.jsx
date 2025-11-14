@@ -9,9 +9,10 @@ import "swiper/css/navigation";
 import AnimatedTextWrapper from "@/components/AnimateText/AnimatedTextWrapper";
 import AnimatedTextCharacter from "@/components/AnimateText/AnimatedTextCharacter";
 import useSWR from "swr";
-import { motion } from "framer-motion";
 import { useRef } from "react";
+import TextReveal from "./../AnimateText/TextReveal";
 
+//테스트
 const fetcher = (url) => axiosInstance.get(url).then((res) => res);
 
 const KeyVisual = () => {
@@ -30,13 +31,14 @@ const KeyVisual = () => {
   return (
     <div>
       <Swiper
+        loop={true}
         modules={[Autoplay, Navigation, Pagination]}
         navigation
         pagination={{ type: "fraction", clickable: true }}
         spaceBetween={0}
         slidesPerView={1}
-        // autoplay={{ delay: 4000, disableOnInteraction: false }}
-        // onAutoplayTimeLeft={onAutoplayTimeLeft}
+        autoplay={{ delay: 3000, disableOnInteraction: false }}
+        onAutoplayTimeLeft={onAutoplayTimeLeft}
         className="main-visual-swiper"
       >
         {bannerData?.data?.map((item, i) => (
@@ -50,25 +52,20 @@ const KeyVisual = () => {
               </div>
 
               <div className="text-area">
-                <AnimatedTextWrapper>
-                  <AnimatedTextCharacter
-                    text={item.title}
-                    style={{ "font-size": "40px" }}
-                  />
-                </AnimatedTextWrapper>
-                <motion.div
-                  className="sub-title"
-                  initial={{ opacity: 0, y: 80 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  transition={{
-                    duration: 0.8,
-                    ease: [0.76, 0, 0.24, 1],
-                    delay: 0.8,
-                  }}
-                  dangerouslySetInnerHTML={{
-                    __html: item?.subTitle.replace(/\n/g, "<br />"),
-                  }}
-                />{" "}
+                <div className="title">
+                  <AnimatedTextWrapper>
+                    <AnimatedTextCharacter text={item.title} />
+                  </AnimatedTextWrapper>
+                </div>
+                <div className="sub-title">
+                  <TextReveal delay={0.8}>
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: item.subTitle.replace(/\n/g, "<br />"),
+                      }}
+                    ></span>
+                  </TextReveal>
+                </div>
                 <div className="btn-area">
                   <Link href={item.butUrl}>{item.butText}</Link>
                 </div>
