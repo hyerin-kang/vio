@@ -25,6 +25,7 @@ export default function AnimatedTextCharacter({ text, isInView }) {
       transition: { duration: 0.5, ease: [0.76, 0, 0.24, 1] },
     },
   };
+
   return (
     <AnimatePresence>
       <motion.div
