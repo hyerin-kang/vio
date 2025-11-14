@@ -9,18 +9,22 @@ import "swiper/css/navigation";
 import AnimatedTextWrapper from "@/components/AnimateText/AnimatedTextWrapper";
 import AnimatedTextCharacter from "@/components/AnimateText/AnimatedTextCharacter";
 import useSWR from "swr";
-import { useRef } from "react";
+import { useContext, useRef } from "react";
 import TextReveal from "./../AnimateText/TextReveal";
+import { LangContext } from "@/context/LangContext";
+import Image from "next/image";
 
-//테스트
 const fetcher = (url) => axiosInstance.get(url).then((res) => res);
 
 const KeyVisual = () => {
+  const { lang } = useContext(LangContext);
   const progressLine = useRef(null);
-  const { data: bannerData, error: bannerErr } = useSWR(`/kr/main`, fetcher);
+  const { data: bannerData, error: bannerErr } = useSWR(
+    `/${lang}/main`,
+    fetcher
+  );
 
   const onAutoplayTimeLeft = (swiper, time, progress) => {
-    console.log("autoplay event →", { time, progress });
     if (progressLine.current) {
       progressLine.current.style.width = `${(1 - progress) * 100}%`;
     }
@@ -43,12 +47,24 @@ const KeyVisual = () => {
       {bannerData?.data?.map((item, i) => (
         <SwiperSlide key={i}>
           <div className="border">
-            <div className="bg">
-              <video
-                playsInline
-                src={`${process.env.NEXT_PUBLIC_API_URL}${item.file.webPath}`}
-              />
-            </div>
+            {/* 메인영상 */}
+            {item.file.mimeType.startsWith("video") ? (
+              <div className="bg">
+                <video
+                  playsInline
+                  src={`${process.env.NEXT_PUBLIC_API_URL}${item.file.webPath}`}
+                />
+              </div>
+            ) : (
+              <div className="bg bg-black">
+                <Image
+                  src={`${process.env.NEXT_PUBLIC_URL}${item.file.webPath}`}
+                  alt=""
+                  style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                  fill
+                />
+              </div>
+            )}
 
             <div className="text-area">
               <div className="title">

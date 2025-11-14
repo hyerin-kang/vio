@@ -1,0 +1,1684 @@
+{
+  "locale": "en",
+  "seo": {
+    "title": "Seoul Viosys",
+    "description": "UV LED, Micro LED, VCSEL LD, MicroLED Display, Violeds",
+    "keywords": "Seoul Viosys"
+  },
+  "common": {
+    "viewMore": "View more",
+    "unit": "unit",
+    "hundredMillionWon": "1M KRW",
+    "currentPrice": "Current price",
+    "till": "standard",
+    "won": "won",
+    "synthetic": "total",
+    "shares": "stocks",
+    "announcementDate": "Date of announcement",
+    "titleCEO": "CEO",
+    "CEO": "CEO of Seoul Viosys",
+    "CEOName": "Lee Jeong-hoon",
+    "viewList": "List",
+    "prevList": "Prev",
+    "nextList": "Next",
+    "prevNull": "There is no previous text.",
+    "nextNull": "There is no next text.",
+    "searchPlaceholder": "Input the contents to be searched",
+    "textRequired": "Required field.",
+    "emailValidate": "Please enter in a valid email format",
+    "nameValidate": "Please enter in a valid format",
+    "noResultsFound": "No results found",
+    "textValidate": "Please enter in a valid format.",
+    "viewAll": "View All",
+    "searchNodata": "There are no registered posts.",
+    "searchPlaceholder2": "Search",
+    "sortNewest": "Newest",
+    "sortOldest": "Oldest"
+  },
+  "menu": {
+    "product": "Product",
+    "application": "Application",
+    "technology": "Technology",
+    "support": "Support",
+    "company": "Company",
+    "ir": "IR"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "application": "Applications",
+    "company": "Company",
+    "patentsCertifications": "Patents/Certifications",
+    "certification": "Certificates",
+    "patentPortfolio": "Patent Portfolio",
+    "career": "Career",
+    "ir": "IR",
+    "support": "Support",
+    "product": "Products",
+    "media": "Media Center",
+    "technology": "Technology"
+  },
+  "main": {
+    "applications": {
+      "desc": "Discover use case that can be utilized in various businesses.",
+      "homeAppliance": {
+        "text": "Support a wide range of industries including \nUVC disinfection, UVB skin regeneration, air and water \npurification, insect repellent, and plant growth promotion."
+      },
+      "microDisplay": {
+        "text": "Leading a global micro LED ecosystem with advanced RGB One Chip technology."
+      },
+      "sensorData": {
+        "text": "Create 3D sensing field and 6G, AI data center communication market technology."
+      }
+    },
+    "product": {
+      "desc": "Provide high-quality products meet to various customer needs."
+    },
+    "newsroom": {
+      "desc": "The latest news from Seoul Viosys, the world's leading LED company."
+    },
+    "showroom": {
+      "desc": "Violeds online showroom within products in a variety of spaces."
+    },
+    "aboutUs": {
+      "title": "More than 18,000 patents cover a wide range \nfrom chips to applications and protect your application \nusing our products all over the world.",
+      "titleMo": "More than 18,000 patents cover a wide range \nfrom chips to applications \nand protect your application using our products all over the world.",
+      "text": "Focused on the development of LED/LD technology for the past 20 years, \nprioritizing customer value creation and upholding the principles of honor, contribution, and fairness. \nWe will continue to maintain the vision of “make the world clean, healthy and beautiful with light.”",
+      "info": {
+        "tit1": "Patents",
+        "tit2": "Global UV LED Market share",
+        "data2": "World's No.1"
+      }
+    },
+    "contactUs": {
+      "desc": "Do you have information that you want?\nMake inquiry now."
+    }
+  },
+  "search": {
+    "filterTitle": "Search Filter",
+    "product": {
+      "desc": "Search for the desired product by entering a Part No. or using filters."
+    }
+  },
+  "company": {
+    "title": "About Us",
+    "desc": "Introducing Seoul Viosys's values and vision.",
+    "aboutUs": {
+      "title": "Overview",
+      "subDesc1": "We are a company that transforms electrical energy into light using efficient technology.",
+      "subDesc2": "We gain 80% of all knowledge and information from light.",
+      "aboutCompanyTit": "Global leader in LED technology, \nWriting a new history with light.",
+      "aboutCompanyTitSub": "We are a global LED company based on the World 1",
+      "aboutCompanyTitSub2": "ST",
+      "aboutCompanyTitSub3": "     No-wire WICOP technology.",
+      "aboutCompanyText1": "Seoul Viosys is a full-line solution provider for UV LED, VCSEL (Vertical Cavity Surface Emitting Laser), the next-generation light source for 3D sensors and lasers and a single-pixel RGB “WICOP Pixel” for displays.",
+      "aboutCompanyText2": "Established in 2002 as a subsidiary of Seoul Semiconductor, it captured the leading market share in the UV LED industry (LEDinside, 2018). Seoul Viosys has an extensive UV LED portfolio with all wavelength ranges (200nm to 1600nm) including ultraviolet rays (UV), visible rays and infrared rays. It possesses more than 4,000 patents related to UV LED technology. Violeds, its flagship UV LED technology, provides a wide range of industries with optimal solutions for strong sterilization and disinfection (UVC), skin regeneration (UVB), water/air purification and effective cultivation for horticulture.",
+      "aboutCompanyText3": "In 2018, Seoul Viosys acquired RayCan, a leading optoelectronic specialist, to add the advanced VCSEL technology which supports smartphone facial recognition and autonomous driving, and has begun mass production."
+    },
+    "network": {
+      "title": "Global Network",
+      "desc": "We expand global business opportunities based on a powerful global network.",
+      "globalNetwork": "Global Network",
+      "office": "Office",
+      "distributor": "Distributor"
+    },
+    "career": {
+      "title": "Careers",
+      "desc": "Growing together with creative and passionate talents and building a new future."
+    },
+    "benefits": {
+      "title": "Welfare benefits",
+      "subDesc": "Seoul Viosys’s open recruitment with you",
+      "spirit": "Happy workplace",
+      "economy": "Economically helpful workplace",
+      "develop": "Workplace with growth",
+      "insurance": "• 4 major insurances and legal leave",
+      "fitnessClub": "• In-house Fitness Club",
+      "health": "• Support for operational comprehensive medical testing",
+      "operatesAffiliatedHospitals": "•  Partner hospital",
+      "operateChildCareFacilities": "•  Day-care center",
+      "holidayBirthdayGifts": "•  Gifts on holidays / birthday",
+      "operatingInHouseClub": "•  In-house club ",
+      "supportForResortApartmentUse": "•  Support for resorts / condos",
+      "supportPicnicsSportsCompetitions": "•  Support for picnics and sports events of each department",
+      "operateCompanyCafeteria": "•  In-house restaurant",
+      "operateAffiliatedSportsCenter": "•  Partner sports center",
+      "busSupportToWork": "•  Commuter bus",
+      "commission": "•  Incentive (Performance sharing Incentive, Special Compensation Incentive)",
+      "profitSharing": "•  CI Award",
+      "tuitionSupportForChildren": "•  Support for children's school expenses",
+      "supportingFilialPiety": "•  Support for family events",
+      "longTermWorkAward": "•  Award for long service",
+      "operateAssociation": "•  Operation of employee stock ownership association",
+      "awardsExemplaryInnovations": "•  Award for innovation cases",
+      "operateTraining": "•  Customized training course by job",
+      "supportLanguageExamFees": "•  Support for language exam application fee"
+    },
+    "certification": {
+      "title": "Patent/Certificate",
+      "certificationDate": "∙ Initial Certification Date",
+      "effectiveDate": "∙ Expiration Date",
+      "issuedBy": "∙ Issuing agency"
+    },
+    "founderMessage": {
+      "title": "Founder's Message",
+      "label": "For a new history of light! \nAnd a world without technology theft",
+      "labelMo": "For a new history of light! And a world without technology theft",
+      "statement": "Every day we reflect on the day's work and keep moving forward one step at a time to adhere to our principles and create value for our valued customers who share values with us.",
+      "subDesc": "With the goal of “making the world cleaner, healthier, and safer with light,” Seoul Viosys has grown from a rental factory on a commercial street - by turning crises into opportunities - into the world's only company that has second-generation technologies in the LED industry to produce optical semiconductor LEDs of all wavelengths, from 20nm UV to 1400nm laser diodes, without wire, package and lens, which are essential elements of semiconductors. \n\nWe will strive more vigorously to provide mankind good light – a healthy light that prevents myopia onset with natural light, a clean light that clears viruses and bacteria from the air and water, a memory-improving light, a light that reproduces natural colors and a light that helps you have a good night's sleep.\n\nIn my 20s when Jimmy Carter, a son of a farmer, became President of the United States, I asked myself “What about me?” as I was also born the youngest son of a farmer. Just as this was a turning point in my life, I hope that the journey of a company that started business in Korea but has grown to become a global manufacturer will be a small but sure hope for young people. \n\nJust as intellectual property motivated the world to spark the First, Second, and Third Industrial Revolutions, reducing the proportion of the world's population in absolute poverty from 85% to less than 9%, giving people light by which people obtain 80% of information, lowering the illiteracy rate from 90% to the 10% range and leading people to a safer life, and reducing infant mortality from 44% to less than 4%, respecting and honoring intellectual property rights will give hope to young people, accelerate creative innovations, make human life better, and create a fair society where people can move between social classes. To help make this hope a reality, I keep creating new works and fighting for intellectual property, vowing not to cut my hair until I have won each battle. \n\nPlease show your continuous interest in us and keep encouraging us in the future.",
+      "directorName": "Founder Lee Jeong-hoon"
+    },
+    "portfolio": {
+      "title": "Patent Portfolio",
+      "describe": "More than 18,000 patents cover a wide range from chips to applications and protect your application using our products all over the world.",
+      "subDesc": "For fair market competition, we have been actively involved in crackdowns on all organizations that violate our intellectual property rights and will also continue to take all necessary measures in all countries to prevent such infringement and protect our valuable technology.",
+      "listPatents": "Patent List",
+      "numberPatents": "Amount of Patents",
+      "casesWon": "Winning Cases",
+      "technology": "Technology",
+      "descTechnology": "Seoul Viosys holds patents \nfor a wide range of products based on \nour independent technologies including \nWICOP, SunLike, Acrich and MJT, etc.",
+      "applicationList": "Application List"
+    },
+    "idealTalent": {
+      "title": "Talent",
+      "subDesc": "We are looking for warm-hearted talented",
+      "subDesc2": "people who are constantly challenging a new future.",
+      "theRightPersonForUs": "Right people for us",
+      "passion": "Passion",
+      "describePassion": "A passionate actor",
+      "subDescPassion": "We need an actor who has a positive driving force and displats his/her fighting spirit based on love and responsibility for work",
+      "humbleness": "Humbleness",
+      "describeHumbleness": "An intellectual full of humanity",
+      "subDescHumbleness": "We need a warmhearted intellectual who knows how to be courteous to others, to share love based on it and to serve his/her neighbors and society",
+      "selfControl": "Self-control",
+      "describeSelfControl": "An adaptable and sociable organizer",
+      "subDescSelfControl": "We need an organizer who performs his/her job well no matter what task he/she is given, always encourages and supports his/her coworkers, subordinates and superiors, and draws the best results",
+      "creative": "Creativity",
+      "describeCreative": "A creative professional",
+      "subDescCreative": "We need a creative professional who makes a ceaseless effort to find innovative solutions, not just improvements",
+      "challenge": "Challenge",
+      "describeChallenge": "An ever-challenging achiever",
+      "subDescChallenge": "Bigger goals can bring greater fulfillment and happiness and increase your value. We need a happy achiever who always challenges"
+    },
+    "sustainableManagement": {
+      "title": "Sustainable Management",
+      "desc": "We create sustainable future in consideration of both business and environment.",
+      "subDesc": "As a company that delivers happiness through light,",
+      "subDesc2": "we uphold the coexistence of nature and humanity as a core value and are committed to sustainable management by advancing Environmental stewardship (E), Social responsibility (S), and sound Governance (G).",
+      "complianceManagement": {
+        "title": "Law observance management",
+        "sub1": "Law observance management declaration",
+        "subDesc1": "We believe that businesses have meaning and value of existence only when they do not violate law and ethics in the world where people live. As a result, Seoul Viosys operates under the mission of “A company that constantly grows by providing pride to its employees, value creation to customers, stability to shareholders and helping the world.” In addition, Seoul Viosys will continue to ractice crystal management in accordance with the law and ethics as always."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "sub1": "ESG Management Strategy",
+        "subDesc1": "Based on the belief of “Making the world cleaner, healthier, and more beautiful through light,” Seoul Viosys has established an ESG management strategy and operates an implementation framework to ensure sustainable growth.In line with our ESG strategies across each area, we identify key initiatives, track performance through implementation and monitoring, and drive continuous improvement.",
+        "sub2": "Sustainable Light Management for a Cleaner, Healthier, and More Beautiful World",
+        "subDesc2": "We build a sustainable future together with light-enabling technology",
+        "sub3": "Action Plan",
+        "sub4": "Strategic Objectives",
+        "environmental": {
+          "imgTitle": "Environmental",
+          "list01": {
+            "text1": "Establishing a Carbon-Neutral Management System",
+            "text2": "Minimizing Environmental Impact",
+            "text3": "Establishing a Resource Circulation System"
+          },
+          "list02": {
+            "text1": "Establishing and Implementing a Carbon Reduction Roadmap to Achieve Carbon Neutrality by 2030",
+            "text2": "Energy Efficiency Enhancement and Expansion of Renewable Energy",
+            "text3": "Optimization of Resource Use",
+            "text4": "Eco-friendly Design and Establishment of a Sustainable Production Base"
+          }
+        },
+        "social": {
+          "imgTitle": "Social",
+          "list01": {
+            "text1": "Respect for Human Rights and Diversity",
+            "text2": "Creating a Safe Workplace",
+            "text3": "Mutual Growth with Local Communities and Supply Chain Partners"
+          },
+          "list02": {
+            "text1": "Advancing a Human Rights Management System Based on International Standards",
+            "text2": "Strengthening the Occupational Health and Safety System with a Goal of Zero Serious Accidents",
+            "text3": "Improving the Work Environment and Strengthening Employee Health Management",
+            "text4": "Practicing Management Centered on Customer Satisfaction and Value Creation"
+          }
+        },
+        "governance": {
+          "imgTitle": "Governance",
+          "list01": {
+            "text1": "Transparent and Accountable Governance",
+            "text2": "Enhancing Ethics and Risk Management Framework"
+          },
+          "list02": {
+            "text1": "Strengthening Trust-Based Communication with Shareholders and Stakeholders",
+            "text2": "Anti-Corruption Risk Assessment and Strengthening Internal Controls",
+            "text3": "Performance Monitoring and Decision-Making Support Based on ESG KPIs"
+          }
+        },
+        "sub5": "ESG Management Committee",
+        "sub5Desc": "We established the ESG Team in September 2024 to advance ESG management activities.\nThe ESG Team is composed of operational departments from each field, identifying key ESG tasks by department and continuously driving initiatives to achieve the set goals.",
+        "sub5OrgChrt": {
+          "team": "ESG Team",
+          "group": "Working Group",
+          "subGroup1": {
+            "title": "Environment",
+            "item1": "Climate Change",
+            "item2": "Product Environmental Impact",
+            "item3": "Carbon Neutrality",
+            "item4": "Workplace Environment",
+            "item5": "Resource Circulation, etc."
+          },
+          "subGroup2": {
+            "title": "Social",
+            "item1": "Human Rights Management",
+            "item2": "Product Quality",
+            "item3": "Talent Development",
+            "item4": "Supply Chain ESG",
+            "item5": "Occupational Health and Safety",
+            "item6": "Customer Satisfaction",
+            "item7": "Social Contribution, etc"
+          },
+          "subGroup3": {
+            "title": "Governance",
+            "item1": "Board Governance",
+            "item2": "Shareholder Policy",
+            "item3": "Ethics and Compliance"
+          }
+        },
+        "sub6": "ESG Policy Book",
+        "sub6Desc": "This policy book comprehensively outlines the principles and strategic directions for realizing sustainable management across each ESG domain.",
+        "sub6FileDownload": "Seoul Viosys Sustainability Policy Book",
+        "sub6List": {
+          "item1": "Ethical Management",
+          "item2": "Human Rights Management",
+          "item3": "Environmental Management",
+          "item4": "Occupational Health & Safety Management"
+        },
+        "sub7": "ESG Management Certification",
+        "sub7FileDownload": "Certificate",
+        "sub7Desc": "Seoul Viosys has established a sustainability management system in line with international standards through ISO 14001 (Environmental Management System) and ISO 45001 (Occupational Health and Safety Management System) certifications.",
+        "sub7SubDesc": {
+          "item1": {
+            "title": "In the environmental field, ",
+            "desc": "we systematically identify, assess, and manage the environmental impact of our business activities, while continuously monitoring environmental performance through regular audits and renewal reviews. This enables us to proactively address environmental risks and practice eco-friendly management."
+          },
+          "item2": {
+            "title": "In the area of occupational health and safety,",
+            "desc": "we prioritize the safety and health of employees and stakeholders, managing risks in advance and operating a management system to prevent industrial accidents. Safety performance is verified through regular audits, and continuous improvement activities are pursued."
+          },
+          "item3": "As a responsible company committed to realizing ESG values, Seoul Viosys will continue to advance sustainable management where the environment and safety are in harmony."
+        }
+      },
+      "productEnvironment": {
+        "title": "Environmental",
+        "environmental": {
+          "title": "Environmental Management Strategy",
+          "desc": "Seoul Viosys recognizes corporate responsibility for climate change and resource issues, and practices systematic environmental management to minimize environmental impact.",
+          "subDesc": {
+            "desc1": "We focus on four strategic pillars",
+            "boldList": {
+              "item1": "responding to climate change, ",
+              "item2": "establishing an environmental management system, ",
+              "item3": "minimizing product environmental impact,",
+              "item4": "and building a resource circulation foundation. "
+            },
+            "desc2": "Through these, we systematically manage environmental risks and continuously improve environmental performance.",
+            "desc3": "",
+            "desc4": "By expanding low-carbon and eco-friendly technologies and implementing company-wide environmental responsibility management, we fulfill our responsibility as a leading global LED company committed to sustainability."
+          },
+          "circleList": {
+            "item1": "Responding to Climate Change",
+            "item2": "Establishing an Environmental Management System",
+            "item3": "Product Environmental Management",
+            "item4": "Resource Circulation"
+          }
+        },
+        "sub1": "Eco-friendly products",
+        "sub1Desc1": "Seoul Viosys Co., Ltd. is striving to put in the following efforts for creation of corporate values and earth environment preservation under the principle that fulfilling our environmental and social responsibilities is of the foremost priority and value.",
+        "sub1Desc2": "1. Set and announce the purposes and goals within the technologically and economically feasible ranges for accomplishment of product environment policies, and promote activities for realizations thereof.\n2. Pursue compliance of domestic and overseas product environment related laws and regulations, and set and independently manage the improved and enhanced standards for the preservation of earth environment.\n3. Provide overall information on product environment to all the staffs and executives, and entice them to realize their respective responsibilities through thorough education and training.\n4. Determine the validity of the product environment management system by executing regular review by the management and internal environment evaluation of the system.",
+        "sub1Desc2MO": "1. Set and announce the purposes and goals within the technologically and economically feasible ranges for accomplishment of product environment policies, and promote activities for realizations thereof.\n\n\n2. Pursue compliance of domestic and overseas product environment related laws and regulations, and set and independently manage the improved and enhanced standards for the preservation of earth environment.\n\n\n3. Provide overall information on product environment to all the staffs and executives, and entice them to realize their respective responsibilities through thorough education and training.\n\n\n4. Determine the validity of the product environment management system by executing regular review by the management and internal environment evaluation of the system.",
+        "sub2": "Product Environmental Management Substances",
+        "subDesc2": "Seoul Viosys classifies the management targets that may be included in the products into 4 stages",
+        "observationMaterial": "Observation substances",
+        "descClass1": "EU RoHS regulated substances (10 types) and customer's special requirements (3 types)",
+        "descClass2": "Substances controlled by national law or conventions other than Class I",
+        "descClass3": "Substances that Seoul Viosys tries to voluntarily reduce in consideration of the impact on environment and human body",
+        "descClassOthers": "Substances expected to be regulated in the future",
+        "detailedCriteria": "Detailed criteria",
+        "hazardousSubstances": "Harmful substances",
+        "managementGoals": "Management goals (mg/kg)",
+        "analyticalEquipment": "Analysis equipment",
+        "analyticalMethod": "Analysis method",
+        "col1": "Cadmium and its compounds",
+        "col2": "Lead and its compounds",
+        "col3": "Mercury and its compounds",
+        "col4": "Hexavalent chrome and its compounds",
+        "col5": "PBBs",
+        "col6": "PBDEs",
+        "col7": "Phthalates(BBP, DBP, DEHP, DIBP)",
+        "col8": "Br(bromine)",
+        "col9": "Cl(chlorine)",
+        "col10": "Sb(antimony)"
+      },
+      "environmentalSafety": {
+        "title": "Social",
+        "sub1": "Occupational Safety & Health Management",
+        "sub1Desc1": "Seoul Viosys places the utmost priority on the safety and health of its employees and practices systematic occupational safety and health management.",
+        "sub1Desc2": "We strengthen cooperative safety initiatives, improve working environments, and operate health management programs to ensure a healthy and safe workplace for all employees. In addition, we enhance chemical management systems to proactively identify and control workplace hazards.\n\nGoing forward, Seoul Viosys will continue to comply fully with occupational safety and health laws and regulations, while working with our partners to promote a strong safety culture.",
+        "sub1Desc3": "Establishement of\nenvironmental systems",
+        "sub1Desc4": "Response to\nclimate change",
+        "sub2": "Strengthening safety and health systems",
+        "subDesc2": "Seoul Viosys conducts the safety environment diagnosis for all production sites and in-house partners on a regular basis through consulting with specialized companies in the safety, environment, energy, and health sectors. Participating in the “Safety and Health Coexistence Cooperation Program” organized by the Ministry of Labor, we provide safety and health support and training to our partners on a regular basis, and have achieved Grade A in 2015 in recognition for our contribution. On the other hand, we map and index the risks of all business sites to use them as a measure of risk management.",
+        "sub3": "Employee health management and work environment improvement",
+        "sub3Desc1": "Seoul Viosys operates annual employee health checkups and various health promotion programs for employees’ health management. A professional health doctor supports health consultation to high-risk groups with four major diseases (hypertension, diabetes, hyperlipidemia, and liver disease) for thorough aftercare. We also investigated job stress by task to intensively manage the high stress group.",
+        "sub3Desc2": "In addition, we installed an automatic ventricular defibrillator in case of an emergency and selected emergency rescue personnel for each floor to provide CPR training. We are also making efforts to improve the working environment of our employees. We measure the working environment and improve the working environment twice a year. Seoul Viosys will continue to carry out various health promotion and working environment improvement activities.",
+        "sub4": "Our Healthcare Committee",
+        "subDesc4": "Seoul Viosys operates OHC (Our healthcare committee) through collaboration with domestic and international experts to improve the company's health management index and to enhance the diagnostic / prophylactic assessment of working environment above legal level and management level. In addition, we operate an OHC room equipped with body composition analyzers, blood glucose meters, and blood pressure devices to help prevent and manage chronic diseases of SSC / SVC employees and employees of internal partners.",
+        "sub5": "Strengthening Chemicals Management",
+        "subDesc5": "Seoul Viosys has introduced a pre-environmental safety review system to review the risks beforehand on all substances used in the workplace. All chemicals used in our company cannot be used without a pre-risk review. All chemical handling equipment must go through the process of installation inspection, minimizing the risk that may occur. In addition, we are strengthening monitoring and conducting emergency response and training on a regular basis to prevent accidents related to chemicals.",
+        "sub6": "Supply Chain Management",
+        "subDesc6": "Seoul Viosys is committed to ensuring sustainability across its entire supply chain and practices responsible management in line with global standards. To this end, we have established and operate the Seoul Viosys Supplier Code of Conduct. \nThis Code of Conduct is based on global guidelines such as the UN Universal Declaration of Human Rights, the UN Guiding Principles on Business and Human Rights, and the RBA Code of Conduct, and serves as the standard for supply chain sustainability management.\n\nWe require mandatory agreements with our major partners regarding compliance with the Code of Conduct, and we continuously monitor adherence through new vendor assessments, regular evaluations, and supply chain risk reviews. Updates to global standards are also reflected in our Code, ensuring that our partners are supported in fulfilling their social and environmental responsibilities while practicing ethical business conduct.",
+        "subDesc6Download": "Seoul Viosys Supplier Code of Conduct"
+      },
+      "codeOfConduct": {
+        "title": "Code of Conduct",
+        "sub1": "Seoul Viosys Code of Conduct Ver. 1.0",
+        "subDesc1": "Seoul Viosys thinks that all workers have the right to work in safe and ethical working conditions. We also understand the importance of responsible corporate operations that can minimize environmental impact. Therefore, Seoul Viosys and its partners are striving to achieve social and environmental performance.\n\nAs part of such efforts, this Code of Conduct (hereinafter referred to as the “Code”) summarizes and presents the requirements of Seoul Viosys and its partners. The application of the Code includes any form of organization that designs, sells, manufactures or provides parts and services used to produce products. All employees and members should comply with the Code and require all sub-supply chains providing assembly, parts, raw materials and packaging in the relevant business area to comply with it.\n\nThe party is solely responsible for complying with the Code, and appropriate sanctions may be imposed if the remedial action is not taken within the time limit.\n\nThis Code is based on the RBA Code of Conduct Version 7.0 (2021) and reflects the requirements of our clients. In addition, the Code may be revised according to changes in internal and external management policies and standards.",
+        "sub2": "Labor rights compliance guide",
+        "label1": "Anti-racism",
+        "desc1": "∙ No discrimination in employment due to worker's age, physical disability, ethnicity, gender, marital status, nationality, political orientation, race, homosexuality, or membership in labor association.  \n∙ Pregnancy and medical reports should not be required unless legal or related to workplace safety concerns.\n∙ Prohibition of inappropriate discrimination based on the result of medical reports.",
+        "label2": "Bullying and Assault",
+        "desc2": "∙ Prohibition of harassment and assault in the workplace.\n∙ Prohibition of threats by inhuman treatment such as verbal abuse, assault, mental violence, mental / physical coercion, and sexual harassment.",
+        "label3": "Prevention of Involuntary Labor and Human Trafficking",
+        "desc3": "∙ Guarantee voluntary labor. \n∙ Prohibition of trafficking or forced labor of any kind.\n∙ Involuntary labor includes exile, stealth, recruitment, transfer, acquisition, or threatening, pressure, coercion, abduction, hijacking, or fraudulent recruitment or payment to control the other party. \n∙ Prohibition of worker’s government issued ID or travel related documents. \n∙ The contract with the worker should ensure that the terms of employment are clearly written in a language that the worker can understand. \n∙ Prohibition of improper restrictions on entry and exit and transfer to and from the workplace.\n∙ Ensuring that third-party recruitment agencies conduct activities consistent with the provisions of the law and the Code.\n∙ The supplier is responsible for any unpaid salary exceeding one month of a third party or directly hired overseas contractor workers.",
+        "label4": "Protection of juvenile workers",
+        "desc4": "∙ Employment of legally employable adolescents, but any work that harms health, stability and mentality should not be assigned to workers aged 18 or younger based on ILO\n∙ Minimum Age Convention No. 138. Prohibition of juvenile workers of overtime or night work",
+        "label5": "Protection of student workers",
+        "desc5": "∙ Ensure proper management of student workers through legally guaranteed student human rights protection, efforts as an educational partner and school life.\n∙ Providing appropriate support and training",
+        "label6": "Working time",
+        "desc6": "∙ Working time is limited to 60 hours per week including overtime. \n∙ Workers should have at least a day off per week, except for emergencies or abnormal situations.\n∙ Must comply with laws and regulations regarding working hours and overtime must be voluntary",
+        "label7": "Freedom of Association and Collective Bargaining",
+        "desc7": "∙ As a legal permission, the supplier allows collective bargaining without interference, discrimination, retaliation or assault and also allows workers to establish and join associations. \n∙ Working time is limited to 60 hours per week including overtime. Ensure a mechanism for workers to report complaints and enable open conversation between labor and management",
+        "label8": "Salaries and Benefits",
+        "desc8": "∙ Ensure that all workers receive legal minimum salary and benefits. \n∙ Provide holidays, annual leave, and legal holidays. \n∙ Compensation for legally specified overtime pay. \n∙ Discuss payment structure and payment period with all workers.\n∙ Pay the exact salary at the right time. \n∙ Pay cuts should not be used in a disciplined way.",
+        "sub3": "CSR policy and performance",
+        "download": "Download CSR policy and achievements",
+        "actionRules": "Seoul Viosys Code of Conduct",
+        "target": "CSR Office Goals",
+        "target1": "100% compliance with working hours",
+        "target1sub": "연속 근로 시간 준수​\n월 52시간 초과 근무 준수(en)",
+        "target2": "Zero Major disaster",
+        "target3": "Implementation of safe workplace",
+        "target4": "Strengthening law-abiding management System"
+      },
+      "sharingManagement": {
+        "title": "Sharing Management (CSR)",
+        "social": {
+          "sub1": "Seoul Viosys practices Sharing Management through diverse social contribution activities to realize our vision of “A Better World Through Light.”",
+          "sub2": "Our initiatives include supporting underprivileged communities, sponsoring overseas child partnerships and emergency relief programs, providing scholarships for future talent development, encouraging employee talent donation activities, and supporting public-interest organizations. Through these efforts, we are fulfilling our social responsibility in various ways.\n\nGoing forward, Seoul Viosys will continue to share the company’s achievements with society, striving to create a sustainable community that grows together."
+        },
+        "sub1": "EHS Management Strategy",
+        "sub1Desc1": "Support for the underprivileged in the community",
+        "sub1Desc2": "Connection with international children and emergency relief support",
+        "sub1Desc3": "Future talent traiging and scholarship project",
+        "sub1Desc4": "Emplotee talent doantion activities",
+        "sub1Desc5": "Public interest group sponsorship activity",
+        "sub2": "Support/Sponsorship History",
+        "time1": "Jan",
+        "time2": "Feb",
+        "time3": "Mar",
+        "time4": "Apr",
+        "time5": "May",
+        "time6": "Jun",
+        "time7": "Jul",
+        "time8": "Aug",
+        "time9": "Sept",
+        "time10": "Oct",
+        "time11": "Nov",
+        "time12": "Dec",
+        "present": "Present",
+        "title2021_11": "Donation of Violeds’ Air Purifier Sterilizers to 300 small business owners",
+        "desc2021_11": "Small business owners",
+        "title2021_6": "Donation of relief items against COVID 19 to India",
+        "desc2021_6": "India",
+        "title2020_3": "Donations including special masks against COVID 19",
+        "desc2020_3": "Disaster Relief Association / Ansan city Hall",
+        "title2018_8": "Donation of 2,000 MOSCLEAN",
+        "desc2018_8": "Ansan city Hall",
+        "title2017_2": "Free replacement with LED Lights",
+        "desc2017_2": "Hanmin High School",
+        "title2016_12_1": "Donation to The UniKorea Fund Grant Program",
+        "desc2016_12_1": "UniKorea Foundation",
+        "title2016_12_2": "Talent donation of the management and employees to Junior Science Class of the Ansan-inside Elementary School",
+        "desc2016_12_2": "Ansan Elementary School",
+        "title2016_8": "Blood Donation Event",
+        "desc2016_8": "Korean Red Cross",
+        "title2016_7": "Cambodian Ministry of Health donated 300 units of Mosclean",
+        "desc2016_7": "Cambodian Ministry of Health",
+        "title2016_6": "Army Headquarters donated 1,000 units of Mosclean",
+        "desc2016_6": "Army Headquarters",
+        "title2015_10": "Signed a joint agreement for replacement / installation of street light LED lighting fixtures on Jungang-daero in Ansan-si",
+        "desc2015_10": "Ansan-si",
+        "title2015_6": "One Company 1 Park Agreement Ceremony with Forest City Ansan",
+        "desc2015_6": "Ansan-si",
+        "title2015_5_1": "Volunteering at a local nursing home",
+        "desc2015_5_1": "Yangji Home Care Center and Nursing Home",
+        "title2015_5_2": "Donation to help Nepal earthquake",
+        "desc2015_5_2": "Good Neighbors",
+        "title2015_4": "Signed an environmental protection fund donation agreement with Ansan Environmental Movement Association",
+        "desc2015_4": "Ansan Environmental Movement Association",
+        "title2015_3_1": "Signed an environmental protection fund donation agreement with the Environmental Foundation",
+        "desc2015_3_1": "Environmental Foundation",
+        "title2015_3_2": "Signed a MOU to support scholarships for low-income youth in Ansan",
+        "desc2015_3_2": "Ansan Human Resources Development Foundation",
+        "title2015_1": "Volunteer activities for Living Facilities for the mentally retarded",
+        "desc2015_1": "House of Peace",
+        "title2014_12": "Donations to Ansan's Low-Income Youth Uniform Support Project",
+        "desc2014_12": "Ansan Caregiver Union",
+        "title2014_9": "Employee Talent Donation Activities- Elementary school junior engineering classroom in Ansan",
+        "desc2014_9": "Elementary schools in Ansan",
+        "title2014_4_1": "Donation of Sewol Ferry disaster collection to scholarship",
+        "desc2014_4_1": "Danwon High School",
+        "title2014_4_2": "Signing ceremony for 1 company 1 senior citizen center (Sponsor rice 40kg, 100,000 won every month)",
+        "desc2014_4_2": "Hometown Village / Blue Village Senior Citizen Center",
+        "title2013_12_1": "Donation of end-of-year cake to local children's center",
+        "desc2013_12_1": "Sky Dream / Rainbow Local children’s center",
+        "title2013_12_2": "Volunteer activities for Living Facilities for the mentally retarded",
+        "desc2013_12_2": "House of Peace",
+        "title2013_9": "Donation of profits from the Happiness Sharing Bazaar",
+        "desc2013_9": "Gyeonggi Joint Funding Association",
+        "title2013_6": "Hope Love Light Sharing Project- 1: 1 Regular sponsorship of overseas children",
+        "desc2013_6": "Good Neighbors",
+        "title2013_1": "Donation of TVs to local children's center",
+        "desc2013_1": "House of Peace",
+        "title2012_11_1": "Watching basketball games with children of local children’s center",
+        "desc2012_11_1": "Ansan Wadong Gym",
+        "title2012_11_2": "Volunteer activities for Living Facilities for the mentally retarded",
+        "desc2012_11_2": "House of Peace",
+        "title2012_9": "Rural community experience with children of local children's center",
+        "desc2012_9": "Yeoju Deer Village",
+        "title2012_8_1": "Volunteer activities for Living Facilities for the mentally retarded",
+        "desc2012_8_1": "House of Peace",
+        "title2012_8_2": "Tidal Flat Experience with Children of Local children’s center",
+        "desc2012_8_2": "Seongam Fishing Village",
+        "title2012_7": "Volunteer activities for Living Facilities for the mentally retarded",
+        "desc2012_7": "House of Peace",
+        "title2012_5": "Movie Culture Event with Children of Local children’s center",
+        "desc2012_5": "Lotte Cinema",
+        "title2012_3_1": "Tree planting event with children of local children's center",
+        "desc2012_3_1": "Center Playground and others",
+        "title2012_3_2": "Movie Culture Event with Children of Local children’s center",
+        "desc2012_3_2": "CGV Cinema"
+      },
+      "governance": {
+        "title": "Governance",
+        "sub1": "Compliance Management",
+        "sub1desc1": "Seoul Viosys recognizes that ethical and transparent business practices are the foundation for sustainable growth. We are committed to strict compliance with laws and principles in all aspects of our operations.",
+        "sub1desc2": "Based on domestic and international laws, global standards, and internal regulations, we are fostering a strong compliance culture across the company. Our efforts include reinforcing employee conduct standards, preventing risks related to anti-corruption, fair trade, and intellectual property protection, and ensuring transparent decision-making processes.\n\nTo further solidify our commitment, Seoul Viosys has established a Compliance Declaration that embodies the ethical responsibility and dedication of all employees.",
+        "sub2": "Board Governance",
+        "sub2desc1": "Seoul Viosys ensures responsible decision-making and sustainable management based on the independence and expertise of its Board.",
+        "sub2desc2": "The Board plays a central role in setting strategic directions, reviewing key business issues, and overseeing ESG-related matters. It also strengthens internal committees and audit systems to uphold transparent and sound corporate governance.",
+        "sub2DownBtn": "Director Status",
+        "sub3": "Investor Relations (IR)",
+        "sub3desc1": "Seoul Viosys provides timely and regular disclosures to ensure transparent communication of key management information to stakeholders.",
+        "sub3DownBtn": "IR Presentations"
+      },
+      "conflictMinerals": {
+        "title": "Conflict minerals",
+        "sub1": "What are conflict minerals?",
+        "subDesc1": "As part of economic sanctions to eradicate social issues such as infringements upon personal rights, exploitation of child labor and sexual assault in African conflict areas (10 countries including DR Congo), countries around developed countries have designated four major minerals (3TG: tin, tungsten, tantalum, and gold) that are mined in these regions as conflict minerals, and prohibit companies from using conflict minerals to prevent mining funds from flowing into military funds of rebels.",
+        "sub2": "Conflict minerals purchase policy",
+        "subDesc2": "Seoul Viosys recognizes the importance of selecting and monitoring suppliers to ensure sustainable management. Strict regulations are applied to Seoul Viosys’s suppliers to avoid importing minerals produced in conflict areas (especially the Democratic Republic of Congo). The regulations on the selection and monitoring of these suppliers are defined as external purchase policies and are constantly being revised"
+      }
+    },
+    "history": {
+      "title": "History",
+      "label": "We introduce the historical path of innovation that Seoul Viosys has embarked on.",
+      "title1992": "Incorporation of Seoul Semiconductor",
+      "title1993": "Established subsidiary research center of the company",
+      "title2001_1": "Established Kwangmyeong Semiconductor Co., Ltd. in Tianjin, China",
+      "title2001_2": "Signed a cooperation agreement with Nitride of Japan",
+      "title2002_1": "Established Seoul Viosys",
+      "title2002_2": "Developed Side LED for mobile phones",
+      "title2002_3": "Sales revenue exceeded 100 billion KRW",
+      "title2002_4": "Listed of Seoul Semiconductor in stock market",
+      "title2002_5": "Sales revenue of Seoul Semiconductor exceeded 100 billion KRW, expanded exports",
+      "title2004_1": "1st in the world to develop LED chip for AC",
+      "title2004_2": "Mass production of Z-POWER LED",
+      "title2004_3": "Domestic MS exceeded 70%",
+      "title2004_4": "Ranked within the top 10 in the global LED ranking",
+      "title2005_1": "Merger through acquisition with SETi, the world's leading UVC company",
+      "title2005_2": "1st to develop semiconductor light source for AC power (Acrich)",
+      "title2005_3": "Developed 0.4mm LED for LCD backlighting",
+      "title2005_4": "Patent war with the major players in the world",
+      "descTitle2005_4": "Peaked with more than 30 lawsuits in 5 countries in 2008",
+      "title2006_1": "Developed the world's longest-lasting 100,000-hour Lamp LED",
+      "title2006_2": "1st to mass produce semiconductor lighting, Acrich, in the world",
+      "title2006_3": "Seoul Viosys commenced mass production of DUV LED",
+      "title2006_4": "Commenced mass production of the world's brightest, most light efficient single-chip 240lm LED",
+      "title2006_5": "Selected as one of the top 200 mid-sized companies in Asia by Forbes",
+      "title2006_6": "Selected as one of 100 fastest-growing companies in Asia by Business Week",
+      "title2007": "Launched the world's thinnest patented high luminance chip LED product with thickness of 0.17 mm",
+      "title2008": "Developed and launched the world's brightest 10W-class 900 lumen LED",
+      "title2009": "Mass production of TOP LED for TV",
+      "title2010_1": "Acrich adopted by the Department of Energy (DOE) of the US government for future housing projects",
+      "title2010_2": "Developed LED for automobile headlamps",
+      "title2011": "Seoul Semiconductor constructed a new factory in Ansan",
+      "title2012_1": "No. of domestic and overseas patents exceeded 10,000 and was selected the top patent power company in the global LED components industry by IEEE",
+      "title2012_2": "Launch of ‘nPola’, an LED that is 10 times brighter than existing LEDs",
+      "title2013_1": "Achieved sales revenue of 1 trillion KRW",
+      "title2013_2": "Professor Nakamura Shuji, who served as a technological advisor for Seoul Semiconductor for 10 years received the Nobel Prize in Physics",
+      "title2013_3": "Launched the brightest (8.8 lm) 0.6 mm-class side-view LED in its class in the world",
+      "title2013_4": "No. of countries exported to exceeded 60 countries worldwide",
+      "title2013_5": "Launched Z5M1, the brightest high performance LED in the world",
+      "title2014": "Ranked within the top 5 in the global LED ranking",
+      "title2015": "Mass production of Wicop, a new concept LED that eliminated packaging process and component parts",
+      "title2017_1": "Completed construction of Seoul Semiconductor VINA in Ha Nam Province, Vietnam",
+      "title2017_2": "Achieved the highest quarterly sale revenue in the company's history",
+      "title2020": "Ranked within the top 4 in the global LED ranking",
+      "title2021": "Ranked within the top 3 in the global LED ranking",
+      "title2022": "No. of domestic and international patents exceeded 18,000",
+      "title2022Year": "Present ~ 2010"
+    },
+    "brand": {
+      "title": "SeoulViosys Brand",
+      "desc": "We deliver trust and innovation through Seoul Viosys' identity and values.",
+      "sub1": "Making the world clean,\nhealthy and beautiful with light",
+      "sub2": "We adhere to our conviction for provision of the best differentiated values by abiding by the principle of honor, trust, responsibility and social contribution at all costs, not competing with our customers, focusing on optical semiconductors.",
+      "sub3": "We have been focusing only on optical semiconductors over the last 30 years.",
+      "sub4": "We dream of creating a new history of the optical semiconductor industry based on our 18,000 patents and 2nd generation technologies.",
+      "brandValueList": {
+        "item1": "We create values for customers through creative endeavors.",
+        "item2": "We contribute to humanity proactively and expediently.",
+        "item3": "We work tirelessly for the growth of the organization with strong will."
+      },
+      "brandLogo": {
+        "sub": "The smaller and larger circles represent the earth and the universe, respectively with the connection between the two representing the value of unity and single-mindedness.\n\nThe color is green to represents the natural environment.\n\nThe connection of the two circles conveys the sense of throbbing movement and great ambition that the small steps of development by Seoul Viosys will proliferate throughout the whole world and humanity to make us known everywhere in the universe, just as a stone thrown into a calm lake causes small ripples that spread throughout the entire lake.​"
+      },
+      "techLogo": {
+        "sub": "Seoul Viosys presents the world 1st LED core innovations.\n Look for our technology brand logo across a wide range of sectors."
+      }
+    },
+    "recruitmentInfo": {
+      "title": "Employment of competent personnel",
+      "areasOfRecruitment": "Areas of recruitment",
+      "marketing": "Manufacturing",
+      "salesSupport": "Sales support",
+      "personnelManagement": "Personnel management",
+      "development": "Development",
+      "other": "other",
+      "recruitmentConditions": "Recruitment conditions",
+      "experience": "Experience",
+      "newRecruit": "New recruit",
+      "currentStatusOfRecruitment": "Current status of recruitment",
+      "applicationInProgress": "Application in progress",
+      "recruitmentAsNeeded": "Recruitment as needed",
+      "applicationClosed": "Application closed"
+    }
+  },
+  "ir": {
+    "irInfomation": {
+      "title": "Investor Relations",
+      "desc": "Seoul Viosys elevates the value of your company through transparent management and healthy investments.",
+      "subDesc": "Seoul Viosys elevates the value of your company ",
+      "subDesc2": "through transparent management and healthy investments."
+    },
+    "managementInfo": {
+      "title": "Goverance Information",
+      "subDesc": "Seoul Viosys enhances its value through transparent",
+      "subDesc2": "management and healthy corporate governance.",
+      "boardDirectors": "Board of Directors",
+      "auditBody": "Audit organization",
+      "electionDirectors": "Appointment of directors",
+      "descElectionDirectors1": "∙ Directors are appointed at the general shareholders' meeting, and the director candidates to be appointed at the general shareholders' meeting are selected and recommended by the board of directors and submitted to the general shareholders' meeting.",
+      "descElectionDirectors2": "∙ Each board member is independent of the largest shareholder and major shareholders.",
+      "compositionDirectors": "Composition of directors",
+      "descCompositionDirectors": "∙ Our board of directors consists of six members including three inside directors and three outside directors.",
+      "directorStatus": "Director Status",
+      "note": "*The directors who were elected and appointed according to the above procedure are as follows. The date of election is the date of election at the most recent general shareholders' meeting.",
+      "titleStatus": "Title (Full-time/ Part-time)",
+      "name": "Name",
+      "dateAppointment": "Appointment date",
+      "backgroundSummery": "Brief history",
+      "undertaking": "Responsibilities",
+      "structureAuditSystem": "Composition of the Audit System",
+      "descStructureAuditSystem": "We are currently operating an audit committee, and three auditors selected by the resolution of the general shareholders' meeting are responsible for the audit. The Audit Committee may require that the relevant departments submit books and documents in relation to their work. If necessary, the committee can request related documents and make recommendations to appropriate divisions and to board of directors to improve management processes.",
+      "situationAuditCommittee": "Gratitude status",
+      "situationAuditCommitteeDesc": "*We designate one member of the Audit Committee as an expert in accounting or finance.",
+      "fullTime": "Full-time",
+      "partTime": "Part-time"
+    },
+    "financeInfo": {
+      "title": "Financial Information",
+      "subDesc": "Seoul Viosys pursues transparent",
+      "subDesc2": "management and sound investment.",
+      "financeHighlight": "Financial Highlights",
+      "keyFinancialRatios": "Key Financial Ratio",
+      "mainDesc": "Seoul Viosys operates three consolidated subsidiaries located in the United States, Vietnam, and China. Leveraging global R&D and manufacturing infrastructure, the company provides total optical solutions ranging from UV, Blue, Green, Red, IR, and VCSEL chips to modules for customers worldwide. Seoul Viosys holds a broad portfolio of optical semiconductors covering the full wavelength spectrum from 200nm to 1400nm, including the world’s first no-wire RGB 1-chip micro LED display, backed by approximately 6,000 patents.\u200B\n\n\u200B",
+      "descMore": "We expect to further strengthen our position by expanding our product lines to the fast growing 3D sensing markets via our VCSEL technology and by addressing the $100 billion micro display market with our differentiated WICOP technology.",
+      "companyName": "Company Name",
+      "textCompanyName": "Seoul Viosys",
+      "listing": "Listing",
+      "textListing": "Korea Exchange",
+      "stockCode": "Stock code",
+      "ISIN": "ISIN",
+      "incomeStatement": "Income statement",
+      "sales": "Sales",
+      "salesProfit": "Gross Profits",
+      "operatingProfit": "Opertiong Profits",
+      "netProfit": "Net Profits",
+      "reportOnFinancialSituation": "Statement of financial position",
+      "totalAssets": "Total assets",
+      "currentAssets": "- Current assets",
+      "longTermAssets": "- Non-current assets",
+      "totalDebt": "Total liabilities",
+      "shortTermDebt": "- Current liabilities",
+      "longTermDebt": "- Non-current liabilities",
+      "totalCapital": "Total Equity",
+      "cashFlowStatement": "Statement of Cash Flows",
+      "businessActivities": "Operating Activities",
+      "investmentActivities": "Investment activities",
+      "financialActivities": "Financing Activities",
+      "increaseCash": "Net Change in Cash",
+      "endPeriodEquivalents": "Net Cash Ending Balance",
+      "profitMargin": "Profitability ratio",
+      "grossProfitMargin": "Gross-margin ratio",
+      "operatingProfitMargin": "Operating Profit Ratio",
+      "ROA": "Return on Assets(ROA)",
+      "ROE": "Return on Equity(ROE)",
+      "stableRate": "Stability ratio",
+      "currentLiquidityRatio": "Current ratio",
+      "debtAssetRatio": "Debt ratio",
+      "activityRate": "Activity ratio",
+      "totalAssetTurnoverRatio": "Asset turnover ratio",
+      "receivableTurnoverRatio": "Total debt turnover ratio",
+      "totalCapitalTurnoverRatio": "Total Equity Turnover"
+    },
+    "stockInfo": {
+      "title": "Stock Information",
+      "stockPriceInfo": "Stock Price Information",
+      "dividendAndShareStatus": "Dividends & Ownership status",
+      "regulations": "Internal Information Management Regulations",
+      "comparedYesterday": "Net change",
+      "tradingVolume": "Trading volume",
+      "transactionAmount": "Trading value",
+      "KOSPI": "KOSPI",
+      "KOSDAQ": "KOSDAQ",
+      "stockName": "Item Name",
+      "textStockName": "Seoul Viosys",
+      "closingPrice": "Previous closing price",
+      "marketPrice": "Market price",
+      "highestPrice": "High price",
+      "lowestPrice": "Low price",
+      "highestIn52Weeks": "Highest in 52 weeks",
+      "lowestIn52Weeks": "Lowest in 52 weeks",
+      "ceilingPrice": "Highest price",
+      "floorPrice": "Lowest price",
+      "PER": "PER",
+      "numberOfListedShares": "Number of listed stocks",
+      "denominations": "Face value",
+      "descDividendAndShareStatus": "Seoul Viosys enhances shareholders’ value\n with the dividend policy which is consistent with the company's growth.",
+      "totalShares": "The total number of stocks to be issued under our Articles of Incorporation",
+      "totalSharesToNow": "As of December 31, 2023, the total number of stocks issued",
+      "currentStatusOfStockAllocation": "Distribution of stocks",
+      "classify": "Classification",
+      "numberShareholders": "Number of shareholders (people)",
+      "ratio": "Ratio(%)",
+      "numberOfShares": "Number of stocks (stock)",
+      "minimumTotalShareholders": "Total minority shareholders",
+      "minorityShareholderCompany": "Total minority shareholders (corporation)",
+      "minorityShareholderIndividual": "Minority shareholders (individual)",
+      "largestShareholder": "Largest shareholders",
+      "totalOtherShareholders": "Other shareholders",
+      "otherShareholdersCompany": "Other shareholders (corporation)",
+      "otherShareholdersIndividual": "Other shareholders (individual)",
+      "KSD": "KSD (laggards)",
+      "currentStatusOfDividends": "Dividend Status",
+      "parValuePerShare": "Face value per stock",
+      "netProfitForThePeriod": "Net profit during the term (Million won)",
+      "profitPerShare": "Earning Per Stock",
+      "cashDividendsPerShare": "Cash dividend per stock",
+      "totalDividendAmount": "Total Dividend (Million won)",
+      "dividendPayoutRatio": "Dividend Payout Ratio (%)",
+      "cashDividendYield": "Cash dividend yield(%)",
+      "title1": "Chapter 1. General Provisions",
+      "label1_1": "Article 1 (Purpose)",
+      "sub1_1": "The purpose of this Regulation is to stipulate issues related to the comprehensive management and appropriate disclosure, etc. of internal information of Seoul Viosys Co., Ltd. (hereinafter referred to as the “Company“) in order to ensure prompt and accurate public announcement and to prevent insider trading by executive officers and employees in accordance with the [Act on the Capital Market and Financial Investment Business (hereinafter referred to as the “Act“)] and other overall laws and regulations.",
+      "label1_2": "Article 2 (Definition of Terms)",
+      "sub1_2": "① The term “inside information“ in this Regulation refers to the obligations for public announcement under Section 1 of the KOSDAQ Market Public Announcement Regulations (hereinafter referred to as the “Public Announcement Regulations“) and other issues that may have a significant impact on the Company's management or property situation, or investors' judgment on making investment.\n② Under this Regulation, the “personnel responsible for public announcement“ refers to a person who is authorized to perform reporting duties on behalf of the Company pursuant to Paragraph 4 of Article 2 of the Public Announcement Regulations.\n③ Under this Regulation, “executive“ refers to a director (including a person corresponding to any 1 of the items of Clause 1 of Article 401-2 of the [Commercial Act] and an auditor.\n④ Under this Regulations, “specified securities, etc.“ refer to specified securities referred to in Clause 1 of Article 172 of the Act including securities issued by the Company, securities depository certificate, convertible bonds that can be exchanged for securities or securities depository certificate and financial investment instruments based on securities, etc.\n⑤ The definitions of terms used in this Regulation other than those specified in Paragraphs ① through ④ shall be in accordance with the definitions of terms used in relevant laws and regulations.",
+      "label1_3": "Article 3 (Scope of Application)",
+      "sub1_3": "Issues related to public announcement, insider trading and internal information management shall be in compliance with this Regulation, except for those stipulated by relevant laws and regulations or the Articles of Incorporation.",
+      "title2": "Chapter 2. Internal Information Management",
+      "label2_1": "Article 4 (Management of Internal Information)",
+      "sub2_1": "① Executives and staffs shall strictly manage the internal information of the Company that they come to know in the course of their duties and shall not disclose them internally or externally, except when necessary for business purposes.\n② The CEO shall take necessary measures to manage internal information, including establishment of specific standards for the storage, delivery and destruction of internal information and related documents, etc.",
+      "label2_2": "Article 5 (Personnel Responsible for Public Announcement)",
+      "sub2_2": "① The CEO shall designate a personnel responsible for public announcement and report it to the Korea Exchange. The same shall apply when the personnel responsible for public announcement is changed.\n② The personnel responsible for public announcement shall take overall charge of tasks related to the establishment and operation of the internal information management system, and shall perform each of the following tasks to establish an efficient internal information delivery system.\n\t1. Execution of public announcement.\n\t2. Inspection and evaluation of the operation status of the internal information management system.\n\t3. Reviewing the internal information and deciding whether to disclose them or not.\n\t4. Take necessary measures for the operation of the internal information management system, such as education for executives and staffs.\n\t5. Directing and supervising departments or executives and staffs in charge of managing internal information or disclosing internal information.\n\t6. Establishment of a system for delivery of information to the largest shareholders.\n\t7. Establishment of a system for delivery of information to subsidiary and affiliated companies at all times.\n\t8. Other tasks recognized by the CEO as necessary for the operation of the internal information management system.\n③ The personnel responsible for public announcement shall have the following authorities in performing his/her duties.\n\t1. The authority to request the submission of various documents and records related to internal information and to view them.\n\t2. The authority to obtain necessary opinions from executives and staffs of the department in charge of accounting or auditing and other departments in charge of tasks related to the generation of internal information.\n\t3. The authority to require subsidiary companies to submit necessary information related to public announcement works.\n\t4. When receiving a request for disclosure of company-related information from shareholders and interested parties, the authority to review the legality of the corresponding request to confirm whether to provide the information and to obtain the opinion of an external legal expert.\n④ The personnel responsible for public announcement may consult with executives in charge of related tasks as necessary to fulfill his/her duties and may seek expert assistance at the Company's expense.\n⑤ The Personnel responsible for public announcement shall regularly report the operation of the internal information management system to the CEO (or the Board of Directors).",
+      "label2_3": "Article 6 (Personnel in Charge of Public Announcement)",
+      "sub2_3": "① The CEO shall designate the personnel in charge of public announcement and report it to the Korea Exchange. The same shall apply when the personnel in charge of public announcement is changed.\n② The personnel in charge of public announcement shall be under the direction of the personnel responsible for public announcement in relation to internal information management and shall perform the following tasks:\n\t1. Collect and review internal information, and report to personnel responsible for public announcement.\n\t2. Tasks necessary for the execution of public announcement\n\t3. Confirm issues necessary for the management of internal information, such as changes in the laws and regulations related to public announcements, and reporting them to the personnel responsible for public announcement.\n\t4. Routinely monitor the contents of press releases related to the company and report to the personnel responsible for public announcement with contents that are different from the facts in order to correct such inaccuracies.\n\t5. Other issues deemed necessary by the CEO or personnel responsible for public announcement.",
+      "label2_4": "Article 7 (Concentration on Internal Information)",
+      "sub2_4": "Executives and heads of departments shall provide information that correspond to any of the following to the personnel responsible for public announcement in a timely manner:\n\t1. In the event of generation of internal information; and\n\t2. When there is occurrence of reasons to cancel or change issues among the internal information that have already been announced publicly; and\n\t3. If there is any other request from the personnel responsible for public announcement.",
+      "label2_5": "Article 8 (Provision of Internal Information Externally)",
+      "sub2_5": "① If an executive or a staff needs to provide internal information inevitably to the Company's business partners, external auditors, agents or persons who have entered into advisory contracts with the Company, such as legal advice or management advice, for business purposes, he/she shall report the relevant issues to the person responsible for public announcement. The person responsible for public announcement shall then take the necessary caution not to omit the corresponding information if it is subject to fair public announcement.\n② In the case of paragraph ①, the personnel responsible for public announcement shall take necessary measures, such as entering into an agreement on the confidentiality of relevant internal information, etc.",
+      "title3": "Chapter 3. Public announcement of Internal Information",
+      "label3_1": "Article 9 (Types of Public Announcements)",
+      "sub3_1": "The Company's public announcements shall be classified as follows.\n\t1. Reporting and public announcement pursuant of key management issues pursuant to Clause 1 of Chapter 2 of Section 1 of the Public Announcement Regulation.\n\t2. Public announcement of inquiries pursuant to Clause 2 of Article 2 of Section 1 of the Public Announcement Regulation\n\t3. Fair public announcement pursuant to Clause 3 of Chapter 2 of Section 1 of the Public Announcement Regulation\n\t4. Autonomous public announcement pursuant to Chapter 3 of Section 1 of the Public Announcement Regulation\n\t5. Submission of securities reports, etc. pursuant to Chapter 1 of Section 3 of the Act\n\t6. Submission of business reports, etc. pursuant to Articles 159, 160 and 165 of the Act and Clause 4 of Chapter 2 of Section 1 of the Public Announcement Regulation\n\t7. Submission of a report of key issues pursuant to Article 161 of the Act\n\t8. Public announcement pursuant to Clause 1 of Article 10 1 of the Public Announcement Regulation\n\t9. Other public announcement in accordance with other laws and regulations",
+      "label3_2": "Article 10 (Execution of Public Announcement)",
+      "sub3_2": "① The personnel in charge of public announcement shall report to personnel responsible for public announcement when issues for public announcement stipulated in the Article 9 occur, by preparing the necessary contents and attaching necessary documents.\n② The personnel responsible for public announcement shall review whether the contents and documents in Paragraph ① do not violate any relevant laws and regulations, and report the finding to the CEO before making a public announcement.\n③ In the event of occurrence of information for public announcement, such public announcement shall be made in a timely manner for the issues that require public announcement.",
+      "label3_3": "Article 11 (Follow-up Measures After Public Announcement)",
+      "sub3_3": "The personnel responsible for public announcement and the personnel in charge of public announcement shall take measures to correct any errors or omissions in the contents of the public announcement made without delay if such exist.",
+      "label3_4": "Article 12 (Media Coverage, etc.)",
+      "sub3_4": "① If there is a request for coverage of the Company from the media, the CEO or the personnel responsible for public announcement shall respond to such request in principle. If necessary, an executive and a staff of the relevant departments may be instructed to respond to such request for media coverage.\n② If the Company wishes to distribute a press release to the media, the person responsible for public announcement shall be consulted for the purpose. The personnel responsible for public announcement shall report issues related to the distribution of the press release to the CEO if necessary.\n③ Any executive or staff who came to realize that the contents of a press release are different from the relevant facts shall report such finding to the personnel responsible for public announcement. The personnel responsible for public announcement shall report the relevant issue to the CEO and take necessary measures.\n④ If the contents of the press release correspond to fair public announcement, the contents shall be publicly announced before the press release is distributed.",
+      "label3_5": "Article 13 (Company Presentation)",
+      "sub3_5": "① Company presentation on the Company's management details, and business plans and prospects, etc. shall be held in consultation with the personnel responsible for public announcement.\n② It must be recognized that making company presentation is a management responsibility and obligation of a listed corporation, and efforts shall be put in to ensure that voluntary and continuous company presentations are made.\n③ During the course of making company presentation, care must be taken not to disclose issues that have not been fairly announced publicly in advance.",
+      "title4": "Chapter 4. Regulations on Insider Trading, etc.",
+      "label4_1": "Article 14 (Returning Gains from Short-Term Trading)",
+      "sub4_1": "① Executives, and staffs stipulated in Clause 1 of Article 172 of the Act and Article 194 of the Enforcement Decree of the Act, in the event of having acquired gains by purchasing specified securities, etc. referred to in Clause 1 of Article 172 of the Act then selling them within six months, or by selling the said specified securities and then purchasing them within six months, shall return such gain (hereinafter referred to as “gains from short-term trading“) to the Company.\n② If a shareholder of the Company (including a person who owns equity securities or securities depository certificates other than the stock certificates, and same applies hereinafter in this Article) requests the Company to request the person who has obtained gain from short-term trading pursuant to Paragraph ① above to return such gain, the Company shall take necessary measures within two months from the date of receipt of the said request.\n③ If the Securities and Futures Commission notifies the Company of the occurrence of gain from short-term trading pursuant to Paragraph ① above, the personnel responsible for public announcement shall, without delay, make a public announcement on the internet website of the Company of the following issues:\n\t1. The status of the person who is required to return the gain from short-term trading; and\n\t2. The amount of the gain from short-term trading; and\n\t3. The date of notification of the fact of occurrence of gain from short-term trading by the Securities and Futures Commission; and\n\t4. The plan for claiming the return of the gain from short-term trading; and\n\t5. A shareholder of the Company may request the Company to make a claim for the return of the gain from short-term trading from the person who obtained such gain, and, if the Company does not make such claim within two months from the date of receipt of the request, the said shareholder may make the said claim on behalf of the Company.\n④ The period for making the public announcement of the Paragraph ③ above shall be two years from the date of notification of the fact of occurrence of gain from short-term trading by the Securities and Futures Commission or the date of return of the gain from short-term trading, whichever comes first.",
+      "label4_2": "Article 15 (Notification of Trading of Specific Securities, etc.)",
+      "sub4_2": "① Executives, and staffs stipulated in Clause 1 of Article 172 of the Act and Article 194 of the Enforcement Decree of the Act, in the event of engaging in the trading of specific securities and other transactions, shall notify such fact to the personnel responsible for public announcement.\n② Executives (including non-registered executives), in the event of owning or trading specific securities of our Company, shall notify the personnel responsible for public announcement or personnel in charge of public announcement of the relevant details within two days.",
+      "label4_3": "Article 16 (Prohibition of Use of Undisclosed Material Information)",
+      "sub4_3": "Executives and staffs shall not use or cause others to use undisclosed material information (including undisclosed material information of affiliated companies) stipulated in Clause 1 of Article 174 of the Act for the trading of specific securities or other transactions.\n\n※ The Company may register with the “Insider trading notification service of staffs and executives of listed corporations (KRX-Insider Trading Alarm Service)“ provided by the Korea Exchange for the prevention of unfair transactions such as prohibiting the use of undisclosed information by insiders, etc. and returning gains from short-term trading profits, etc., and reporting of shareholdings, and may utilize it for notification and reporting of issues stipulated in Articles 14 to 16.",
+      "label4_4": "Article 17 (Internal Material Information of Affiliated Companies, etc.)",
+      "sub4_4": "① Staffs and executives shall strictly manage the undisclosed material information of the Company's affiliated companies that they come to know of in the course of their work, and shall not disclose or divulge them internally or externally, except when necessary for business purposes.\n② If staffs and executives come to be aware of the undisclosed material information of affiliated companies, they shall not use the information or cause others to use it.",
+      "title5": "Chapter 5. Supplementary Regulations",
+      "label5_1": "Article 18 (Education)",
+      "sub5_1": "The personnel responsible for public announcement and the personnel in charge of public announcement shall complete education and training on public announcement works pursuant to Article 36 and Clause 5 of Article 44 of the Public Announcement Regulation, and the personnel responsible for public announcement shall inform the contents of education and training to the relevant executives and staffs of the Company.",
+      "label5_2": "Article 19 (Amendment and Abolishment of the Regulation)",
+      "sub5_2": "Amendment or abolition of this Regulation shall be through the resolution of the Board of Directors.",
+      "label5_3": "Article 20 (Proclamation of the Regulation)",
+      "sub5_3": "This Regulation shall be proclaimed on the website of the Company. The same shall apply when amendments to the Regulation are made.\n\n※ Supplementary Provisions\nThis Regulation will be implemented from December 16, 2020."
+    },
+    "irReport": {
+      "title": "Financial Report",
+      "desc": "Seoul Viosys builds trust by providing information in a transparent manner.",
+      "performanceReport": "Earnings Release Presentations",
+      "mainReport": "Key Reports",
+      "auditReport": "Audit report",
+      "tradingReport": "Sales Report",
+      "businessReport": "business Report",
+      "otherData": "Other Data",
+      "bannerLink": "IR Materials"
+    },
+    "irNotice": {
+      "title": "공고(en)",
+      "desc": "서울바이오시스의 주요 공고사항을 확인하세요(en)"
+    }
+  },
+  "support": {
+    "title": "Support",
+    "searchFilter": "검색필터",
+    "documentLibrary": {
+      "title": "Download",
+      "desc": "Check out the documentation of Seoul Viosys products.",
+      "placeholder": "Input Part No. or file name."
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "desc": "Please feel free to reach out if you're looking for specific information",
+      "productInquiry": "제품 문의",
+      "exordium": "Do you have information that you want?\nMake inquiry now.",
+      "required": "Your inquiry has been received.",
+      "ruleName": "유효한 형식으로 입력해 주세요.",
+      "ruleEmail": "유효한 이메일 형식으로 입력해 주세요.",
+      "rulePhone": "Enter only numbers",
+      "form": {
+        "inquiryCategory": {
+          "label": "Inquiry Category",
+          "placeholder": "Please select the distinction of inquiry."
+        },
+        "inquiryProduct": {
+          "label": "Product for Inquiry",
+          "placeholder": "Please select the inquiry product."
+        },
+        "inquiryEtc": {
+          "label": "상세 구분",
+          "placeholder": "상세 구분을 선택해주세요."
+        },
+        "country": {
+          "label": "Country",
+          "placeholder": "Please select a country"
+        },
+        "phone": {
+          "label": "Phone number (Enter only numbers)",
+          "placeholder": "Please enter your phone number. (numbers only)"
+        },
+        "route": {
+          "label": "Route of visit",
+          "placeholder": "Please select the route of visit."
+        },
+        "name": {
+          "label": "Name",
+          "placeholder": "Please enter your name."
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Please enter your email address."
+        },
+        "detail": {
+          "label": "Message",
+          "placeholder": "Please enter the contents."
+        },
+        "button": "Submit"
+      },
+      "terms": {
+        "title": "Personal Information Collection and Usage Consent",
+        "agree": "I agree to the collection and use of personal information.",
+        "subtitle1": "1. Purpose of Collecting and Using Personal Information",
+        "subtitle2": "2. Items of Personal Information Collected",
+        "subtitle3": "3. Retention and Use Period of Personal Information",
+        "content1": "We process personal information for the purpose of responding to inquiries regarding the company and its products.",
+        "content2": "Collected Information :",
+        "content2_highlight": "Country, Name, Email",
+        "content3_1": "The personal information you provide",
+        "content3_highlight": " will be stored for one year after the inquiry has been processed and will then be deleted. ",
+        "content3_2": "However, if you request immediate deletion, we will delete the information promptly.",
+        "subtitle4": "4. Right to Refuse Consent and Consequences of Refusal",
+        "content4": "Customers have the right to refuse consent for the collection and use of personal information. However, inquiries made without providing personal information such as email or contact number may not receive a response."
+      },
+      "inquiryCategory": {
+        "productInquiry": "제품문의",
+        "sampleInquiry": "샘플문의",
+        "promotionalInquiry": "홍보문의",
+        "recruitmentInquiry": "채용문의",
+        "investmentInquiry": "투자문의",
+        "generalInquiry": "일반문의",
+        "marketingInquiry": "마케팅문의",
+        "inconvenience": "불편사항"
+      },
+      "visitRoute": {
+        "googleSearch": "구글 검색",
+        "naverSearch": "네이버 검색",
+        "onlineAdvertising": "온라인 광고 (배너, 영상 등)",
+        "SNS": "SNS (페이스북, 링크드인, 미디엄, 트위터 등)",
+        "onlineEvents": "온라인 행사 (웨비나, 강연 등)",
+        "offlineEvents": "오프라인 행사 (전시회, 컨퍼런스 등)",
+        "pressRelease": "언론보도",
+        "thesisJournal": "논문/학술지",
+        "community": "커뮤니티",
+        "recommend": "지인/사내 추천",
+        "etc": "기타"
+      },
+      "textareaPattern": "The special characters <, >, ', \\' are not allowed.",
+      "submissionSuccess": "Your inquiry has been received."
+    },
+    "discontinuedProducts": {
+      "title": "Discontinued Products",
+      "productSoldOut": "판매 종료된 제품",
+      "placeholder": "Part No.를 입력해 주세요.",
+      "replacementProduct": "Replacement Product",
+      "dataNotFound": "Couldn’t you find the product you wanted?"
+    },
+    "documentsSearch": {
+      "title": "Documents Search",
+      "placeholder": "After having inputted the part No., search the document."
+    },
+    "categorySearch": {
+      "title": "Category Search",
+      "placeholderLevel2": "Select Product Level 2",
+      "placeholderLevel3": "Select Product Level 3",
+      "documentSearch": "Document Search"
+    },
+    "nodata": "No posts found."
+  },
+  "product": {
+    "placeholderSearch": "Input the Part No.",
+    "violet": {
+      "title": "UV LED",
+      "subTitle": "UV is light energy that has a shorter wavelength (200-400nm) than visible light.\nIt is located in the violet-colored region of visible light, which is why it is called ultraviolet (UV) ray,\nand, depending on the wavelength regions, it is divided into UVC, UVB and UVA.\n",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Download Center",
+        "productInquiryBtn": "Get Support"
+      },
+      "banner": {
+        "title": "Home Appliance & Industrial",
+        "desc": "Support a wide range of industries including UVC disinfection, UVB skin regeneration, air and water purification, insect repellent, and plant growth promotion.",
+        "buttonText": "View more applications"
+      }
+    },
+    "micro": {
+      "title": "Micro LED",
+      "subTitle": "It is impossible to achieve MicroLED without SVC's proprietary No Wire technology, and it is the world's first-ever and still one-and-only product that realizes 3 RGB colors in a single chip and pixel, the ideal for all displays.",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Download Center",
+        "productInquiryBtn": "Get Support"
+      },
+      "banner": {
+        "title": "MicroLED Display",
+        "desc": "Leading a global micro LED ecosystem with advanced RGB One Chip technology.",
+        "buttonText": "View more applications"
+      }
+    },
+    "vcsel": {
+      "title": "VCSEL LD",
+      "subTitle": "An optimized platform for various mobile applications\nimproves efficiency to gain high recognition,\nand provides low power consumption and low-cost solutions.\n",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Download Center",
+        "productInquiryBtn": "Get Support"
+      },
+      "banner": {
+        "title": "Sensor & Data Communications",
+        "desc": "Create 3D sensing field and 6G, AI data center communication market technology.",
+        "buttonText": "View more applications"
+      }
+    }
+  },
+  "media": {
+    "placeholder": "Please enter a search term",
+    "news": {
+      "title": "Newsroom",
+      "desc": "Check out the latest issues and news of Seoul Viosys.",
+      "category": {
+        "placeholder": "All"
+      },
+      "sort": "Latest"
+    },
+    "event": {
+      "title": "Events",
+      "button": "Learn more",
+      "subTitle": "Check out various events of Seoul Viosys.",
+      "modal": {
+        "title1": "Copy URL",
+        "title2": "Learn more"
+      }
+    },
+    "insight": {
+      "title": "Blog of Light",
+      "subTitle": "The more you know, the more interesting it is, the science of light",
+      "series": "Light Series"
+    },
+    "banner": {
+      "title": "Contact Us",
+      "desc": "Please feel free to ask us any questions you may have.",
+      "buttonText": "Ask"
+    }
+  },
+  "technology": {
+    "wicop": {
+      "catalogue": {
+        "whatIs": "WHAT IS WICOP?",
+        "characteristic": "Characteristics",
+        "applicationField": "Application areas"
+      },
+      "introduction": "WICOP (Wafer Integrated Chip on PCB) is a technology that involves mounting the chip directly onto the substrate without using wires or packages. \nThis method eliminates the traditional packaging steps, allowing for a slimmer design",
+      "introductionMobile": "WICOP (Wafer Integrated Chip on PCB) is a technology that involves mounting the chip directly onto the substrate without using wires or packages. \nThis method eliminates the traditional packaging steps, allowing for a slimmer design",
+      "WICOPCharacteristic": {
+        "title": "High Light Efficiency",
+        "item": "By minimizing optical loss, it provides high light efficiency and output.",
+        "item_1": "It can achieve excellent color rendering and uniform light distribution.",
+        "title2": "High Reliability",
+        "item2": "With low thermal resistance and excellent heat dissipation, it offers high reliability.",
+        "item2_1": "It has superior resistance to thermal shock and mechanical stress.",
+        "title3": "Flexible and Slim Design and Applicability",
+        "item3": "As an ultra-thin LED mounted directly on the substrate, it allows for designs in various shapes and sizes.",
+        "item3_1": "It can be utilized in various fields such as automotive, displays, lighting, and home appliances.",
+        "title4": "Eco-friendliness",
+        "item4": "By minimizing the materials and energy used in the manufacturing process, it reduces the environmental impact."
+      },
+      "WICOPCharacteristic2": {
+        "sub_title": "WICOP",
+        "title": "Display\nTechnology Trends",
+        "title_desc": "Beyond CSP, New generation LED technology for various application design solutions"
+      },
+      "WICOPCharacteristic3": {
+        "sub_title": "WICOP mini",
+        "title": "No Wire, No Package,\nNo Lens",
+        "title_desc": "Unique tunable beam pattern technology enable the best solution for thin display"
+      }
+    },
+    "acrich": {
+      "catalogue": {
+        "whatIs": "What is Acrich?",
+        "characteristic": "Characteristics",
+        "applicationField": "Application areas",
+        "references": "Relevant data"
+      },
+      "introduction": "Acrich is a portmanteau of AC and rich, referring to AC Direct driving technology \nthat utilizes high-voltage MJT (Multi Junction Technology) LED technology and AC DOB (Driver On Board) switching technology.",
+      "characteristic2": {
+        "title": "MJT and MCT technology to realize LED high voltage",
+        "des": "Detailed technologies such as Multi Junction Technology (MJT) and Multi Chip Technology (MCT) are required to realize high voltage LED.",
+        "desMobile": "Detailed technologies such as Multi Junction Technology (MJT) and Multi Chip Technology (MCT) are required to realize high voltage LED."
+      },
+      "characteristic3": {
+        "title": "IC Switching technology to enhance efficiency",
+        "des": "IC Switching technology can be driven by AC power and can increase efficiency. It is a technology that improves reliability by developing circuits that can withstand AC power and brings the efficiency of AC Direct DOB closer to that of SMPS."
+      },
+      "applicationField": {
+        "title": "Application areas",
+        "des": "We provide a total solution including modules, engines, lenses, and heat dissipation structures."
+      },
+      "remveveDriver": "Eliminating the Driver is helpful in not only reducing the weight of the Driver, but also the weight of the entire system that mechanically protects the Driver.",
+      "driverOnBoard": "Driver On Board enables development of thinner products, which helps design flexibility of the customers.​",
+      "smallComponents": "Although SMPS requires several Components to drive the circuit, Acrich has simplified the entire circuit by Switching directly on the IC with Linear drive.​",
+      "smallComponentsMobile": "Although SMPS requires several Components to drive the circuit, Acrich has simplified the entire circuit by Switching directly on the IC with Linear drive.​",
+      "fixtureDesign": "The size is reduced by removing Driver Parts and instruments, and heat dissipation performance can be improved in accordance with Flat Design."
+    },
+    "microled": {
+      "catalogue": {
+        "whatIs": "What is WICOP Pixel?",
+        "characteristic": "Characteristics",
+        "applicationField": "Application areas"
+      },
+      "introduction": "WICOP Pixel is the world's first real RGB 1-chip​ technology for implementing a MicroLED display\n based on the WICOP technology, which uses no wires",
+      "sameColor": {
+        "title": "Same Color",
+        "des": "It maintains consistent colors without distortion from any viewing angle,\n even at 360 degrees"
+      },
+      "smallSpace": {
+        "title": "Small Space",
+        "des": "We developed Smaller LEDs were developed for expression of even smaller pixels, thereby allowing sharper contrast and more detailed color expressions."
+      },
+      "costDown": {
+        "title": "Ultra Fine pitch",
+        "des": "WICOP Pixel can achieve ultra-high resolution and exceptional image quality through its very small pixel pitch."
+      },
+      "cesInnovation": {
+        "title": "CES Innovation Award Product",
+        "titleMobile": "CES Innovation\nAward Product",
+        "des": "Experience WICOP Pixel, MicroLED winner at CES awards",
+        "desMobile": "Experience WICOP Pixel,\nMicroLED winner at\nCES awards",
+        "type": "Honoree",
+        "cont": "Video Displays",
+        "item": "Real One Pixel MicroLED that composed with R/G/B layred stack structure"
+      }
+    },
+    "uv": {
+      "catalogue": {
+        "whatIs": "What is Violeds?",
+        "characteristic": "Characteristics",
+        "applicationField": "Application areas"
+      },
+      "introduction": "UV ray is a light energy with a shorter wavelength (200-400 nm) than visible light. As it is situated in the violet color domain of visible light, it is referred to as ultraviolet (UV) ray and is classified into 3 categories, namely, UVC, UVB and UVA according to its wavelength range.\nThis is clean and advanced UV LED technology that can be utilized for disinfection, purification and deodorization of water, air and surfaces.",
+      "introductionMobile": "UV ray is a light energy with a shorter wavelength (200-400 nm) than visible light. As it is situated in the violet color domain of visible light, it is referred to as ultraviolet (UV) ray and is classified into 3 categories, namely, UVC, UVB and UVA according to its wavelength range.",
+      "characteristic1": {
+        "title": "Energy Efficiency",
+        "des": "UV LED is significantly more energy efficient than the existing mercury lamps and provides the same, if not higher, UV output.",
+        "des2": "UV LED converts electrical energy into UV at a higher efficiency than mercury lamps, while mercury lamps generate heat energy in addition to UV, which results in energy losses. UV LED also emits UV light immediately when electric energy is supplied, thereby eliminating the need for warm-up or cooling time, which not only saves operating costs but also reduces carbon emissions due to energy savings in the process of UV uses.",
+        "desMobile": "UV LED is significantly more energy efficient than the existing mercury lamps and provides the same, if not higher, UV output.\n\nUV LED converts electrical energy into UV at a higher efficiency than mercury lamps, while mercury lamps generate heat energy in addition to UV, which results in energy losses. UV LED also emits UV light immediately when electric energy is supplied, thereby eliminating the need for warm-up or cooling time, which not only saves operating costs but also reduces carbon emissions due to energy savings in the process of UV uses."
+      },
+      "characteristic2": {
+        "title": "Long Lifetime",
+        "des": "UV LED can be used for prolonged period of time of more than 20,000 hours.\nIn contrast, mercury lamps have a limited lifespan and need to be replaced regularly, which signifies the need for temporary discontinuation of the production process."
+      },
+      "characteristic3": {
+        "title": "Reduced heat generation and improved operational safety",
+        "des": "UV LEDs generate less heat than mercury lamps, reducing the risk of heat damage to produced products and increasing productivity.\nThey create a safer and more efficient working environment, preventing the risk of burns for workers"
+      },
+      "applicationField": {
+        "title": "Application areas",
+        "des": "UV LEDs are being applied in various fields, from household appliances to automotive and industrial equipment."
+      }
+    },
+    "sunLike": {
+      "catalogue": {
+        "whatIs": "What is SunLike?",
+        "characteristic": "Characteristics",
+        "applicationField": "Application areas"
+      },
+      "sunlight": {
+        "introduction": "The most comfortable light and beneficial light is the light from the nature.\nThe world is now focusing on human centric lighting that mimics the natural light.​",
+        "relationship": "Since the creation of the earth 4.5 billion years ago, humans have evolved along with sunlight.",
+        "relationshipMobile": "Since the creation of the earth 4.5 billion years ago, humans have evolved along with sunlight.",
+        "des1": "As such, our DNA has evolved to be active during the day while the sun is shining and sleep in the dark at night after the sunset on a 24-hour day cycle. Under the sunlight, We release “serotonin” to feel energized under the sunlight during the day and “melatonin” to help us sleep soundly during the dark night. In fact, when more serotonin hormone is released by sunlight during the day, more melatonin secretion is activated during night, thereby making the 'sunlight' an essential component for generation of healthy biorhythm.",
+        "des2": "We spend more time under artificial light than we do in the natural light of the sun. For a healthy life, it's important to make good choices about the light we use throughout our daily live. The most comfortable and beneficial light for humans is the light that comes from nature. As such, the world is now focusing on human centric lighting that mimics natural light.",
+        "solutions": "Human-Centric Lighting\nHuman-centric lighting is a lighting technology that mimics natural light to stabilize human biorhythms and promote comfort, health and well-being, and is a new concept that emerged in the professional lighting industry."
+      },
+      "introduction": "SunLike reproduces a light spectrum that most closely resembles that of the natural light to provide light that is beneficial to humans.​",
+      "subIntroduction": "Prolonged exposure to general lighting with excessive blue light increases the level of eye and body fatigue, and disrupts biorhythm.\nSunLike reduces excessive blue light wavelengths and reproduces the natural light spectrum to the level that is same as that of the natural light.",
+      "feature1": {
+        "label": "Better Eye",
+        "title": "Prevent myopia",
+        "des": "Effective on the health of eyes for growing children and well as reduction of eye fatigue level."
+      },
+      "feature2": {
+        "label": "Better Sleep",
+        "title": "Sound sleep effect",
+        "des": "Enables comfortable rest and assists with sound sleep."
+      },
+      "feature3": {
+        "label": "Better Study",
+        "title": "Improve learning capability",
+        "des": "Increases the level of alertness and learning effect during the daytime."
+      },
+      "feature4": {
+        "label": "Comfortable Ambient",
+        "title": "Create a comfortable environment",
+        "des": "SunLike establishes a comfortable environment in any space by providing light that mimics the natural light."
+      },
+      "feature5": {
+        "label": "Natural Color",
+        "title": "Accurate color rendition",
+        "des": "Enables accurate representation the innate true colors of objects"
+      },
+      "feature6": {
+        "label": "Best Eye Safety",
+        "title": "Certified as safe lighting",
+        "des": "We have won 10 Global Innovation Technology Awards in 5 countries."
+      },
+      "effect1": {
+        "type": "Effect 01",
+        "label": "Better Eye",
+        "title": "Effective on the health of eyes for growing children and well as reduction of eye fatigue level.",
+        "des": "Do you think myopia is hereditary?\nAs the result of a survey conducted in 4 Asian countries, it was found that the rate of myopia in children has quadrupled in the last 50 years. In particular, Korea has the highest rate of manifestation of myopia in children in the world at 97%.\nAs we spend more time indoors and less time outdoors, use smartphones increasingly more along with greater study loads, the risk of developing myopia is increasing.",
+        "item1": {
+          "label": "Reduce eye fatigue",
+          "title": "By 4.3 times",
+          "des": "Eye fatigue is reduced\nwhen using natural light spectrum LED SunLike lighting.",
+          "note": ""
+        },
+        "item2": {
+          "label": "Improvement in eye comfort",
+          "title": "By 1.2 times",
+          "des": "Eye comfort is improved\nwhen using natural light spectrum LED SunLike lighting.",
+          "note": ""
+        },
+        "item3": {
+          "label": "Progression of myopia",
+          "title": "Slower myopia",
+          "des": "Experiment results that illustrated that natural spectrum LED SunLike lighting slows down the progression of myopia have been confirmed.",
+          "note": "* Results from experiments on chicks "
+        },
+        "item4": {
+          "label": "Improvement of myopia",
+          "title": "Myopia improvement",
+          "des": "Experiment results that illustrated that natural spectrum LED SunLike lighting improves myopia have been confirmed.",
+          "note": "* Results from experiments on chicks "
+        },
+        "popup": {
+          "item1": {
+            "highlight": "",
+            "title": "The Increasing Incidence of Myopia and Its Causes",
+            "des": "Excessive exposure to artificial lighting with strong blue light can destabilize the secretion of dopamine from the retina, leading to excessive eye growth and an increased risk of myopia, as the distance between the lens and the retina becomes greater. Natural light helps stabilize the dopamine rhythm in the eyes and inhibits excessive eye growth, thereby contributing to the prevention of myopia."
+          },
+          "item2": {
+            "highlight": "[Singapore Eye Research Institute (SERI)] Study on the Relationship Between Lighting and Myopia",
+            "title": "Progression of Myopia and Myopia Improvement",
+            "des": "",
+            "detail2": {
+              "title": "When using SunLike,",
+              "des": "the progression of myopia slows down, the thickness of the choroid (the middle layer of the eye) increases, and the correction of ametropia (normal vision) occurs more rapidly. This indicates that SunLike lighting replicates a spectrum similar to natural light, playing a positive role for the eyes akin to natural sunlight, which helps to slow down the progression of myopia and aids in its recovery.",
+              "brand": {
+                "title": "Singapore Eye Research Institute, Study on the Effects of SunLike as a Countermeasure for Myopia (2020)",
+                "des": "Chicks, one of the animals with a structure most similar to that of humans' eyes, were subjected to a study where one eye was covered for two weeks to induce myopia. They were then exposed to fluorescent lighting and SunLike lighting for an additional two weeks to compare the myopia recovery effects. This study aimed to evaluate the impact of SunLike LEDs on eye growth and the development of myopia."
+              }
+            }
+          },
+          "item3": {
+            "highlight": "[University of Basel, Switzerland] Experiment on Eye Comfort Levels Based on Lighting",
+            "title": "Proven to be 1.2 times better quality of light.",
+            "des": "",
+            "detail2": {
+              "title": "Measurement of Light Comfort Index",
+              "des": "In an experiment measuring the ‘Light Comfort Index,‘ which combines ‘brightness level‘ and ‘color temperature,‘ SunLike lighting has been proven to provide light quality more than 1.2 times better than conventional lighting.",
+              "brand": {
+                "title": "University of Basel, Study on the Effects of Natural Light LED on Eye Comfort, Melatonin, Mood, Alertness Performance, and Sleep, 2019",
+                "des": "The study was conducted on 15 participants aged 19 to 35 with normal eye conditions and no glasses, over a period of 2-3 weeks, focusing on experiments related to eye comfort, melatonin levels, mood, alertness performance, and brain wave activity during sleep."
+              }
+            }
+          },
+          "item4": {
+            "highlight": "[Seoul National University College of Medicine] Experiment on the Relationship Between Lighting and Eye Fatigue",
+            "title": "Eye fatigue reduced by 4.3 times.",
+            "des": "",
+            "detail2": {
+              "title": "Experiment Between SunLike Users and Conventional Lighting Users",
+              "des": "In experiments regarding eye fatigue, blurred vision, and light sensitivity, SunLike users showed a reduction in eye fatigue of over 4.3 times compared to users of conventional lighting.",
+              "brand": {
+                "title": "Seoul National University College of Medicine, Study on the Effects of Natural Light LED on Nighttime Sleep and Eye Discomfort, 2018",
+                "des": "The study involved 34 participants aged 20 to 49, divided into two groups of 17, using conventional lighting and SunLike lighting. Experiments were conducted on eye fatigue, blurred vision, light sensitivity, speed of falling asleep, speed of waking up in the morning, heart rate measured through electrocardiograms during sleep, and the activation of the sympathetic and parasympathetic nervous systems."
+              }
+            }
+          }
+        }
+      },
+      "effect2": {
+        "type": "Effect 02",
+        "label": "Better Sleep",
+        "title": "Enables comfortable rest and assists with sound sleep.",
+        "des": " SunLike, a technology that reproduced the natural light spectrum, activates serotonin secretion during the day to maintain your state of alertness and melatonin secretion at night to help you sleep more soundly.\nIt is possible to anticipate a wide range of benefits including improved ability to focus and attentiveness through sound sleep, and enhancement of immune function, which is activated while you sleep, etc.",
+        "item1": {
+          "label": "Reduce waking time",
+          "title": "By 23%",
+          "des": "It is easier to fall asleep\nwhen natural light spectrum LED SunLike lighting is use",
+          "note": ""
+        },
+        "item2": {
+          "label": "Increase sleep quality",
+          "title": "By 1.3 folds",
+          "des": "More sound sleep is possible\nwhen natural light spectrum LED SunLike lighting is used.",
+          "note": ""
+        },
+        "popup": {
+          "item1": {
+            "highlight": "[College of Medicine of Seoul National University] Experiment on the level of soundness of the sleep",
+            "title": "Time taken to fall asleep reduced by 23% and sleep quality improved by 1.3 folds",
+            "des": "",
+            "detail2": {
+              "title": "Improvement of Sleep Rhythm",
+              "des": "Through the measurement of various parameters that express sleep quality, it was found that the use of SunLike lighting improves the sleep quality by 1.3 folds and reduces the time taken to fall asleep by 23% in comparison to ordinary lighting.",
+              "brand": {
+                "title": "College of Medicine of Seoul National University, Study on the effects of the use of natural light LED on nighttime sleep and eye discomfort, 2018",
+                "des": "Experiment on the eye fatigue, blurred vision, light sensitivity, speed of falling asleep, speed of waking up in the morning, heart rate measured through electrocardiogram (ECG) during sleep, and the level of activation of the sympathetic and parasympathetic nerve systems conducted on 34 subjects aged 20 ~ 49 years old with 17 subjects each instructed to use ordinary lighting and SunLike lighting."
+              }
+            }
+          },
+          "item2": {
+            "highlight": "[University of Basel, Switzerland] Experiment on the level of soundness of the sleep",
+            "title": "Deeper sound sleep",
+            "des": "",
+            "detail2": {
+              "title": "Delta Brain Wave Changes During Sleep Duration",
+              "des": "Through the measurement of delta brain waves generated during sleep, which occur when one falls into deep sleep, it was found that delta brain waves generated are more extensive when SunLike lighting is used than with ordinary lighting is used, thereby leading to deeper sleep.",
+              "brand": {
+                "title": "University of Basel, Study on the effects of natural daylight LED on eye comfort, melatonin, mood, alert performances and sleep, 2019",
+                "des": " Experiment was conducted on eye comfort / melatonin levels / mood / alert performances / extent of brainwaves during sleep over 2~3 weeks on 15 subjects aged 19~35 years who sleep normally and have normal eye conditions."
+              }
+            }
+          }
+        }
+      },
+      "effect3": {
+        "type": "Effect 03",
+        "label": "Better Study",
+        "title": "Increases the level of alertness and learning effect during the daytime.",
+        "des": "Under the sunlight during the daytime activates the release of serotonin, a hormone that energizes the body and makes one feels better. Such action of sunlight has the effect of increasing the body metabolic rate and speeding up brain activity.\nWhen using SunLike, a light similar to the natural sunlight, students can feel energizing of their bodies and can expect to improve their learning efficiency by increasing their learning speed and accuracy due its effect on enhancing alertness.",
+        "desMobile": "Under the sunlight during the daytime activates the release of serotonin, a hormone that energizes the body and makes one feels better. Such action of sunlight has the effect of increasing the body metabolic rate and speeding up brain activity.\nWhen using SunLike, a light similar to the natural sunlight, students can feel energizing of their bodies and can expect to improve their learning efficiency by increasing their learning speed and accuracy due its effect on enhancing alertness.",
+        "item1": {
+          "label": "Accuracy in problem-solving",
+          "title": "Increased by 5%",
+          "des": "When using natural light spectrum LED SunLike lighting, it was confirmed that the rate of correct answer improved by 5%.",
+          "note": ""
+        },
+        "item2": {
+          "label": "Increase in learning speed",
+          "title": "By 3.2 folds",
+          "des": "It was confirmed that the learning speed increased by 3.2 folds when using natural light spectrum LED SunLike lighting.",
+          "note": ""
+        },
+        "item3": {
+          "label": "Speed of waking up in the morning improved",
+          "title": "By 1.8 folds",
+          "des": "When using natural light spectrum LED SunLike lighting, the effect of increasing the speed of waking up in the morning by 1.8 folds was confirmed.",
+          "note": "* Results from experiments on chicks "
+        },
+        "item4": {
+          "label": "Level of alertness during daytime",
+          "title": "High",
+          "des": "Results of experiment that illustrated that the level of daytime alertness is also higher when using natural light spectrum LED SunLike lighting were confirmed.",
+          "note": "* Results from experiments on chicks "
+        },
+        "popup": {
+          "item1": {
+            "highlight": "[Harvard Medical School, USA] Experiment on Cognitive Performance with SunLike Lighting",
+            "title": "Accuracy in problem-solving improved by 5%, and speed of problem-solving increased by 3.2 times.",
+            "des": "",
+            "detail2": {
+              "title": "Cognitive Performance Experiment",
+              "des": "In a cognitive performance experiment conducted at Harvard Medical School with 39 participants, high-intensity 5,000K lighting showed superior results in problem-solving accuracy. Notably, SunLike 5,000K lighting demonstrated the highest performance, with a 5% increase in accuracy compared to conventional lighting. In the problem-solving speed experiment, SunLike also yielded impressive results, with SunLike 5,000K lighting achieving a 3.2 times increase in problem-solving speed compared to traditional lighting.",
+              "brand": {
+                "title": "Study on Cognitive Performance Due to Weekly Exposure to Short-Wavelength Lighting at Harvard Medical School, Brigham Women's Hospital, and Beth Israel Medical Center, 2021",
+                "des": "The study involved 39 college students (18 males and 21 females) who were tested under general lighting at 3,000K and 5,000K, as well as SunLike lighting at 3,000K and 5,000K. The experiments assessed problem-solving accuracy, speed, and error response rates."
+              }
+            }
+          },
+          "item2": {
+            "highlight": "[Seoul National University College of Medicine] Morning Alertness Experiment",
+            "title": "Time to fall asleep improved by 1.3 times, and time to wake up improved by 1.8 times.",
+            "des": "",
+            "detail2": {
+              "title": "Improvement of Sleep Rhythm",
+              "des": "After calculating various parameters such as heart rate through electrocardiograms and the activation of the sympathetic and parasympathetic nervous systems during sleep, it was found that using SunLike lighting resulted in a 1.3 times faster rate of falling asleep at night and a 1.8 times faster rate of waking up in the morning.",
+              "brand": {
+                "title": "Seoul National University College of Medicine, Study on the Effects of Natural Light LED on Nighttime Sleep and Eye Discomfort, 2018",
+                "des": "The study involved 34 participants aged 20 to 49, divided into two groups of 17, using conventional lighting and SunLike lighting. Experiments were conducted on eye fatigue, blurred vision, light sensitivity, speed of falling asleep, speed of waking up in the morning, heart rate measured through electrocardiograms during sleep, and the activation of the sympathetic and parasympathetic nervous systems."
+              }
+            }
+          },
+          "item3": {
+            "highlight": "[University of Basel, Switzerland] Daytime Alertness Experiment",
+            "title": "High levels of daytime alertness.",
+            "des": "",
+            "detail2": {
+              "title": "Improvement of Attention",
+              "des": "According to measurements from the Karolinska Sleepiness Scale, the use of SunLike lighting resulted in significantly lower sleepiness levels compared to conventional lighting, showing higher alertness during the daytime from 11 AM to 7 PM.",
+              "brand": {
+                "title": "University of Basel, Study on the Effects of Natural Light LED on Eye Comfort, Melatonin, Mood, Alertness Performance, and Sleep, 2019",
+                "des": "The study involved 15 participants aged 19 to 35 with normal eye conditions and no glasses, who underwent experiments over 2-3 weeks assessing eye comfort, melatonin levels, mood, alertness performance, and brain wave activity during sleep."
+              }
+            }
+          }
+        }
+      },
+      "effect5": {
+        "type": "Effect 04",
+        "label": "Comfortable\nAmbient",
+        "title": "SunLike establishes a comfortable environment in any space by providing light that mimics the natural light.",
+        "des": "When it is used living rooms, children's rooms, inside the car, reading rooms, skincare centers, co-shared offices and other types of offices, etc., it is possible to establish environment that is comfortable in overall by lowering the eye fatigue and enabling return to one’s natural biorhythm by ensuring that there is no excessive glare."
+      },
+      "effect6": {
+        "type": "Effect 05",
+        "label": "Natural Color",
+        "title": "Enables accurate representation the innate true colors of objects",
+        "des": "Unlike viewing objects under the sunlight, ordinary indoor LED lighting causes the colors to appear distorted due to diffuse reflection arising from the effects of the blue light.\nSunLike enables reproduction of the color rendering index (CRI), which indicates the feel of the colors one sees, to a CRI-97 level that is almost identical to sunlight (CRI 100), allowing one to see the innate true colors even under artificial lighting.\n\nIn addition, blue light, a specific wavelength band, has been reduced to that of the sunlight to not only help one to see texts more clearly, but also reduces glare and fatigue on the eyes.",
+        "desMobile": "Unlike viewing objects under the sunlight, ordinary indoor LED lighting causes the colors to appear distorted due to diffuse reflection arising from the effects of the blue light.\nSunLike enables reproduction of the color rendering index (CRI), which indicates the feel of the colors one sees, to a CRI-97 level that is almost identical to sunlight (CRI 100), allowing one to see the innate true colors even under artificial lighting.\nIn addition, blue light, a specific wavelength band, has been reduced to that of the sunlight to not only help one to see texts more clearly, but also reduces glare and fatigue on the eyes.",
+        "item1": {
+          "label": "High color rendering natural light",
+          "title": "CRI 97",
+          "des": "97% accurate color reproduction that offers comfort to the eyes.",
+          "note": "* Sun CRI100"
+        },
+        "item2": {
+          "label": "Product Certification",
+          "title": "UL",
+          "des": "Selected as the highest diamond rating in the UL color rendering rating.",
+          "note": ""
+        },
+        "popup": {
+          "item1": {
+            "highlight": "",
+            "title": "Color Reproduction of SunLike",
+            "des": "SunLike has been evaluated as a high-quality light that closely resembles natural light in the UL Color Fidelity Rating, achieving the top rating of Diamond."
+          },
+          "item2": {
+            "highlight": "",
+            "title": "Color Reproduction of SunLike",
+            "des": "SunLike has been evaluated as a high-quality light that closely resembles natural light in the UL Color Fidelity Rating, achieving the top rating of Diamond.",
+            "detail2": {
+              "title": "UL Certification",
+              "des": "The UL mark is a global certification mark granted to products that have passed safety and performance testing and evaluation. SunLike achieved a Color Rendering Index (CRI) of 97, closely resembling natural light (100), during UL's performance assessment. Notably, in the color fidelity category, which evaluates similarity to natural light, SunLike met the requirement of Rf 95 or higher, making it the first LED light source to be registered with the Diamond rating in the industry. SunLike's unique technology that reproduces the same spectrum as natural light sets a standard for the quality of light.",
+              "note1": {
+                "label": "* Color Rendering Index (CRI) :",
+                "des": "A measure that indicates how well light represents the original colors of objects, expressed on a scale from 0 to 100."
+              },
+              "note2": {
+                "label": "* UL Evaluation Criteria :",
+                "des": "Diamond: Rf ≥ 95/ Platinum Rf ≥ 90, Rf, h1 ≥ 90/ Gold: Rf ≥ 85, Rf, h1 ≥ 85"
+              },
+              "note3": {
+                "label": "* Rf :",
+                "des": "A measure that indicates how faithfully light compares to sunlight, expressed on a scale from 0 to 100."
+              }
+            }
+          }
+        }
+      },
+      "effect7": {
+        "type": "Effect 06",
+        "label": "Best Eye Safety",
+        "title": "Winner of 10 World Innovation Technology Awards in five countries, including the German Innovation Award, Lux Technology Award and the Korean Presidential Award ",
+        "titleMobile": "Winner of 10 World Innovation Technology Awards in five countries, including the German Innovation Award, Lux Technology Award and the Korean Presidential Award ",
+        "des": "With the first sun-like spectrum LED technology in the world, it has won numerous global awards granted exclusively for innovative technologies."
+      },
+      "lightingComposition": {
+        "label": "It is essential to check the lighting compositions.",
+        "desStart": "Confirm the \n",
+        "desHighlight": "SunLike mark",
+        "desEnd": ", a\ntechnology developed\nindependently by Seoul\nViosys."
+      },
+      "application": {
+        "title": "Application areas",
+        "des": "SunLike can be utilized in all forms of lighting ranging from free-standing lights to lightings in residential, hospital, school and museum, etc."
+      },
+      "automotiveLighting": {
+        "title": "Automotive lighting",
+        "des": "Automotive lighting",
+        "detail": {
+          "label": "Automotive lighting",
+          "title": "It is possible to create the most comfortable car interior with lighting.\nFor your sound sleep after driving and for your family in the back seat.",
+          "titleMobile": "It is possible to create the most comfortable car interior with lighting. For your sound sleep after driving and for your family in the back seat.",
+          "des": " Premium cars develop and apply various technologies to establish comfortable and cozy interior environment.\nThat is why SunLike has recently been applied to premium cars. Drivers can sleep soundly after using SunLike,\nwhile the backseat passengers can feel more comfortable. Most importantly, the natural color of the leather seats\ncan be brought out more clearly, enhancing the full illustration of the luxuriousness of the interior."
+        }
+      },
+      "indoorLighting": {
+        "title": "Indoor lighting",
+        "des": "Indoor lighting",
+        "detail": {
+          "label": "Indoor lighting in schools\nand study facilities",
+          "title": "Prevention of myopia, improvement of learning and inducing\ncomfortable biorhythms. SunLike is an essential item for students in all locations.",
+          "des": " Prevention of myopia, improvement of learning and inducing comfortable biorhythms.\nSunLike is an essential item for students in all locations."
+        }
+      },
+      "officeLighting": {
+        "title": "Hospital or office lighting",
+        "des": "Hospital or office lighting",
+        "detail": {
+          "label": "Hospital or office lighting",
+          "title": "SunLike stabilizes biorhythm for the competitiveness of our hospital and\nincreases work efficiency for the competitiveness of our office!",
+          "des": "SunLike is perfect for the treatment wards and patient wards in hospitals since it stabilizes biorhythm and even assists with psychological stability.\nIn addition, since the effectiveness of SunLike in improving problem-solving speed and accuracy has been certified,\ninstalling it in your office can lead to expectation for increased work efficiency."
+        }
+      },
+      "horticulturalLighting": {
+        "title": "Plant cultivation lightings",
+        "des": "Horticultural lighting",
+        "detail": {
+          "label": "Horticultural lighting",
+          "title": "Changes in Plant Cultivation Lighting",
+          "des": "Plants grown under existing red and blue light combinations quickly wilt even from minor injuries and lack texture and nutrients. However, plants grown under SunLike, which replicates natural light, have excellent weight, taste, and texture, and are rich in nutrients, similar to naturally cultivated plants. Therefore, SunLike is used in plant cultivation farms worldwide, including the French National Research Institute.",
+          "lightingForPlant": "Changes in lighting for growing plants"
+        }
+      },
+      "lightingForExhibitions": {
+        "title": "Exhibition lightings",
+        "des": "Lighting for exhibitions",
+        "detail": {
+          "label": "Lighting for exhibitions\nin art museums",
+          "title": "There are separate types of lightings to be used when restoring art.\nSunLike lighting has excellent color reproduction capability, thereby\nenabling you to select the most accurate colors.",
+          "titleMobile": "There are separate types of lightings to be used when restoring art. SunLike lighting has excellent color reproduction capability, thereby enabling you to select the most accurate colors.",
+          "des": "SunLike reproduces the sun's light spectrum to illustrate the colors of objects as they actually are, and its high contrast ratio creates a sense of three-dimensionality to show the colors of an artwork exactly as you would see them under the sunlight.\nThe Grevin Museum Paris, a French wax museum, chose SunLike due to its ability to illustrate the texture of costumes and natural skin expressions, which is difficult to achieve with ordinary lighting.\nIn addition, SunLike has been applied in large museums in the world including illumination of wall murals in Pompeii, Italy and the Royal Palace Art Museum in Milan, etc.",
+          "item1": {
+            "title": "Illuminating the wall murals of Pompeii, Italy",
+            "des1": "SunLike lighting",
+            "des2": "Ordinary lighting"
+          },
+          "item2": {
+            "title": "Royal Family Art Museum, Milan",
+            "des1": "SunLike lighting",
+            "des2": "Ordinary lighting"
+          }
+        }
+      },
+      "retailLighting": {
+        "title": "Retail shop lighting",
+        "des": "Retail lighting",
+        "detail": {
+          "label": "Retail lighting",
+          "title": "When displaying products in the retail shops, the most fundamental\nimportance is to enable accurate and vivid colors of the product to be illustrated!",
+          "titleMobile": "When displaying products in the retail shops, the most fundamental importance is to enable accurate and vivid colors of the product to be illustrated!",
+          "des": " SunLike with its low light reflection and high color rendering index for illustration of natural colors will enable you to display your products the most vividly without distorting colors.\nInstall it in shops such as in grocery stores, clothing/accessory stores, butcher shops, furniture stores, shoe/bag stores, accessories stores, etc. where color illustration is highly important.",
+          "item1": {
+            "title": "General LED lighting",
+            "des": "Lowering the irregular reflection of light can reduce eye fatigue through enhancing of the contrast and sharpness of the image.",
+            "reflection": "High diffuse reflection",
+            "contrast": "Lower contrast"
+          },
+          "item2": {
+            "title": "SunLike",
+            "des": "Lowering the irregular reflection of light can reduce eye fatigue through enhancing of the contrast and sharpness of the image.",
+            "reflection": "Low diffuse reflection",
+            "contrast": "Higher contrast"
+          }
+        }
+      },
+      "residentialLighting": {
+        "title": "Residential lighting",
+        "des": "Residential lighting",
+        "detail": {
+          "label": "Residential lighting",
+          "title": "For better eye health and a better sound sleep for\neveryone in your family, choose SunLike.",
+          "des": "It's being applied to an extensive range of residential lighting including ceiling-type lightings in living and other rooms,\nsensorized lighting in entry, bathroom lightings and highlight lightings, etc.\nFor better eye health of your family, make purchase after having confirmed the SunLike mark."
+        }
+      },
+      "deskLamp": {
+        "title": " Stand lighting for students",
+        "des": "Desk lamp",
+        "detail": {
+          "label": "Desk lamp",
+          "title": "Since SunLike has been proven for its effects on prevention of myopia\nand improvement of learning effects, use it as a stand on your child's desk.",
+          "des": " SunLike, which has been proven for its effects on prevention of myopia and improvement of learning effects,\nis applied to various designs through partnership with globally renowned lighting companies.\nPlease make purchase after having confirmed the SunLike mark."
+        }
+      },
+      "inspectionLighting": {
+        "title": "Inspection Lighting",
+        "des": "inspection Lighting"
+      }
+    }
+  },
+  "application": {
+    "catalogue": {
+      "characteristic": "Features",
+      "applicationField": "Applications",
+      "Specification": "Fuction"
+    },
+    "homeAppliance": {
+      "character": {
+        "desc": "UV 'Violeds', a distinguished proprietary technology in UV LED, only utilizes light without any use of harmful chemicals to design optimal wavelength, angle, distance, time and luminosity and provide solutions to a variety of industrial fields for sterilization and disinfection (UVC), skin regeneration (UVB), air and water purification, insect attraction and promotion of plant growth. \nWith eco-friendly, low-power and ozone-free advantages, it is a market expected to quickly replace the existing mercury lamp market by addressing its weaknesses.",
+        "mainCharacter": {
+          "title": "Major characteristics",
+          "chara01": "Possible to produce and supply in whole UV wavelength regions (255-405nm)",
+          "chara02": "Zero harmful chemicals",
+          "chara03": "Long life helping to save replacement costs",
+          "chara04": "Low power consumption",
+          "chara05": "Flexibility in the device design"
+        },
+        "curing": {
+          "title": "Consecutive dominant market share experience",
+          "desc": "From UV chip to customized MD solutionm,10 years R&D and MP in curing application"
+        },
+        "water": {
+          "title": "Proven experience by Global HA companies",
+          "desc": "Customized solution for all purifier types. \nUS certified proprietary technology (SETi)"
+        },
+        "airsurface": {
+          "title": "Clinically proven, US-certified purification",
+          "desc": "In-house R&D test lab capability. Used & qualified for use in automotive console boxes."
+        }
+      },
+      "specification": {
+        "disinfection": {
+          "title": "Disinfection",
+          "bannerDesc": "It is a disinfection solution that eliminates unwanted germs to prevent infection and maintain healthy lives.",
+          "contTitle": "99.99% Disinfection of COVID-19 Omicron Variant",
+          "contDesc": "Disinfection not only Coronavirus but also Omicron 99.99%",
+          "contTable": {
+            "thead": "Test Data for Surface Disinfection",
+            "tbodyRow1Th": "Type of Virus",
+            "tbodyRow1Td1": "COVID-19",
+            "tbodyRow1Td2": "COVID-19",
+            "tbodyRow1Td3": "COVID-19 Delta",
+            "tbodyRow1Td4": "COVID-19 Omicron",
+            "tbodyRow2Th": "Result",
+            "tbodyRow3Th": "Test Lab",
+            "tbodyRow3Td1": "Korea University",
+            "tbodyRow3Td2": "KR Biotech",
+            "tbodyRow3Td3": "KR Biotech",
+            "tbodyRow3Td4": "KR Biotech",
+            "tbodyRow4Th": "Test date",
+            "tbodyRow4Td1": "Apr, 2020",
+            "tbodyRow4Td2": "Dec, 2020",
+            "tbodyRow4Td3": "Sep, 2021",
+            "tbodyRow4Td4": "Apr, 2022",
+            "tbodyRow5Th": "Meaning",
+            "tbodyRow5Td1": "Disinfection effect of\n Corona Virus in 30 sec.",
+            "tbodyRow5Td2": "Disinfection effect of\n Corona Virus in 1 sec.",
+            "tbodyRow5Td3": "Disinfection effect of\n Delta Variant.",
+            "tbodyRow5Td4": "Also, disinfection effect of\n Omicron Variant."
+          },
+          "contApp": {
+            "appBidet": "Bidet",
+            "appCuttingBoard": "Cutting boards",
+            "appAirPurifier": "Air Purifiers",
+            "appWaterPurifier": "Water Purifiers",
+            "appHumidifier": "Humidifiers",
+            "appIceMaker": "Ice makers"
+          }
+        },
+        "deodorization": {
+          "title": "Deodorization",
+          "bannerDesc": "It is a deodorization solution that eliminates unwanted odors to maintain a clean and pleasant environment.",
+          "contTitle": "Excellent elimination of foul odors, cigarette smoke and VOCs",
+          "contDesc": "It eliminates foul odors, cigarette smoke and VOCs* to provide a pleasant and healthy environment.",
+          "contDesc2": "* VOCs: Short for Volatile Organic Compounds, referring to substances that have adverse effects on health such as sick house syndrome and respiratory diseases",
+          "contApp": {
+            "appAirPurifier": "Air Purifiers",
+            "appAirPurifierSystem": "Air Purifying systems",
+            "appAutomobileHVAC": "Automobile HVACs",
+            "appRefrigerator": "Refrigerators",
+            "appAirConditioning": "Air Conditioners"
+          }
+        },
+        "insectTrap": {
+          "title": "Insect Attraction",
+          "bannerDesc": "It is an insect attraction solution that lures and eliminates flying pests such as mosquitoes and flies and other unwanted insects.",
+          "contTitle": "Up to 13 times greater mosquito attraction performance",
+          "contDesc": "It demonstrates up to 13 times greater performance than existing mercury lamps in attracting and catching yellow fever mosquitoes, the source of ZIKA virus infection.",
+          "contDesc2": "(according to results of experiments conducted by U.S. Florida State University's insect research lab)",
+          "contApp": {
+            "appCont1": "Standard",
+            "appCont2": "Outdoor(2,000㎡, Water resistance)",
+            "appCont3": "Portable",
+            "appCont4": "Home(Deodorizing)",
+            "appCont5": "Outdoor(4,000㎡, Water resistance)"
+          }
+        },
+        "curing": {
+          "title": "Curing",
+          "bannerDesc": "It is a solution that transforms a liquid or semi-solid substance such as ink or an adhesive, into the solid state.",
+          "contTitle": "Possible to produce and supply in whole UV wavelength regions \n(255-405nm)",
+          "contDesc": "Possible to provide chips, packages and modules suitable for UV wavelengths optimized for various curing materials and devices",
+          "contApp": {
+            "appPrinting": "Printing",
+            "appAdhesive": "Adhesive",
+            "appExposure": "Exposure",
+            "appNailCuring": "NailCuring"
+          }
+        }
+      }
+    },
+    "microDisplay": {
+      "character": {
+        "desc": "We possess technological superiority based on 'WICOP Pixel', the world's first-ever distinguished single-pixel RGB.\n We have developed the world's first-ever stack-type RGB One Chip and established a mass production system, thus leading the micro LED ecosystem.",
+        "cont": {
+          "sameColor": "It maintains consistent colors without distortion from any viewing angle, even at 360 degrees",
+          "smallSpace": "We developed Smaller LEDs were developed for expression of even smaller pixels, thereby allowing sharper contrast and more detailed color expressions.",
+          "ultraFinepitch": "WICOP Pixel can achieve ultra-high resolution and exceptional image quality through its very small pixel pitch."
+        }
+      }
+    },
+    "sensor": {
+      "character": {
+        "desc": "We offer the next-generation laser technology VCSEL solution, which supports facial recognition on smartphones and for self-driving of vehicles. With the Vertical Cavity Surface Emitting Laser, which emits beam light vertically from a manufactured wafer surface, we introduce products that will lead future markets in 3D sensing, AI data centers and other communications markets with great potential."
+      },
+      "applications": {
+        "sensor6G": "Data transmission sensor for 6G communication",
+        "sensor3D": "3D face recognition sensor"
+      }
+    }
+  },
+  "pageNotFound": {
+    "title": "Page not found.",
+    "title2": "The page you requested does not exist.",
+    "homeButton": "Go to main",
+    "link": "/en"
+  },
+  "gnbBanner": {
+    "uvled": {
+      "title": "Go to UV LED products",
+      "text": "Check out Seoul Viosys' UV LED products and technologies."
+    },
+    "microled": {
+      "title": "Go to Micro LED products",
+      "text": "Check out Seoul Viosys' Micro LED products and technologies."
+    },
+    "download": {
+      "title": "Download",
+      "text": "Check out the documents of Seoul Viosys' products."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "text": "Please feel free to ask if you have specific information you are looking for."
+    }
+  }
+}

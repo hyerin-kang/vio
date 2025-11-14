@@ -1,0 +1,1679 @@
+{
+  "locale": "vn",
+  "seo": {
+    "title": "Seoul Viosys",
+    "description": "UV LED, Micro LED, VCSEL LD, MicroLED Display, Violeds",
+    "keywords": "Seoul Viosys"
+  },
+  "common": {
+    "viewMore": "Xem thêm",
+    "unit": "Đơn vị",
+    "hundredMillionWon": "1M KRW",
+    "currentPrice": "Giá hiện tại",
+    "till": "Tính đến",
+    "won": "won",
+    "synthetic": "Tổng hợp",
+    "shares": "Cổ phiếu",
+    "announcementDate": "Ngày thông báo",
+    "titleCEO": "Giám đốc",
+    "CEO": "Giám đốc",
+    "CEOName": "Lee Chung-hoon",
+    "viewList": "Danh sách",
+    "prevList": "Bài trước",
+    "nextList": "Bài sau",
+    "prevNull": "Không có đoạn chuyển tiếp.",
+    "nextNull": "Không có bình luận tiếp theo.",
+    "searchPlaceholder": "Hãy nhập nội dung bạn muốn tìm kiếm",
+    "textRequired": "Trường bắt buộc.",
+    "emailValidate": "Vui lòng nhập theo định dạng email hợp lệ.",
+    "nameValidate": "Vui lòng nhập theo định dạng hợp lệ.",
+    "noResultsFound": "No results found",
+    "textValidate": "Vui lòng nhập theo định dạng hợp lệ.",
+    "viewAll": "View All",
+    "searchNodata": "Không có bài đăng đã đăng ký.",
+    "searchPlaceholder2": "Nhập từ khóa tìm kiếm.",
+    "sortNewest": "Mới nhất",
+    "sortOldest": "Cũ nhất"
+  },
+  "menu": {
+    "product": "Sản phẩm",
+    "application": "Ứng dụng",
+    "technology": "Công nghệ",
+    "support": "Hỗ trợ",
+    "company": "Công ty",
+    "ir": "IR"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "application": "Applications",
+    "company": "Company",
+    "patentsCertifications": "Patents/Certifications",
+    "certification": "Chứng nhận",
+    "patentPortfolio": "Patent Portfolio",
+    "career": "Careers",
+    "ir": "IR",
+    "support": "Support",
+    "product": "Products",
+    "media": "Media Center",
+    "technology": "Technology"
+  },
+  "main": {
+    "applications": {
+      "desc": "Tìm hiểu các ứng dụng đa dạng trong doanh nghiệp.",
+      "homeAppliance": {
+        "text": "Cung cấp nhiều giải pháp cho các ngành công nghiệp \nbao gồm khử trùng-khử khuẩn (UVC), tái tạo da (UVB) đến lọc không khí, nước và tăng trưởng thực vật."
+      },
+      "microDisplay": {
+        "text": "Dẫn đầu hệ sinh thái \nmicro LED trong việc phát triển Chip RGB One dạng xếp chồng đầu tiên trên thế giới."
+      },
+      "sensorData": {
+        "text": "Dẫn đầu về công nghệ thị trường truyền thông trung tâm dữ liệu AI, 6G \nvà cảm biến 3D với giải pháp VCSEL công nghệ laser thế hệ mới."
+      }
+    },
+    "product": {
+      "desc": "Cung cấp các sản phẩm chất lượng cao đáp ứng nhiều yêu cầu của khách hàng."
+    },
+    "newsroom": {
+      "desc": "Tin tức mới nhất từ công ty đèn LED hàng đầu thế giới Seoul Viosys."
+    },
+    "showroom": {
+      "desc": "Khám phá vô vàn ứng dụng của Violeds trong từng không gian khác nhau, ngay tại showroom trực tuyến."
+    },
+    "aboutUs": {
+      "title": "Chúng tôi là những nhà tiên phong hàng đầu thế giới trong lĩnh vực LED, sở hữu hơn 18,000 bằng sáng chế cùng với Seoul Viosys.",
+      "titleMo": "Chúng tôi là những nhà tiên phong hàng đầu thế giới trong lĩnh vực LED, \nsở hữu hơn 18,000 bằng sáng chế cùng với Seoul Viosys.",
+      "text": "Trong hơn 20 năm qua, chúng tôi đã không ngừng tập trung phát triển công nghệ LED/LD, luôn trung thực, đóng góp tích cực và công bằng, đồng thời ưu tiên tạo ra giá trị cho khách hàng. \nĐiều này khẳng định mục tiêu chúng tôi trong việc kiến tạo “một thế giới tươi sáng và sạch đẹp hơn nhờ ánh sáng”.",
+      "info": {
+        "tit1": "Bằng sáng chế",
+        "tit2": "Thị phần đèn UV LED toàn cầu",
+        "data2": "Số 1 thế giới"
+      }
+    },
+    "contactUs": {
+      "desc": "Nếu Quý khách có bất kỳ thắc mắc nào,\nliên hệ với chúng tôi để được tư vấn."
+    }
+  },
+  "search": {
+    "filterTitle": "Search Filter",
+    "product": {
+      "desc": "Part No. Nhập từ khóa hoặc sử dụng bộ lọc để tìm kiếm sản phẩm mong muốn."
+    }
+  },
+  "company": {
+    "title": "About Us",
+    "desc": "Giới thiệu tầm nhìn và giá trị của Seoul Viosys.",
+    "aboutUs": {
+      "title": "Về chúng tôi",
+      "subDesc1": "Chúng tôi biến năng lượng điện thành ánh sáng bằng công nghệ thân thiện với môi trường và tiết kiệm năng lượng nhất.",
+      "subDesc2": "Có đến 80% khối lượng thông tin và kiến thức mà chúng ta có được là nhờ ánh sáng.",
+      "aboutCompanyTit": "Một nhà tiên phong toàn cầu trong lĩnh vực công nghệ LED, \nSeoul Viosys đang định hình lại tương lai chiếu sáng bằng những đột phá sáng tạo.",
+      "aboutCompanyTitSub": "Chuyên gia toàn cầu về công nghệ LED và WICOP không dây đầu tiên trên thế giới.",
+      "aboutCompanyText1": "Seoul Viosys đã đưa công ty trở thành một thế lực đáng gờm trên thị trường đèn LED quốc tế, mở ra vô vàn khả năng mới cho ngành chiếu sáng với công nghệ chất bán dẫn không dây. Trong hơn 20 năm qua, chúng tôi đã không ngừng tập trung phát triển công nghệ LED/LD, luôn trung thực, đóng góp tích cực và công bằng, đồng thời ưu tiên tạo ra giá trị cho khách hàng. Với mục tiêu tạo nên một thế giới tươi sáng và sạch đẹp hơn nhờ ánh sáng, chúng tôi là những nhà tiên phong hàng đầu thế giới trong lĩnh vực LED,sở hữu hơn 18,000 bằng sáng chế cùng với Công ty mẹ Seoul Semiconductor.",
+      "aboutCompanyText2": "Trong suốt 6 năm qua, chúng tôi đã tiên phong và dẫn đầu thị trường toàn cầu trong việc phát triển và sản xuất hàng loạt chip UV LED cùng các sản phẩm đã trang bị cho các công ty gia dụng hàng đầu, góp phần tạo ra các thiết bị khử trùng, làm sạch nước và không khí an toàn và hiệu quả. Với tầm nhìn hướng tới tương lai, chúng tôi không ngừng đổi mới và phát triển các công nghệ đột phá như đèn laser VCSEL (Vertical Cavity Surface Emitting Laser) và Pixel đơn “WICOP Pixel” đây sẽ là nhưng công nghệ nền tảng cho các sản phẩm cảm biến 3D, mô-đun và màn hình Micro LED thế hệ mới.",
+      "aboutCompanyText3": "Đặc biệt, công ty đã phát triển danh mục sản phẩm dựa trên tất cả các bước sóng từ tia cực tím (UV) đến ánh sáng khả kiến (Visible Ray) và tia hồng ngoại (IR) (200nm~1400nm), sở hữu hơn 6,000 bằng sáng chế liên quan đến công nghệ WICOP, nắm giữ vị thế dẫn đầu về công nghệ trên thị trường thế giới. ​"
+    },
+    "network": {
+      "title": "Global Network",
+      "desc": "Mở rộng cơ hội kinh doanh toàn cầu thông qua mạng lưới bền vững trải dài khắp thế giới.",
+      "globalNetwork": "Mạng lưới toàn cầu",
+      "office": "Văn phòng",
+      "distributor": "Đại lý"
+    },
+    "career": {
+      "title": "Careers",
+      "desc": "Cùng phát triển và xây dựng tương lai với đội ngũ nhân tài đầy nhiệt huyết và sáng tạo."
+    },
+    "benefits": {
+      "title": "Chế độ phúc lợi",
+      "subDesc": "Tuyển dụng mở cùng Seoul Viosys",
+      "spirit": "Nơi mọi người có thể vui vẻ\ntập trung vào công việc của mình",
+      "economy": "Nơi làm việc có nhiều\nlợi ích về kinh tế",
+      "develop": "Nơi làm việc dẫn dắt và\nkhích lệ sự phát triển",
+      "insurance": "•  4 bảo hiểm chính và nghỉ phép theo luật",
+      "fitnessClub": "•  Fitness Club",
+      "health": "•  Hỗ trợ kiểm tra sức khỏe toàn diện",
+      "operatesAffiliatedHospitals": "•  Vận hành bệnh viên liên kết",
+      "operateChildCareFacilities": "•  Vận hành cơ sở chăm sóc trẻ em",
+      "holidayBirthdayGifts": "•  Quà tặng ngày lễ/sinh nhật",
+      "operatingInHouseClub": "•  Vận hành câu lạc bộ trong công ty",
+      "supportForResortApartmentUse": "•  Hỗ trợ sử dụng resort/căn hộ",
+      "supportPicnicsSportsCompetitions": "•  Hỗ trợ các buổi dã ngoại/thi đấu thể thao cho từng bộ phận",
+      "operateCompanyCafeteria": "•  Vận hành nhà ăn trong công ty",
+      "operateAffiliatedSportsCenter": "•  Vận hành trung tâm thể dục thể thao liên kết",
+      "busSupportToWork": "•  Hỗ trợ xe bus đi làm",
+      "commission": "•  Hoa hồng (Performance sharing Incentive, Special Compensation Incentive)",
+      "profitSharing": "•  thưởng CI",
+      "tuitionSupportForChildren": "•  Hỗ trợ học phí cho con cái",
+      "supportingFilialPiety": "•  Hỗ trợ hiếu hỷ",
+      "longTermWorkAward": "•  Giải thưởng làm việc lâu dài",
+      "operateAssociation": "•  Vận hành hiệp hội sở hữu cổ phiếu công ty",
+      "awardsExemplaryInnovations": "•  Giải thưởng cho những đổi mới điển hình",
+      "operateTraining": "•  Vận hành các khóa đào tạo phù hợp với từng công việc",
+      "supportLanguageExamFees": "•  Hỗ trợ lệ phí các kì thi ngôn ngữ"
+    },
+    "certification": {
+      "title": "Patent/Certificate",
+      "certificationDate": "∙ Ngày chứng nhận",
+      "effectiveDate": "∙ Ngày có hiệu lực",
+      "issuedBy": "∙ Cấp bởi"
+    },
+    "founderMessage": {
+      "title": "Thư ngỏ từ Founder",
+      "label": "Lịch sử mới của ánh sáng,\nVì một thế giới không còn những tên trộm công nghệ",
+      "labelMo": "Lịch sử mới của ánh sáng,\nVì một thế giới không còn những tên trộm công nghệ",
+      "statement": "Chúng tôi suy ngẫm mỗi ngày và tiến lên từng bước một để duy trì các nguyên tắc và giá trị của mình. Đồng thời tạo ra giá trị cho những khách hàng quý giá, những người chia sẻ giá trị với chúng tôi.",
+      "subDesc": "Với niềm tin “Làm cho thế giới sạch hơn, lành mạnh hơn và an toàn hơn bằng ánh sáng”, Seoul Viosys khởi nghiệp từ một công xưởng cho thuê trong một tòa nhà thương mại. Biến khủng hoảng thành cơ hội, chúng tôi đã phát triển thành công ty duy nhất trên thế giới sở hữu công nghệ công nghiệp LED thế hệ thứ hai, có thể sản xuất đèn LED bán dẫn quang học ở mọi bước sóng, từ tia cực tím 200nm đến diode laser 1400nm mà không cần wire và PKG - những thành phần thiết yếu của chất bán dẫn.\n\nVà với ánh sáng tự nhiên, chúng tôi sẽ tích cực cung cấp cho thế giới ánh sáng lành mạnh ngăn ngừa cận thị, ánh sáng sạch có thể ngăn chặn vi khuẩn như virus, ánh sáng cải thiện trí nhớ giúp học tập tốt hơn, ánh sáng tái hiện đúng màu sắc tự nhiên và ánh sáng giúp bạn ngủ ngon.\n\nTôi sinh ra là con trai út trong một gia đình nông dân. Ở độ tuổi 20 non nớt, khi Jimmy Carter (con trai một nông dân) trở thành Tổng thống Hoa Kỳ, tôi đã tự hỏi mình “Tôi là ai?” và đây cũng đã trở thành một bước ngoặt trong cuộc đời tôi. Tôi bắt đầu kinh doanh tại Hàn Quốc và công ty tôi đã phát triển thành một doanh nghiệp sản xuất toàn cầu. Tôi mong là điều này sẽ tạo niềm hy vọng cho nhiều người trẻ.\n\nSở hữu trí tuệ (Intellectual Property) đã trở thành động lực dẫn đến các cuộc cách mạng công nghiệp lần thứ nhất, lần thứ hai và lần thứ ba. Tỷ lệ dân số sống trong cảnh nghèo đói đã giảm từ 85% xuống dưới 9%, 80% kiến thức con người tiếp nhận là nhờ được cung cấp ánh sáng, tỷ lệ mù chữ đã được cải thiện, từ 90% giảm xuống chỉ còn 10% và cũng mang lại cuộc sống an toàn hơn cho con người. Đồng thời tỷ lệ tử vong ở trẻ sơ sinh đã giảm từ 44% xuống dưới 4%. Quyền sở hữu trí tuệ ngày càng được tôn trọng hơn, mang lại hy vọng cho giới trẻ, thúc đẩy nhiều đổi mới sáng tạo và nỗ lực cải thiện cuộc sống con người. Ngoài ra, để tạo ra một xã hội công bằng - nơi mọi người có thể di chuyển đến các tầng lớp xã hội khác, tôi không ngừng tạo ra các sản phẩm mới và đấu tranh giành quyền sở hữu trí tuệ trên tinh thần thề không cắt tóc cho đến khi chiến thắng.\n\nTôi mong mọi người sẽ tiếp tục dõi theo và ủng hộ chúng tôi.",
+      "directorName": "Giám đốc Seoul Viosys Co., Ltd."
+    },
+    "portfolio": {
+      "title": "Danh mục bằng sáng chế",
+      "describe": "Hơn 18,000 bằng sáng chế trong các lĩnh vực rộng lớn bao gồm từ chip đến các ứng dụng, các ứng dụng sử dụng sản phẩm của chúng tôi sẽ được bảo hành trên khắp thế giới.",
+      "subDesc": "Để cạnh tranh công bằng trên thị trường, Seoul Viosys đã tích cực truy quét các tổ chức vi phạm\nquyền sở hữu trí tuệ của chúng tôi và sẽ tiếp tục thực hiện mọi biện pháp cần thiết ở tất cả các quốc gia\nđể ngăn chặn những hành vi vi phạm đó, bảo vệ những công nghệ quý giá của Seoul Viosys.",
+      "listPatents": "Danh sách bằng sáng chế",
+      "numberPatents": "Số lượng bằng sáng chế",
+      "casesWon": "Các trường hợp thắng",
+      "technology": "Công nghệ",
+      "descTechnology": "Seoul Viosys nắm giữ bằng \nsáng chế cho nhiều dòng sản phẩn với \ncông nghệ độc đáo, bao gồm \nnPola, SunLike, Acrich, MJT, WICOP...",
+      "applicationList": "Danh sách ứng dụng"
+    },
+    "idealTalent": {
+      "title": "Nhân sự lý tưởng",
+      "subDesc": "Chúng tôi tìm kiếm những nhân tài",
+      "subDesc2": "luôn không ngừng thử thách mình với một tương lai mới.",
+      "theRightPersonForUs": "Người phù hợp với chúng tôi",
+      "passion": "Passion",
+      "describePassion": "Hành động bằng đam mê",
+      "subDescPassion": "Chúng tôi cần những người có năng lượng tích cực, phát huy được tinh thần chiến đấu trong công việc dựa trên trách nhiệm và tình yêu với công việc.",
+      "humbleness": "Humbleness",
+      "describeHumbleness": "Trí thức với tấm lòng nhân ái",
+      "subDescHumbleness": "Chúng tôi cần những người trí thức có trái tim ấm áp, nhã nhặn với những người xung quanh, chia sẻ tình thương và biết cách hoạt động tình nguyện vì người khác và xã hội.",
+      "selfControl": "Self-control",
+      "describeSelfControl": "Một thành viên có khả năng thích ứng và dung hòa",
+      "subDescSelfControl": "Chúng tôi cần một người dù được giao nhiệm vụ gì thì cũng có thể thực hiện tốt và luôn động viên, giúp đỡ đồng nghiệp cũng như cấp trên và cấp dưới để đạt được kết quả tốt nhất.",
+      "creative": "Creativity",
+      "describeCreative": "Ý tưởng sáng tạo đa dạng",
+      "subDescCreative": "Chúng tôi cần những chuyên gia sáng tạo làm việc không ngừng nghỉ để tìm ra những giải pháp mang tính đổi mới chứ không phải chỉ là những cải tiến đơn giản.",
+      "challenge": "Challenge",
+      "describeChallenge": "Người thành công không ngừng thử thách bản thân",
+      "subDescChallenge": "Một mục tiêu lớn có thể mang lại cho bạn sự thỏa mãn và hạnh phúc lớn hơn, đồng thời cũng nâng cao giá trị bản thân của bạn. Người hạnh phúc là người luôn chấp nhận thử thách.  Chúng tôi cần những người đã đạt được hạnh phúc nhưng vẫn không ngừng thử thách bản thân."
+    },
+    "sustainableManagement": {
+      "title": "Quản lý bền vững",
+      "desc": "Chúng tôi xây dựng một tương lai bền vững dựa trên nền tảng của sự cân bằng giữa lợi nhuận kinh doanh và trách nhiệm bảo vệ môi trường.",
+      "subDesc": "Là một doanh nghiệp mang lại hạnh phúc thông qua ánh sáng, ",
+      "subDesc2": "chúng tôi coi sự共存 giữa thiên nhiên và con người là giá trị cốt lõi, và cam kết thực hiện quản trị bền vững với trọng tâm là Bảo vệ môi trường (E), Trách nhiệm xã hội (S) và Quản trị minh bạch (G).",
+      "complianceManagement": {
+        "title": "Quản lý môi trường sản phẩm",
+        "sub1": "Tuyên bố tuân thủ luật kinh doanh",
+        "subDesc1": "Tôi tin rằng sự tồn tại của  một công ty chỉ có ý nghĩa và giá trị nếu nó không vi phạm luật pháp và đạo đức của thế giới mà con người đang sống. Do đó, Seoul Viosys hoạt động theo triết lý là “Một công ty không ngừng phát triển để mang lại niềm tự hào cho nhân viên, tạo ra giá trị cho khách hàng, mang lại sự ổn định cho các cổ đông và giúp đỡ thế giới”. Ngoài ra, Seoul semiconductor sẽ luôn tiếp tục thực hiện quản lý phương pháp Crystal theo luậtpháp và đạo đức."
+      },
+      "sustainability": {
+        "title": "Sustainability",
+        "sub1": "Chiến lược quản trị ESG",
+        "subDesc1": "Dựa trên niềm tin “Mang lại một thế giới sạch hơn, khỏe mạnh hơn và tươi đẹp hơn nhờ ánh sáng,” Seoul Viosys đã xây dựng chiến lược quản trị ESG và vận hành hệ thống thực thi nhằm bảo đảm tăng trưởng bền vững.Theo từng chiến lược trong các lĩnh vực ESG, chúng tôi xác định các nhiệm vụ trọng tâm, đánh giá kết quả thông qua việc thực thi và giám sát, đồng thời liên tục cải tiến.",
+        "sub2": "Quản trị ánh sáng bền vững vì một thế giới sạch hơn, khỏe mạnh hơn và tươi đẹp hơn",
+        "subDesc2": "Chúng ta cùng xây dựng một tương lai bền vững bằng công nghệ thắp sáng thế giới.",
+        "sub3": "Chiến lược triển khai",
+        "sub4": "战略目标",
+        "environmental": {
+          "imgTitle": "Environmental",
+          "list01": {
+            "text1": "Xây dựng hệ thống quản trị trung hòa carbon",
+            "text2": "Giảm thiểu tác động đến môi trường",
+            "text3": "Thiết lập hệ thống tuần hoàn tài nguyên"
+          },
+          "list02": {
+            "text1": "Xây dựng và thực hiện lộ trình giảm phát thải nhằm đạt trung hòa carbon vào năm 2030",
+            "text2": "Nâng cao hiệu quả năng lượng và mở rộng năng lượng tái tạo",
+            "text3": "Tối ưu hóa việc sử dụng tài nguyên",
+            "text4": "Thiết kế thân thiện với môi trường và xây dựng nền tảng sản xuất bền vững"
+          }
+        },
+        "social": {
+          "imgTitle": "Social",
+          "list01": {
+            "text1": "Tôn trọng nhân quyền và thúc đẩy đa dạng",
+            "text2": "Xây dựng môi trường làm việc an toàn",
+            "text3": "Đồng hành phát triển với cộng đồng và đối tác chuỗi cung ứng"
+          },
+          "list02": {
+            "text1": "Nâng cao hệ thống quản trị nhân quyền dựa trên các tiêu chuẩn quốc tế",
+            "text2": "Tăng cường hệ thống an toàn và sức khỏe nghề nghiệp với mục tiêu Zero tai nạn nghiêm trọng",
+            "text3": "Cải thiện môi trường làm việc và tăng cường quản lý sức khỏe nhân viên",
+            "text4": "Thực hiện quản trị lấy sự hài lòng của khách hàng và tạo giá trị làm trọng tâm"
+          }
+        },
+        "governance": {
+          "imgTitle": "Governance",
+          "list01": {
+            "text1": "Quản trị minh bạch và có trách nhiệm giải trình",
+            "text2": "Tăng cường khung quản trị đạo đức và quản lý rủi ro"
+          },
+          "list02": {
+            "text1": "Tăng cường giao tiếp dựa trên sự tin cậy với cổ đông và các bên liên quan",
+            "text2": "Đánh giá rủi ro chống tham nhũng và tăng cường kiểm soát nội bộ",
+            "text3": "Giám sát hiệu quả và hỗ trợ ra quyết định dựa trên các KPI ESG"
+          }
+        },
+        "sub5": "Tổ chức thúc đẩy quản trị ESG",
+        "sub5Desc": "Chúng tôi đã thành lập Đội ngũ ESG vào tháng 9 năm 2024 để thúc đẩy các hoạt động quản trị ESG.\nĐội ngũ ESG được cấu thành từ các bộ phận chuyên môn của từng lĩnh vực, xác định các nhiệm vụ trọng tâm về ESG theo từng bộ phận và liên tục triển khai các sáng kiến nhằm đạt được mục tiêu.",
+        "sub5OrgChrt": {
+          "team": "Đội ngũ ESG",
+          "group": "Nhóm công tác",
+          "subGroup1": {
+            "title": "Môi trường",
+            "item1": "Biến đổi khí hậu",
+            "item2": "Tác động môi trường của sản phẩm",
+            "item3": "Trung hòa carbon",
+            "item4": "Môi trường tại cơ sở sản xuất",
+            "item5": "Tuần hoàn tài nguyên, v.v."
+          },
+          "subGroup2": {
+            "title": "Xã hội",
+            "item1": "Quản trị nhân quyền",
+            "item2": "Chất lượng sản phẩm",
+            "item3": "Phát triển nhân tài",
+            "item4": "ESG trong chuỗi cung ứng",
+            "item5": "An toàn và sức khỏe nghề nghiệp",
+            "item6": "Sự hài lòng của khách hàng",
+            "item7": "Đóng góp xã hội, v.v."
+          },
+          "subGroup3": {
+            "title": "Quản trị công ty",
+            "item1": "Quản trị Hội đồng quản trị",
+            "item2": "Chính sách cổ đông",
+            "item3": "Đạo đức và tuân thủ"
+          }
+        },
+        "sub6": "Sổ tay chính sách ESG",
+        "sub6Desc": "Sổ tay này tổng hợp các nguyên tắc thực tiễn và định hướng chiến lược trong từng lĩnh vực ESG nhằm hiện thực hóa quản trị bền vững.",
+        "sub6FileDownload": "Sổ tay chính sách quản trị bền vững của Seoul Viosys",
+        "sub6List": {
+          "item1": "Quản trị đạo đức",
+          "item2": "Quản trị nhân quyền",
+          "item3": "Quản trị môi trường",
+          "item4": "Quản trị an toàn & sức khỏe nghề nghiệp"
+        },
+        "sub7": "Chứng nhận Quản trị ESG",
+        "sub7FileDownload": "Chứng chỉ",
+        "sub7Desc": "Seoul Viosys đã xây dựng hệ thống quản trị bền vững phù hợp với tiêu chuẩn quốc tế thông qua chứng nhận ISO 14001 (Hệ thống Quản lý Môi trường) và ISO 45001 (Hệ thống Quản lý An toàn và Sức khỏe Nghề nghiệp).",
+        "sub7SubDesc": {
+          "item1": {
+            "title": "Trong lĩnh vực môi trường, ",
+            "desc": "chúng tôi xác định, đánh giá và quản lý có hệ thống các tác động môi trường từ hoạt động kinh doanh, đồng thời thường xuyên theo dõi hiệu quả môi trường thông qua các cuộc đánh giá định kỳ và tái chứng nhận. Nhờ đó, chúng tôi chủ động ứng phó với rủi ro môi trường và thực hành quản trị thân thiện với môi trường."
+          },
+          "item2": {
+            "title": "Trong lĩnh vực an toàn và sức khỏe nghề nghiệp, ",
+            "desc": "chúng tôi luôn ưu tiên sự an toàn và sức khỏe của nhân viên và các bên liên quan, quản lý rủi ro từ sớm và vận hành hệ thống quản lý nhằm ngăn ngừa tai nạn lao động. Hiệu quả an toàn được xác minh thông qua đánh giá định kỳ và các hoạt động cải tiến liên tục."
+          },
+          "item3": "Seoul Viosys sẽ tiếp tục là một doanh nghiệp có trách nhiệm trong việc hiện thực hóa các giá trị ESG, thúc đẩy quản trị bền vững hài hòa giữa môi trường và an toàn."
+        }
+      },
+      "productEnvironment": {
+        "title": "Environmental",
+        "environmental": {
+          "title": "Chiến lược quản trị môi trường",
+          "desc": "Seoul Viosys nhận thức rõ trách nhiệm của doanh nghiệp đối với biến đổi khí hậu và vấn đề tài nguyên, và thực hiện quản trị môi trường một cách hệ thống nhằm giảm thiểu tác động đến môi trường.",
+          "subDesc": {
+            "desc1": "Chúng tôi tập trung vào bốn chiến lược chính:",
+            "boldList": {
+              "item1": "ứng phó với biến đổi khí hậu, ",
+              "item2": "xây dựng hệ thống quản lý môi trường, ",
+              "item3": "giảm thiểu tác động môi trường của sản phẩm ",
+              "item4": "và xây dựng nền tảng tuần hoàn tài nguyên."
+            },
+            "desc2": "Thông qua đó, chúng tôi quản lý rủi ro môi trường một cách hệ thống và liên tục cải thiện hiệu quả môi trường.",
+            "desc3": "",
+            "desc4": "Bằng cách mở rộng công nghệ thân thiện với môi trường và carbon thấp, đồng thời triển khai quản trị trách nhiệm môi trường toàn công ty, chúng tôi thực hiện trách nhiệm của mình với tư cách là doanh nghiệp LED toàn cầu tiên phong về phát triển bền vững."
+          },
+          "circleList": {
+            "item1": "Ứng phó với biến đổi khí hậu",
+            "item2": "Xây dựng hệ thống quản lý môi trường",
+            "item3": "Quản lý môi trường sản phẩm",
+            "item4": "Tuần hoàn tài nguyên"
+          }
+        },
+        "sub1": "Sản phẩm thân thiện với môi trường",
+        "sub1Desc1": "Seoul Viosys với nguyên tắc thực hiện trách nhiệm với môi trường và xã hội là giá trị quý giá nhất, chúng tôi nỗ lực tạo ra giá trị doanh nghiệp và bảo vệ môi trường trái đất.",
+        "sub1Desc2": "1. Thiết lập và công bố các mục tiêu & mục đích trong phạm vi khả thi về mặt công nghệ và kinh tế để đạt được chính sách môi trường sản phẩm, đồng thời thúc đẩy các hoạt động vì mục đích này.\n2. Để bảo vệ môi trường trái đất, chúng tôi tuân thủ luật pháp liên quan đến môi trường sản phẩm trong và ngoài nước, đặt ra các tiêu chuẩn để cải thiện và thúc đẩy quản lý tự chủ.\n3. Cung cấp tất cả thông tin liên quan đến môi trường sản phẩm cho các nhân viên và đảm bảo rằng họ nhận thức được trách nhiệm của mình thông qua quy trình đào tạo kỹ lưỡng.\n4. Tiến hành kiểm tra quản lý định kỳ và đánh giá môi trường nội bộ đối với hệ thống quản lý môi trường sản phẩm để xác định tính hiệu quả của hệ thống.",
+        "sub1Desc2MO": "1. Thiết lập và công bố các mục tiêu & mục đích trong phạm vi khả thi về mặt công nghệ và kinh tế để đạt được chính sách môi trường sản phẩm, đồng thời thúc đẩy các hoạt động vì mục đích này.\n\n\n2. Để bảo vệ môi trường trái đất, chúng tôi tuân thủ luật pháp liên quan đến môi trường sản phẩm trong và ngoài nước, đặt ra các tiêu chuẩn để cải thiện và thúc đẩy quản lý tự chủ.\n\n\n3. Cung cấp tất cả thông tin liên quan đến môi trường sản phẩm cho các nhân viên và đảm bảo rằng họ nhận thức được trách nhiệm của mình thông qua quy trình đào tạo kỹ lưỡng.\n\n\n4. Tiến hành kiểm tra quản lý định kỳ và đánh giá môi trường nội bộ đối với hệ thống quản lý môi trường sản phẩm để xác định tính hiệu quả của hệ thống.",
+        "sub2": "Các chất quản lý môi trường sản phẩm",
+        "subDesc2": "Seoul Viosys chia các đối tượng quản lý  bao gồm trong sản phẩm thành bốn 4 cấp độ.",
+        "observationMaterial": "Chất đang xem xét",
+        "descClass1": "Các chất được quy định theo RoHS của EU (10 loại) và yêu cầu đặc biệt của khách hàng (3 loại)",
+        "descClass2": "Các chất được kiểm soát bởi luật pháp hoặc công ước quốc gia, không bao gồm Class I",
+        "descClass3": "Các chất mà Seoul Viosys tự nguyện tìm cách giảm thiểu khi cân nhắc đến tác động của chúng đối với môi trường và cơ thể con người",
+        "descClassOthers": "Những chất dự kiến sẽ được quản lý trong tương lai",
+        "detailedCriteria": "Tiêu chuẩn chi tiết",
+        "hazardousSubstances": "Chất độc hại",
+        "managementGoals": "Mục tiêu quản lý (mg/kg)",
+        "analyticalEquipment": "Thiết bị phân tích",
+        "analyticalMethod": "Phương pháp phân tích",
+        "col1": "Cadmium (Cd) và các hợp chất của nó",
+        "col2": "Chì (Pd) và các hợp chất của nó",
+        "col3": "Thủy ngân (Hg) và các hợp chất của nó",
+        "col4": "Crom hóa trị sáu (Cr6+) và các hợp chất của nó",
+        "col5": "PBBs",
+        "col6": "PBDEs",
+        "col7": "Phthalates(BBP, DBP, DEHP, DIBP)",
+        "col8": "Br(brom)",
+        "col9": "Cl(clo)",
+        "col10": "Sb(antimon)"
+      },
+      "environmentalSafety": {
+        "title": "Social",
+        "sub1": "Quản lý an toàn & sức khỏe nghề nghiệp",
+        "sub1Desc1": "Seoul Viosys luôn đặt sự an toàn và sức khỏe của nhân viên lên hàng đầu và thực hiện quản lý an toàn – sức khỏe nghề nghiệp một cách hệ thống.",
+        "sub1Desc2": "Chúng tôi tăng cường các hoạt động hợp tác về an toàn, cải thiện môi trường làm việc và triển khai các chương trình quản lý sức khỏe nhằm xây dựng môi trường làm việc an toàn, lành mạnh cho toàn thể nhân viên.\nĐồng thời, chúng tôi củng cố hệ thống quản lý hóa chất để chủ động nhận diện và kiểm soát các yếu tố nguy hại tại nơi làm việc \n\nTrong thời gian tới, Seoul Viosys sẽ tiếp tục tuân thủ nghiêm ngặt Luật An toàn – Sức khỏe nghề nghiệp cùng các quy định liên quan, đồng thời hợp tác với đối tác để lan tỏa văn hóa an toàn.",
+        "sub2": "Tăng cường các hoạt động hợp tác cùng có lợi về an toàn và sức khỏe",
+        "subDesc2": "Thông qua việc tư vấn với các công ty chuyên ngành trong lĩnh vực An toàn - Môi trường - Năng lượng - Sức khỏe, Seoul Viosys thường xuyên tiến  hành các chẩn đoán về an toàn môi trường của các cơ sở sản xuất và các công ty đối tác trong công ty. Chúng tôi đã tham gia “Chương trình hợp tác cộng sinh về an toàn và sức khỏe” do Bộ Lao động chủ trì và thường xuyên cung cấp sự hỗ trợ, cũng như giáo dục về an toàn và sức khỏe cho các công ty đối tác. Sự nỗ lực của chúng tôi đã được ghi nhận với việc đạt được cấp A trong năm 2015. Thêm vào đó, chúng tôi cũng lập bản đồ và số hóa lại rủi ro của các cơ sở sản xuất, sử dụng chúng như một công cụ quản lý rủi ro.",
+        "sub3": "Quản lý sức khỏe nhân viên và cải thiện môi trường làm việc",
+        "sub3Desc1": "Seoul Viosys thực hiện kiểm tra sức khỏe nhân viên hàng năm và tổ chức các chương trình nâng cao sức khỏe để quản lý sức khỏe cho nhân viên.\nNhững người có nguy cơ cao mắc 4 bệnh chính (cao huyết áp, tiểu đường, mỡ trong máu và bệnh gan) sẽ được các bác sĩ chuyên môn hỗ trợ tư vấn sức khỏe và quản lý theo dõi kỹ lưỡng. Chúng tôi cũng tiến hành điều tra mức độ căng thẳng theo từng công việc và quản lý chặt chẽ hơn những người có mức độ căng thẳng cao.",
+        "sub3Desc2": "Ngoài ra, chúng tôi đã lắp đặt máy khử rung tim tự động bên ngoài và tuyển chọn nhân viên cứu hộ khẩn cấp cho từng tầng, tiến hành huấn luyện hồi sức tim phổi để chuẩn bị cho các tình huống khẩn cấp. Đồng thời, chúng tôi cũng đang nỗ lực cải thiện môi trường làm việc của nhân viên. Ví dụ như tiến hành đo lường và cải thiện môi trường làm việc 2 năm một lần. Seoul Viosys có kế hoạch tiếp tục thúc đẩy nhiều hoạt động nâng cao sức khỏe và cải thiện môi trường làm việc trong tương lai.",
+        "sub4": "Our Healthcare Committee",
+        "subDesc4": "Thông qua cộng tác với các chuyên gia trong và ngoài nước, Seoul Viosys vận hành Ủy ban Chăm sóc sức khỏe OHC (Our healthcare committee) để cải thiện các chỉ số quản lý sức khỏe của công ty, nâng cao tiêu chuẩn quản lý và đánh giá về phòng ngừa/chẩn đoán môi trường làm việc quá mức theo pháp luật. Ngoài ra, để ngăn ngừa và quản lý các bệnh mãn tính cho nhân viên của SSC/SVC và nhân viên của các công ty đối tác, chúng tôi vận hành một phòng OHC được trang bị máy phân thích thành phần cơ thể, máy theo dõi lượng đường trong máu và máy đo huyết áp.",
+        "sub5": "Tăng cường quản lý các chất hóa học",
+        "subDesc5": "Seoul Viosys đã đưa vào hệ thống đánh giá sơ bộ về an toàn môi trường và đang tiến hành đánh giá rủi ro đối với tất cả các chất được sử dụng tại nơi làm việc. Tất cả các hóa chất trong công ty chúng tôi đều phải được xem xét rủi ro trước khi được đưa vào sử dụng. Chúng tôi giảm thiểu rủi ro bằng cách thiết lập một quy trình sử dụng cho tất cả các thiết bị xử lý hóa chất đã được lắp đặt và kiểm tra kỹ càng.  Ngoài ra, chúng tôi cũng tăng cường giám sát, ứng phó khẩn cấp và thường xuyên  thực hiện các khóa đào tạo để ngăn ngừa các tai nạn liên quan đến hóa chất.",
+        "sub6": "Quản lý chuỗi cung ứng",
+        "subDesc6": "Seoul Viosys cam kết đảm bảo tính bền vững trong toàn bộ chuỗi cung ứng và thực hiện quản trị có trách nhiệm phù hợp với các tiêu chuẩn toàn cầu. Để đạt được mục tiêu này, chúng tôi đã ban hành và áp dụng Bộ Quy tắc Ứng xử dành cho Nhà cung cấp của Seoul Viosys.\n\nBộ quy tắc này được xây dựng dựa trên các hướng dẫn quốc tế như Tuyên ngôn Thế giới về Nhân quyền của Liên Hợp Quốc, Nguyên tắc Hướng dẫn của Liên Hợp Quốc về Kinh doanh và Nhân quyền, Bộ Quy tắc Ứng xử RBA, cùng các quy định của Luật Lao động, và được áp dụng như tiêu chuẩn quản lý tính bền vững chuỗi cung ứng.\n\nChúng tôi ký kết hợp đồng bắt buộc với các đối tác chính liên quan đến việc tuân thủ Bộ quy tắc này, đồng thời liên tục theo dõi thông qua đánh giá nhà cung cấp mới, đánh giá định kỳ toàn diện và đánh giá rủi ro chuỗi cung ứng. Các cập nhật từ các hướng dẫn toàn cầu cũng được phản ánh vào Bộ quy tắc, nhằm hỗ trợ các đối tác thực hiện trách nhiệm xã hội – môi trường và thúc đẩy quản trị kinh doanh có đạo đức.",
+        "subDesc6Download": "Bộ Quy tắc Ứng xử"
+      },
+      "codeOfConduct": {
+        "title": "Quy tắc hành động",
+        "sub1": "Quy tắc hành động Seoul Viosys Ver. 1.0",
+        "subDesc1": "Seoul Viosys tin rằng tất cả người lao động đều có quyền làm việc trong một điều kiện làm việc an toàn và có đạo đức. Chúng tôi cũng hiểu tầm quan trọng của việc kinh doanh có trách nhiệm để giúp giảm thiểu tác động đến môi trường. Theo đó, Seoul Viosys và các công ty đối tác cũng đang nỗ lực để đạt được những hiệu quả về mặt xã hội và môi trường.\n\nNhư một phần của nỗ lực đó, bộ Quy tắc hành động này (sau đây gọi là “Quy tắc”) tóm tắt và trình bày các yêu cầu của Seoul Viosys và các công ty đối tác. Việc áp dụng Quy tắc này bao gồm tất cả các hình thức tổ chức thiết kế, bán, sản xuất và cung cấp các bộ phận và dịch vụ dùng để sản xuất sản phẩm. Tất cả nhân viên và thành viên phải  tuân thủ Quy tắc và tất cả mạng lưới cung ứng bên dưới cung cấp dịch vụ lắp ráp, linh kiện, nguyên liệu thô và đóng gói cho các lĩnh vực liên quan cũng phải tuân thủ. Các bên liên quan hoàn toàn chịu trách nhiệm về việc tuân thủ  Quy tắc và có thể áp dụng các biện pháp trừng phạt thích hợp nếu không khắc phục được hành vi vi phạm trong thời hạn yêu cầu.\n\nQuy tắc này dựa trên Quy tắc hành động RBA 7.0 (2021) và phản ánh các yêu cầu của khách hàng của Seoul Viosys. Ngoài ra, các tiêu chuẩn có thể được sửa đổi tùy theo những thay đổi về tiêu chuẩn và chính sách quản lý trong ngoài công ty.",
+        "sub2": "Hướng dẫn tuân thủ quyền lao động",
+        "label1": "Chống phân biệt chủng tộc",
+        "desc1": "∙  Cấm phân biệt đối xử trong tuyển dụng dựa trên độ tuổi, khuyết tật thể chất, dân tộc, giới tính, tình trạng hôn nhân, quốc tịch, khuynh hướng chính trị, chủng tộc, đồng tính luyến ái hoặc thành viên của hiệp hội lao động\n∙  Không được yêu cầu giấy chứng nhận y tế hoặc chứng nhận mang thai trừ khi đó là yêu cầu hợp pháp hoặc liên quan đến an toàn nơi làm việc\n∙  Cấm phân biệt đối xử dựa trên kết quả chẩn đoán y tế",
+        "label2": "Quấy rối và tấn công",
+        "desc2": "∙  Cấm quấy rối và hành hung tại nơi làm việc\n∙  Cấm đe dọa người lao động bằng cách đối xử vô nhân đạo như lăng mạ bằng lời nói, hành hung, bạo lực tinh thần, ép buộc về tinh thần/thể chất và quấy rối tình dục",
+        "label3": "Ngăn chặn lao động không tự nguyện và nạn buôn bán người",
+        "desc3": "∙  Bảo đảm lao động tự nguyện/n∙  Cấm buôn bán người hoặc lao động mang tính cưỡng chế dưới bất kỳ hình thức nào/n∙  Lao động không tự nguyện là tuyển dụng bằng cách lưu đày, lẩn trốn, chuyển nhượng, mua lại hoặc uy hiếp, ép buộc, cưỡng chế, bắt cóc, lừa đảo, hoặc dùng tiền để khống chế đối phương/n∙  Cấm giữ lại các giấy tờ tùy thân do chính phủ cấp hoặc các giấy tờ liên quan đến việc đi lại của người lao động/n∙  Đảm bảo rằng hợp đồng với người lao động truyền đạt rõ ràng các điều kiện làm việc bằng ngôn ngữ mà người lao động có thể hiểu được/n∙  Cấm áp đặt các hạn chế không phù hợp đối với việc ra vào các cơ sở hạ tầng được cung cấp và di chuyển trong nơi làm việc/n∙  Bảo đảm rằng cơ quan tuyển dụng của bên thứ 3 thực hiện các hoạt động tuân thủ các quy định của pháp luật và các điều lệ của quy tắc /n∙  Có công ty cung cấp riêng chịu trách nhiệm về khoản tiền lương chưa thanh toán vượt quá 1 tháng đối với nhân viên hợp đồng ở nước ngoài do bên thứ 3 thuê hoặc trực tiếp thuê",
+        "label4": "Bảo vệ người lao động thanh thiếu niên",
+        "desc4": "∙  Tuyển dụng thanh thiếu niên trong độ tuổi lao động hợp pháp, nhưng các công việc nguy hiểm cho sức khỏe, an toàn và sức khỏe tâm thần đều bị cấm đối với người lao động dưới 18 tuổi theo Công ước về độ tuổi tối thiểu của ILO, được quy định ở điều 138\n∙  Cấm yêu cầu người lao động thanh thiếu niên làm thêm giờ hoặc làm ban đêm",
+        "label5": "Bảo vệ người lao động là học sinh",
+        "desc5": "∙  Đảm bảo quản lý phù hợp đối với lao động là học sinh thông qua việc bảo vệ về mặt pháp lý các quyền con người của học sinh, nỗ lực với tư cách là đối tác giáo dục và duy trì đời sống học đường\n∙  Cung cấp sự hỗ trợ và đào tạo phù hợp",
+        "label6": "Thời gian làm việc",
+        "desc6": "∙  Giờ làm việc được giới hạn ở mức 52 giờ/tuần, bao gồm cả giờ làm thêm\n∙  Người lao động được đảm bảo nghỉ ít nhất 1 ngày/tuần, trừ trường hợp khẩn cấp hoặc bất thường\n∙  Phải tuân thủ luật pháp và các quy định về giờ làm việc, việc làm thêm giờ phải là tự nguyện",
+        "label7": "Tự do của hiệp hội và đoàn thể",
+        "desc7": "∙  Dựa trên sự cho phép trong khuôn khổ pháp luật, nhà cung cấp cho phép người lao động tự do thành lập và gia nhập các hiệp hội và đoàn thể mà không bị can thiệp, phân biệt đối xử, trả thù hoặc bạo lực\n∙  Đảm bảo cơ chế để người lao động có thể báo cáo khiếu nại của mình và tạo điều kiện đối thoại cởi mở giữa người lao động và cấp quản lý",
+        "label8": "Lương bổng và phúc lợi",
+        "desc8": "∙  Đảm bảo rằng tất cả người lao động đều nhận được phúc lợi và mức lương tối thiểu hợp pháp\n∙  Cung cấp các ngày nghỉ, ngày nghỉ phép năm và các ngày nghỉ lễ theo pháp luật\n∙  Chi trả lương làm thêm giờ theo quy định của pháp luật\n∙  Thảo luận về cơ cấu chi trả lương và thời hạn chi trả lương với tất cả người lao động\n∙  Chi trả mức lương chính xác vào đúng thời gian\n∙  Không được cắt giảm lương như một hình thức kỷ luật",
+        "sub3": "Chính sách CSR và thành quả",
+        "download": "Tải xuống Chính sách CSR và thành quả",
+        "actionRules": "Quy tắc hành động của Seoul Viosys",
+        "target": "Mục tiêu của Văn phòng CSR",
+        "target1": "100% tuân thủ\ngiờ làm việc",
+        "target1sub": "연속 근로 시간 준수​\n월 52시간 초과 근무 준수(vn)",
+        "target2": "Không xảy ra\nthảm họa lớn",
+        "target3": "Triển khai môi trường\nlàm việc an toàn",
+        "target4": "Tăng cường hệ thống quản lý\ntuân thủ luật pháp"
+      },
+      "sharingManagement": {
+        "title": "Quản trị chia sẻ (CSR)",
+        "social": {
+          "sub1": "Seoul Viosys thực hiện Quản trị chia sẻ thông qua nhiều hoạt động đóng góp xã hội nhằm hiện thực hóa tầm nhìn “Thế giới tốt đẹp hơn nhờ ánh sáng.”",
+          "sub2": "Các hoạt động bao gồm hỗ trợ cộng đồng yếu thế, chương trình kết nối và cứu trợ khẩn cấp cho trẻ em quốc tế, học bổng đào tạo nhân tài tương lai, hoạt động hiến tặng tài năng của nhân viên, và tài trợ cho các tổ chức công ích. Thông qua những nỗ lực này, chúng tôi đang thực hiện trách nhiệm xã hội bằng nhiều hình thức khác nhau.\nTrong thời gian tới, Seoul Viosys sẽ tiếp tục chia sẻ thành quả với xã hội, cùng chung tay xây dựng một cộng đồng bền vững phát triển song hành."
+        },
+        "sub1": "Chiến lược quản lý EHS",
+        "sub1Desc1": "Hỗ trợ người nghèo, cơ nhỡ\ntại địa phương",
+        "sub1Desc2": "Bảo hộ trẻ em nước ngoài\nvà hỗ trợ cứu hộ khẩn cấp",
+        "sub1Desc3": "Tài trợ học bổng và\nphát triển tài năng tương lai",
+        "sub1Desc4": "Hoạt động quyên góp\nbằng tài năng nhân viên",
+        "sub1Desc5": "Hoạt động tài trợ\ncho tổ chức công ích",
+        "sub2": "Chi tiết các hỗ trợ/tài trợ",
+        "time1": "Tháng 1",
+        "time2": "Tháng 2",
+        "time3": "Tháng 3",
+        "time4": "Tháng 4",
+        "time5": "Tháng 5",
+        "time6": "Tháng 6",
+        "time7": "Tháng 7",
+        "time8": "Tháng 8",
+        "time9": "Tháng 9",
+        "time10": "Tháng 10",
+        "time11": "Tháng 11",
+        "time12": "Tháng 12",
+        "present": "Hiện tại",
+        "title2021_11": "Hỗ trợ máy khử trùng không khí Violeds cho 300 cửa hàng kinh doanh nhỏ",
+        "desc2021_11": "Chủ doanh nghiệp nhỏ Hàn Quốc",
+        "title2021_6": "Cung cấp hàng cứu trợ COVID-19 cho Ấn Độ",
+        "desc2021_6": "Ấn Độ",
+        "title2020_3": "Hỗ trợ khẩu trang và khoản quyên góp liên quan đến COVID-19",
+        "desc2020_3": "Hiệp hội cứu trợ thiên tai/Tòa thị chính Ansan",
+        "title2018_8": "Trao tặng 2,000 chiếc máy bắt muỗi Mosclean",
+        "desc2018_8": "Tòa thị chính Ansan",
+        "title2017_2": "Thay đèn LED chiếu sáng miễn phí cho trường học",
+        "desc2017_2": "Trường Trung học Hanmin",
+        "title2016_12_1": "Quyên góp cho Quỹ Chia sẻ Thống nhất",
+        "desc2016_12_1": "Tổ chức Chia sẻ và Thống Nhất",
+        "title2016_12_2": "Hoạt động quyên góp tài năng của nhân viên - Lớp kỹ thuật cơ sở tại một trường tiểu học ở Ansan",
+        "desc2016_12_2": "Trường tiểu học ở Ansan",
+        "title2016_8": "Sự kiện hiến máu",
+        "desc2016_8": "Hội Chữ thập đỏ Hàn Quốc",
+        "title2016_7": "Trao tặng 300 máy Mosclean cho Bộ Y tế Campuchia",
+        "desc2016_7": "Bộ Y tế Campuchia",
+        "title2016_6": "Trao tặng 1,000 máy Mosclean cho Bộ chỉ huy Quân đội",
+        "desc2016_6": "Bộ chỉ huy Quân đội",
+        "title2015_10": "Ký thỏa thuận thúc đẩy việc thay thế/lắp đặt đèn đường LED trên đường Jungang-daero, thành phố Ansan",
+        "desc2015_10": "Thành phố Ansan",
+        "title2015_6": "Lễ ký kết chăm sóc công viên Forest City Ansan 1",
+        "desc2015_6": "Thành phố Ansan",
+        "title2015_5_1": "Hoạt động tình nguyện tại các viện dưỡng lão địa phương",
+        "desc2015_5_1": "Viện dưỡng lão Trung tâm điều dưỡng Yangji Home",
+        "title2015_5_2": "Quyên góp tiền hỗ trợ cho nạn nhân động đất ở Nepal",
+        "desc2015_5_2": "Good Neighbors",
+        "title2015_4": "Ký kết thỏa thuận quyên góp Quỹ bảo vệ môi trường của Liên Đoàn Phong trào Môi trường Ansan",
+        "desc2015_4": "Liên đoàn Phong trào Môi trường Ansan",
+        "title2015_3_1": "Ký kết thỏa thuận quyên góp Quỹ Bảo vệ Môi trường Hàn Quốc",
+        "desc2015_3_1": "Tổ chức vì Môi trường",
+        "title2015_3_2": "Ký kết MOU hỗ trợ học bổng cho thanh thiếu niên có thu nhập thấp ở Ansan",
+        "desc2015_3_2": "Quỹ Phát triển tài năng Ansan",
+        "title2015_1": "Hoạt động tình nguyện tại cơ sở sinh hoạt cho người khuyết tật và chậm phát triển trí tuệ",
+        "desc2015_1": "Ngôi nhà hòa bình",
+        "title2014_12": "Quyên góp quỹ cho dự án hỗ trợ đồng phục học sinh cho thanh thiếu niên có thu nhập thấp ở Ansan",
+        "desc2014_12": "Hội liên hiệp Bảo trợ Ansan",
+        "title2014_9": "Quyên góp lợi nhuận từ Hội chợ Chia sẻ Hạnh phúc",
+        "desc2014_9": "Hội quyên góp cộng đồng Kyunggi",
+        "title2014_4_1": "Trao học bổng từ số tiền quyên góp gây quỹ cho thảm họa phà Sewol",
+        "desc2014_4_1": "Trường trung học Danwon",
+        "title2014_4_2": "Lễ ký kết 1 công ty, 1 nhà dưỡng lão (Hỗ trợ 40kg gạo, 100.000 won mỗi tháng)",
+        "desc2014_4_2": "Viện dưỡng lão Blue Village/Hometown Village",
+        "title2013_12_1": "Gửi tặng bánh dịp cuối năm cho Trung tâm trẻ em",
+        "desc2013_12_1": "Trung tâm trẻ em địa phương Sky Dream/Rainbow",
+        "title2013_12_2": "Hoạt động tình nguyện tại cơ sở sinh hoạt cho người khuyết tật và chậm phát triển trí tuệ",
+        "desc2013_12_2": "Ngôi nhà hòa bình",
+        "title2013_9": "Quyên góp lợi nhuận từ Hội chợ Chia sẻ Hạnh phúc",
+        "desc2013_9": "Hội quyên góp cộng đồng Kyunggi",
+        "title2013_6": "Dự án Chia sẻ Hy vọng và Yêu thương - Tài trợ định kỳ 1-1 cho trẻ em nước ngoài",
+        "desc2013_6": "Good Neighbors",
+        "title2013_1": "Trao tặng TV cho Trung tâm trẻ em địa phương",
+        "desc2013_1": "Ngôi nhà hòa bình",
+        "title2012_11_1": "Tổ chức xem bóng rổ với trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_11_1": "Nhà thi đấu Wadong Ansan",
+        "title2012_11_2": "Hoạt động tình nguyện tại cơ sở sinh hoạt cho người khuyết tật và chậm phát triển trí tuệ",
+        "desc2012_11_2": "Ngôi nhà hòa bình",
+        "title2012_9": "Trải nghiệm cuộc sống nông thôn cùng trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_9": "Làng hươu Yeoju",
+        "title2012_8_1": "Hoạt động tình nguyện tại cơ sở sinh hoạt cho người khuyết tật và chậm phát triển trí tuệ",
+        "desc2012_8_1": "Ngôi nhà hòa bình",
+        "title2012_8_2": "Trải nghiệm bãi triều cùng trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_8_2": "Làng chài Seongam",
+        "title2012_7": "Hoạt động tình nguyện tại cơ sở sinh hoạt cho người khuyết tật và chậm phát triển trí tuệ",
+        "desc2012_7": "Ngôi nhà hòa bình",
+        "title2012_5": "Sự kiện văn hóa xem phim cùng trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_5": "Lotte cinema",
+        "title2012_3_1": "Sự kiện trồng cây cùng trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_3_1": "Sân chơi ngoài trung tâm",
+        "title2012_3_2": "Sự kiện văn hóa xem phim cùng trẻ em của Trung tâm trẻ em địa phương",
+        "desc2012_3_2": "Rạp chiếu phim CGV"
+      },
+      "governance": {
+        "title": "Governance",
+        "sub1": "Quản trị tuân thủ (Compliance Management)",
+        "sub1desc1": "Seoul Viosys nhận thức rằng hoạt động kinh doanh đạo đức và minh bạch là nền tảng cho sự phát triển bền vững. Chúng tôi cam kết tuân thủ nghiêm ngặt pháp luật và các nguyên tắc trong mọi hoạt động quản trị.",
+        "sub1desc2": "Dựa trên luật pháp trong nước và quốc tế, các tiêu chuẩn toàn cầu và quy định nội bộ, công ty thúc đẩy văn hóa tuân thủ mạnh mẽ, củng cố chuẩn mực hành vi của nhân viên, phòng ngừa rủi ro trong các lĩnh vực như phòng chống tham nhũng, thương mại công bằng và bảo vệ sở hữu trí tuệ, đồng thời đảm bảo quy trình ra quyết định minh bạch.\n\nSeoul Viosys đã ban hành Tuyên ngôn Tuân thủ nhằm thể hiện rõ trách nhiệm đạo đức và cam kết hành động của toàn thể nhân viên.",
+        "sub2": "Quản trị Hội đồng Quản trị",
+        "sub2desc1": "Seoul Viosys thực hiện quản trị bền vững và đưa ra quyết định có trách nhiệm dựa trên tính độc lập và chuyên môn của Hội đồng Quản trị.",
+        "sub2desc2": "Hội đồng đảm nhiệm vai trò then chốt trong việc định hướng chiến lược, xem xét các vấn đề kinh doanh trọng yếu và giám sát các nội dung liên quan đến ESG. Đồng thời, công ty cũng tăng cường hoạt động của các ủy ban nội bộ và hệ thống kiểm toán nhằm đảm bảo quản trị doanh nghiệp minh bạch và lành mạnh.",
+        "sub2DownBtn": "Tình hình Ban Giám đốc",
+        "sub3": "Quan hệ Nhà đầu tư (IR)",
+        "sub3desc1": "Seoul Viosys thực hiện công bố thông tin một cách thường xuyên và kịp thời nhằm đảm bảo truyền đạt minh bạch các thông tin quản trị quan trọng đến các bên liên quan.",
+        "sub3DownBtn": "Tài liệu IR"
+      },
+      "conflictMinerals": {
+        "title": "Khoáng sản xung đột",
+        "sub1": "Khoáng sản xung đột là gì?",
+        "subDesc1": "Là một phần của các chế tài về kinh tế nhằm xóa bỏ các vấn đề xã hội như vi phạm nhân quyền, bóc lột sức lao động trẻ em và bạo lực tình dục ở các khu vực xung đột của Châu Phi (10 quốc gia bao gồm CHDC Congo), bốn loại khoáng sản chính (3TG: thiếc, vonfram, tantalum và vàng) được khai thác chủ yếu ở những khu vực này được coi là khoáng sản xung đột. Ở đây đề cập đến một quy chế mới trong chế tài về sử dụng khoáng sản xung đột của các doanh nghiệp, nhằm ngăn chặn quỹ khai thác chảy vào quỹ quân sự của phe nổi dậy.",
+        "sub2": "Chính sách mua khoáng sản xung đột",
+        "subDesc2": "Seoul Viosys nhận thấy tầm quan trọng của việc lựa chọn và giám sát các nhà cung cấp để đảm bảo quản lý bền vững.\nChúng tôi áp dụng các quy định nghiêm ngặt đối với các nhà cung cấp của Seoul Viosys để ngăn họ nhập khẩu khoáng sản được sản xuất tại các khu vực xung đột (đặc biệt là Cộng hòa Dân chủ Congo). Các quy định liên quan đến việc lựa chọn và giám sát các nhà cung cấp này được thiết lập như một chính sách mua hàng bên ngoài và liên tục được sửa đổi."
+      }
+    },
+    "history": {
+      "title": "Lịch sử",
+      "label": "Nhìn lại chặng đường đổi mới \ncủa Seoul Viosys.",
+      "title1992": "Thành lập Seoul Semiconductor",
+      "title1993": "Thành lập Trung tâm nghiên cứu trực thuộc doanh nghiệp",
+      "title2001_1": "Thành lập Cty TNHH Gwangmyeong Semiconductor tại Thiên Tân, Trung Quốc",
+      "title2001_2": "Kí kết thỏa thuận hợp tác với Nitride, Nhật Bản",
+      "title2002_1": "Thành lập Seoul Viosys",
+      "title2002_2": "Phát triển Side LED cho điện thoại di động",
+      "title2002_3": "Doanh thu vượt 100 tỷ won",
+      "title2002_4": "Niêm yết Seoul Viosys trên sàn chứng khoán",
+      "title2002_5": "Doanh thu của Seoul Viosys vượt 100 tỷ won, mở rộng xuất khẩu",
+      "title2004_1": "Phát triển AC LED đầu tiên trên thế giới",
+      "title2004_2": "Sản xuất hàng loạt Z-POWER LED",
+      "title2004_3": "Cung ứng tiền tệ trong nước vượt quá 70%",
+      "title2004_4": "Tiến vào top 10 trong bảng xếp hạng LED toàn cầu",
+      "title2005_1": "Sáp nhập với SETi, công ty UVC tốt nhất thế giới",
+      "title2005_2": "Phát triển nguồn sáng bán dẫn đầu tiên trên thế giới (Acirich) cho nguồn điện xoay chiều",
+      "title2005_3": "Phát triển LED 0,4mm cho LCD Backlighting",
+      "title2005_4": "Cuộc chiến bằng sáng chế với những kẻ mạnh",
+      "descTitle2005_4": "Đỉnh điểm là 30 vụ kiện ở 5 nước trong năm 2008",
+      "title2006_1": "Phát triển đèn LED có tuổi thọ cao nhất thế giới là 100,000 giờ",
+      "title2006_2": "Sản xuất hàng loạt đèn bán dẫn Acrich đầu tiên trên thế giới",
+      "title2006_3": "Seoul Viosys sản xuất hàng loạt DUV LED",
+      "title2006_4": "Bắt đầu sản xuất hàng loạt LED 240lm chip đơn với độ sáng và hiệu suất phát sáng cao nhất thế giới",
+      "title2006_5": "Được Forbes bình chọn là một trong 200 công ty cỡ vừa hàng đầu châu Á​",
+      "title2006_6": "Được tạp chí Business Week bình chọn là một trong 100 công ty tăng trưởng cao hàng đầu châu Á​",
+      "title2007": "Ra mắt sản phẩm được cấp bằng sáng chế LED chip với độ sáng cao và độ dày mỏng nhất thế giới 0.17 mm",
+      "title2008": "Phát triển và cho ra mắt đèn LED 10W 900 lumen sáng nhất thế giới",
+      "title2009": "Sản xuất hàng loạt TOP LED cho TV",
+      "title2010_1": "Acrich được Bộ năng lượng (DOE) của Chính phủ Hoa Kỳ lựa chọn cho dự án nhà ở tương lai",
+      "title2010_2": "Phát triển LED cho đèn pha ô tô",
+      "title2011": "Seoul Viosys xây dựng nhà máy mới ở Ansan",
+      "title2012_1": "Bằng sáng chế trong nước và quốc tế vượt mốc 10,000, được IEEE bình chọn là công ty năng lượng có bằng sáng chế tốt nhất thế giới cho các công ty linh kiện LED",
+      "title2012_2": "Ra mắt  ‘nPola’, đèn LED sáng hơn 10 lần so với đèn LED hiện tại",
+      "title2013_1": "Doanh thu đạt 1,000 tỷ won",
+      "title2013_2": "Giáo sư Suji Nakamura - người từng là cố vấn kỹ thuật tại Seoul Viosys trong 10 năm - đoạt giải Nobel Vật lý​",
+      "title2013_3": "Ra mắt đèn LED nhìn từ cạnh 0,6mm với độ sáng cao nhất thế giới (8,8lm) trong cùng phân khúc​",
+      "title2013_4": "Xuất khẩu tới 60 quốc gia trên toàn thế giới​​",
+      "title2013_5": "Ra mắt Z5M1, đèn LED hiệu suất cao sáng nhất thế giới​​",
+      "title2014": "Tiến vào top 5 trong bảng xếp hạng LED toàn cầu",
+      "title2015": "Sản xuất hàng loạt Wicop, một loại đèn LED mới giúp giảm bớt linh kiện và quy trình đóng gói",
+      "title2017_1": "Hoàn thành xây dựng nhà máy Seoul Viosys VINA tại tỉnh Hà Nam, Việt Nam",
+      "title2017_2": "Đạt kỷ lục doanh thu quý cao nhất kể từ khi thành lập",
+      "title2020": "Tiến vào top 4 trong bảng xếp hạng LED toàn cầu",
+      "title2021": "Tiến vào top 3 trong bảng xếp hạng LED toàn cầu",
+      "title2022": "Bằng sáng chế trong nước và quốc tế vượt mốc 18,000",
+      "title2022Year": "Hiện tại ~ 2010"
+    },
+    "brand": {
+      "title": "SeoulViosys Brand",
+      "desc": "Chúng tôi truyền tải niềm tin và sự đổi mới thông qua bản sắc và giá trị của Seoul Viosys.",
+      "sub1": "Ánh sáng - Chìa khóa mở ra thế giới tươi sáng, trong lành và xinh đẹp",
+      "sub2": "Chúng tôi luôn duy trì các nguyên tắc về danh dự, tin cậy, trách nhiệm và đóng góp cho xã hội trong mọi hoàn cảnh. Đồng thời mang lại giá trị khác biệt tốt nhất bằng cách tập trung vào phát triển chất bán dẫn quang học chứ không cạnh tranh với khách hàng.",
+      "sub3": "Trong suốt 30 năm,\nchúng tôi chỉ tập trung vào chất bán dẫn quang học.",
+      "sub4": "Với 18,000 bằng sáng chế và công nghệ thế hệ 2,\nchúng tôi hướng đến một lịch sử mới trong ngành công nghiệp bán dẫn quang học.",
+      "brandValueList": {
+        "item1": "Chúng tôi tạo ra giá trị cho khách hàng khi vượt qua các thách thức với sự sáng tạo đột phá.",
+        "item2": "Đóng góp nhanh chóng và tích cực cho nhân loại.​",
+        "item3": "Tinh thần quyết tâm cống hiến hết mình vì sự phát triển của tổ chức."
+      },
+      "brandLogo": {
+        "sub": "Vòng tròn nhỏ tượng trưng cho trái đất, vòng tròn lớn tượng trưng cho vũ trụ và sự kết nối của hai vòng tròn này thể hiện cho sự đồng tâm hiệp lực. \n\nĐồng thời màu xanh trong biểu tượng này cũng tượng trưng cho môi trường tự nhiên. \n\nSự kết nối của hai vòng tròn này chứa đựng tinh thần nhiệt huyết và ý chí cầu tiến. Giống như khi ném một hòn đá xuống mặt hồ tĩnh lặng tạo nên những con sóng nhỏ lan tỏa khắp mặt hồ, những nỗ lực phát triển nhỏ bé của Seoul Viosys sẽ lan rộng ra khắp thế giới và toàn nhân loại, khiến chúng ta được biết đến ở khắp mọi nơi trong vũ trụ này."
+      },
+      "techLogo": {
+        "sub": "Seoul Viosys presents the world 1st LED core innovations.\n Look for our technology brand logo across a wide range of sectors."
+      }
+    },
+    "recruitmentInfo": {
+      "title": "Thông tin tuyển dụng",
+      "areasOfRecruitment": "Lĩnh vực tuyển dụng",
+      "marketing": "Sản xuất",
+      "salesSupport": "Nhân viên kinh doanh",
+      "personnelManagement": "Nhân sự",
+      "development": "Lập trình",
+      "other": "Khác",
+      "recruitmentConditions": "Điều kiện tuyển dụng",
+      "experience": "Có kinh nghiệm",
+      "newRecruit": "Chưa có kinh nghiệm",
+      "currentStatusOfRecruitment": "Tình trạng tuyển dụng",
+      "applicationInProgress": "Đang nhận hồ sơ",
+      "recruitmentAsNeeded": "tuyển dụng theo nhu cầu",
+      "applicationClosed": "Đã đóng"
+    }
+  },
+  "ir": {
+    "irInfomation": {
+      "title": "Investor Relations",
+      "desc": "Seoul Viosys nâng cao giá trị của công ty thông qua quản lý minh bạch và đầu tư lành mạnh.",
+      "subDesc": "Seoul Viosys nâng cao giá trị của công ty thông qua",
+      "subDesc2": "quản lý minh bạch và đầu tư lành mạnh."
+    },
+    "managementInfo": {
+      "title": "Thông tin quản lý",
+      "subDesc": "Seoul Viosys gia tăng giá trị thông qua",
+      "subDesc2": "quản lý minh bạch và quản trị doanh nghiệp hợp lý.",
+      "boardDirectors": "Hội đồng Quản trị",
+      "auditBody": "Cơ quan kiểm toán",
+      "electionDirectors": "Bổ nhiệm Giám đốc",
+      "descElectionDirectors1": "∙  Giám đốc được bổ nhiệm tại Đại hội đồng cổ đông. Các ứng cử viên cho vị trí giám đốc được Hội đồng Quản trị lựa chọn và đề xuất, sau đó hoàn thiện đề án để trình Đại hội đồng cổ đông.",
+      "descElectionDirectors2": "∙  Mỗi thành viên của Hội đồng Quản trị là độc lập với cổ đông lớn nhất và các cổ đông chủ chốt.",
+      "compositionDirectors": "Thành phần Hội đồng Quản trị",
+      "descCompositionDirectors": "∙  Hội đồng Quản trị của công ty bao gồm 6 người, trong đó có 3 giám đốc thường trực và 3 giám đốc bên ngoài không thường trực.",
+      "note": "*Sau đây là danh sách giám đốc được bổ nhiệm và nhậm chức theo quy trình bên trên. \nNgày bổ nhiệm hiển thị ngày được bổ nhiệm trong cuộc họp Đại hội đồng cổ đông gần nhất.",
+      "titleStatus": "Chức danh (Tình trạng)",
+      "name": "Tên",
+      "dateAppointment": "Ngày bổ nhiệm",
+      "backgroundSummery": "Tóm tắt tiểu sử",
+      "undertaking": "Công việc đảm nhận",
+      "structureAuditSystem": "Cấu trúc của hệ thống kiểm toán",
+      "descStructureAuditSystem": "Công ty chúng tôi hiện đang vận hàng một Ủy ban Kiểm toán. Ba thành viên của Ủy ban Kiểm toán được bổ nhiệm theo quyết định của Đại hội cổ đông và đang thực hiện các công việc kiểm toán.  Ủy ban Kiểm toán có thể yêu cầu các bộ phân liên quan nộp sổ sách và tài liệu về tất cả công việc.  Ngoài ra, Ủy ban Kiểm toán có thể nhận các báo cáo liên quan đến kinh doanh công ty và có thể truy cập thông tin quản lý một cách phù hợp khi cần thiết.",
+      "situationAuditCommittee": "Tình hình Ủy ban Kiểm toán",
+      "situationAuditCommitteeDesc": "*Chúng tôi chỉ định một thành viên trong Ủy ban Kiểm toán là chuyên gia có chuyên môn về kế toán hoặc tài chính.",
+      "fullTime": "thường trực",
+      "partTime": "không thường trực"
+    },
+    "financeInfo": {
+      "title": "Thông tin tài chính",
+      "subDesc": "Seoul Viosys theo đuổi hoạt động",
+      "subDesc2": "quản lý minh bạch và đầu tư lành mạnh.",
+      "financeHighlight": "Điểm nổi bật về tài chính",
+      "keyFinancialRatios": "Các hệ số tài chính quan trọng",
+      "mainDesc": "Seoul Viosys vận hành ba công ty con hợp nhất tại Hoa Kỳ, Việt Nam và Trung Quốc. Dựa trên cơ sở hạ tầng R&D và sản xuất toàn cầu, công ty cung cấp giải pháp quang học toàn diện từ chip UV, xanh dương, xanh lá, đỏ, IR, VCSEL đến mô-đun cho khách hàng toàn cầu. Seoul Viosys sở hữu danh mục sản phẩm quang bán dẫn trải dài trên toàn bộ dải bước sóng từ 200nm đến 1400nm, bao gồm màn hình micro LED 1-chip RGB không dây đầu tiên trên thế giới, được bảo hộ bởi khoảng 6.000 bằng sáng chế.",
+      "descMore": "Ngoài ra, ngoài lĩnh vực LED hiện tại, việc bán hàng còn đang mở rộng sang các lĩnh vực có mức tăng trưởng cao hơn như micro LED, 3D Sensing thông qua VCSEL. Đặc biệt, chúng tôi đang nỗ lực tăng doanh số bán hàng dựa trên công nghệ WICOP trên thị trường màn hình trị giá hơn 100 nghìn tỷ won.",
+      "companyName": "Tên công ty",
+      "textCompanyName": "Seoul Viosys",
+      "listing": "Niêm yết",
+      "textListing": "Sàn giao dịch Hàn Quốc",
+      "stockCode": "Mã chứng khoán",
+      "ISIN": "ISIN",
+      "incomeStatement": "Bảng cân đối lỗ lãi",
+      "sales": "Doanh thu",
+      "salesProfit": "Lợi nhuận bán hàng",
+      "operatingProfit": "Lợi nhuận hoạt động",
+      "netProfit": "Lợi nhuận ròng",
+      "reportOnFinancialSituation": "Báo cáo tình hình tài chính",
+      "totalAssets": "Tổng tài sản",
+      "currentAssets": "- Tài sản lưu động",
+      "longTermAssets": "- Tài sản dài hạn",
+      "totalDebt": "Tổng nợ",
+      "shortTermDebt": "- Nợ ngắn hạn",
+      "longTermDebt": "- Nợ dài hạn",
+      "totalCapital": "Tổng vốn",
+      "cashFlowStatement": "Báo cáo dòng tiền",
+      "businessActivities": "Hoạt động kinh doanh",
+      "investmentActivities": "Hoạt động đầu tư",
+      "financialActivities": "Hoạt động tài chính",
+      "increaseCash": "Tăng tiền mặt",
+      "endPeriodEquivalents": "Tiền mặt cuối kỳ và các khoản tương đương tiền",
+      "profitMargin": "Tỷ suất lợi nhuận",
+      "grossProfitMargin": "Biên lợi nhuận gộp",
+      "operatingProfitMargin": "Biên lợi nhuận hoạt động",
+      "ROA": "ROA",
+      "ROE": "ROE",
+      "stableRate": "Tỷ lệ ổn định",
+      "currentLiquidityRatio": "Tỷ số thanh khoản hiện thời",
+      "debtAssetRatio": "Tỷ số nợ trên tài sản",
+      "activityRate": "Tỷ lệ hoạt động",
+      "totalAssetTurnoverRatio": "Hệ số vòng quay tổng tài sản",
+      "receivableTurnoverRatio": "Hệ số vòng quay nợ phải thu",
+      "totalCapitalTurnoverRatio": "Hệ số vòng quay tổng vốn"
+    },
+    "stockInfo": {
+      "title": "Thông tin chứng khoán",
+      "stockPriceInfo": "Giá cổ phiếu",
+      "dividendAndShareStatus": "Hiện trạng cổ phần & cổ tức",
+      "regulations": "Quy định quản lý thông tin nội bộ",
+      "comparedYesterday": "So với hôm qua",
+      "tradingVolume": "Lượng giao dịch",
+      "transactionAmount": "Số tiền giao dịch",
+      "KOSPI": "KOSPI",
+      "KOSDAQ": "KOSDAQ",
+      "stockName": "Tên cổ phiếu",
+      "textStockName": "Seoul Viosys",
+      "closingPrice": "Giá đóng cửa hôm qua",
+      "marketPrice": "Giá thị trường",
+      "highestPrice": "Giá cao nhất",
+      "lowestPrice": "Giá thấp nhất",
+      "highestIn52Weeks": "Cao nhất trong 52 tuần",
+      "lowestIn52Weeks": "Thấp nhất trong 52 tuần",
+      "ceilingPrice": "Giá trần",
+      "floorPrice": "Giá sàn",
+      "PER": "PER",
+      "numberOfListedShares": "Số lượng cổ phiếu niêm yết",
+      "denominations": "Mệnh giá",
+      "descDividendAndShareStatus": "Seoul Viosys nâng cao giá trị cổ đông\nbằng chính sách cổ tức phù hợp với\ntốc độ tăng trưởng của công ty.",
+      "totalShares": "Tổng số cổ phiếu được phát hành theo Điều lệ công ty",
+      "totalSharesToNow": "Tổng số cổ phiếu phát hành đến nay, ngày 31 tháng 12 năm 2023 (Tính theo cổ phiếu phổ thông) ",
+      "currentStatusOfStockAllocation": "Hiện trạng phân bổ cổ phiếu",
+      "classify": "Phân loại",
+      "numberShareholders": "Số lượng cổ đông (Người)",
+      "ratio": "Tỷ lệ (%)",
+      "numberOfShares": "Số lượng cổ phiếu (Cổ phiếu)",
+      "minimumTotalShareholders": "Tổng số cổ đông thiểu số",
+      "minorityShareholderCompany": "Cổ đông thiểu số (Công ty)",
+      "minorityShareholderIndividual": "Cổ đông thiểu số (Cá nhân)",
+      "largestShareholder": "Cổ đông lớn nhất",
+      "totalOtherShareholders": "Tổng số cổ đông khác",
+      "otherShareholdersCompany": "Cổ đông khác (Công ty)",
+      "otherShareholdersIndividual": "Cổ đông khác (Cá nhân)",
+      "KSD": "KSD(Lượng tồn trữ thực tế)",
+      "currentStatusOfDividends": "Hiện trạng cổ tức",
+      "parValuePerShare": "Mệnh giá mỗi cổ phiếu",
+      "netProfitForThePeriod": "Lợi nhuận ròng trong kỳ (triệu won)",
+      "profitPerShare": "Lợi nhuận trên 1 cổ phiếu",
+      "cashDividendsPerShare": "Cổ tức bằng tiền mặt trên 1 cổ phiếu",
+      "totalDividendAmount": "Tổng số tiền cổ tức (triệu won)",
+      "dividendPayoutRatio": "Tỷ lệ chi trả cổ tức (%)",
+      "cashDividendYield": "Tỷ suất cổ tức bằng tiền mặt (%)",
+      "title1": "Chương 1: Quy định chung",
+      "label1_1": "Điều 1 (Mục đích)",
+      "sub1_1": "Quy định này được Công ty Cổ phần Seoul Viosys (sau đây gọi là “Công ty”) thiết lập dựa trên “Đạo luật về Thị trường vốn và Dịch vụ đầu tư tài chính” (sau đây gọi là “Đạo luật”) và các quy định liên quan để đảm bảo việc công bố thông tin nhanh chóng và chính xác, ngăn chặn giao dịch nội gián của ban lãnh đạo và nhân viên, nhằm mục đích xác định các vấn đề liên quan đến quản lý toàn diện và công khai thông tin nội bộ của công ty một cách thích hợp",
+      "label1_2": "Điều 2 (Xác định các thuật ngữ)",
+      "sub1_2": "① Trong quy định này, “Thông tin nội bộ”  đề cập đến các yêu cầu công bố thông tin theo Phần 1 của Quy định Công bố thông tin thị trường KOSDAQ (sau đây gọi là “Quy định công bố thông tin”) và các vấn đề khác có tác động đáng kể đến tình hình quản lý hoặc tài sản của công ty hoặc quyết định của nhà đầu tư.\n② Trong quy định này, “Người chịu trách nhiệm công bố thông tin” là người có thể thực hiện nhiệm vụ báo cáo thay mặt công ty theo Điều 2 khoản 4 của Quy định công bố thông tin.\n③ Trong quy định này, “Ban lãnh đạo” đề cập đến các giám đốc (bao gồm cả những người thuộc bất kỳ khoản nào của Điều 401 khoản 2-1 của Đạo luật Thương mại) và các kiểm toán viên.\n④ Trong quy định này, “Chứng khoán cụ thể, v.v.” đề cập đến chứng khoán cụ thể theo Điều 172 khoản 1 của Đạo luật, bao gồm chứng khoán do công ty phát hành, lưu ký chứng khoán, trái phiếu hoán đổi có thể yêu cầu đổi lấy chứng khoán hoặc lưu ký chứng khoán, sản phẩm đầu tư tài chính dựa trên chứng khoán...\n⑤ Ngoài Điều 1 tới Điều 4, định nghĩa của các thuật ngữ được sử dụng trong quy định này được dựa trên định nghĩa của các thuật ngữ được sử dụng trong các bộ luật và quy định có liên quan.",
+      "label1_3": "Điều 3 (Phạm vi áp dụng)",
+      "sub1_3": "Các vấn đề liên quan đến công bố thông tin, giao dịch nội gián và quản lý thông tin nội bộ nếu không được quy định trong các bộ luật hoặc điều lệ liên quan thì sẽ tuân theo quy định này.",
+      "title2": "Chương 2: Quản lý thông tin nội bộ",
+      "label2_1": "Điều 4 (Quản lý thông tin nội bộ)",
+      "sub2_1": "① Ban lãnh đạo và nhân viên phải quản lý chặt chẽ thông tin nội bộ của công ty biết được trong quá trình làm việc và không được tiết lộ thông tin nội bộ trong hoặc ngoài công ty, trừ khi cần thiết cho công việc.\n② Giám đốc điều hành phải thực hiện các biện pháp cần thiết để quản lý thông tin nội bộ, chẳng hạn như đặt ra các tiêu chuẩn cụ thế về lưu trữ, chuyển giao và tiêu hủy thông tin nội bộ cũng như các tài liệu liên quan.",
+      "label2_2": "Điều 5 (Người chịu trách nhiệm công bố thông tin)",
+      "sub2_2": "① Giám đốc điều hành phải chỉ định người chịu trách nhiệm công bố thông tin và báo cáo việc này với Sàn giao dịch Hàn Quốc. Khi thay đổi người chịu trách nhiệm công bố thông tin cũng phải thực hiện quy trình tương tự.\n② Người chịu trách nhiệm công bố thông tin đảm nhận các công việc liên quan đến thiết lập và vận hành hệ thống quản lý thông tin nội bộ và thực hiện các nhiệm vụ sau để thiết lập hệ thống truyền tải thông tin nội bộ một cách hiệu quả.\n\t 1. Tiến hành công bố thông tin\n\t2. Kiểm tra và đánh giá tình trạng hoạt động của hệ thống quản lý thông tin nội bộ\n\t3. Xem xét thông tin nội bộ và quyết định có công bố thông tin đó hay không\n\t4. Đưa ra các biện pháp cần thiết để vận hành hệ thống quản lý thông tin nội bộ như đào tạo ban quản lý lãnh đạo và nhân viên...\n\t5. Chỉ đạo và giám sát các bộ phận, người quản lý lãnh đạo và nhân  viên phụ trách công tác quản lý hoặc công bố thông tin nội bộ\n\t6. Thiết lập hệ thống truyền tải thông tin cho cổ đông lớn nhất\n\t7. Thiết lập hệ thống truyền tải thông tin liên tục với các công ty trực thuộc và công ty con\n\t8. Ngoài ra còn các công việc khác được giám đốc điều hành xác nhận là cần thiết cho việc vận hành hệ thống quản lý thông tin nội bộ\n③ Người chịu trách nhiệm công bố thông tin có các quyền sau đây khi thực hiện nhiệm vụ của mình.\n\t 1. Quyền yêu cầu nộp và xem các tài liệu, hồ sơ khác nhau liên quan đến thông tin nội bộ.\n\t2. Quyền lắng nghe những ý kiến ​​cần thiết của ban lãnh đạo, nhân viên bộ phận phụ trách công tác kế toán, kiểm toán và các bộ phận khác phụ trách công việc liên quan đến việc tạo lập thông tin nội bộ.\n\t3. Quyền yêu cầu công ty con nộp các thông tin cần thiết liên quan đến công tác công bố thông tin\n\t4. Khi nhận được yêu cầu tiết lộ thông tin liên quan đến công ty từ cổ đông hoặc người có liên quan, có quyền xem xét tính hợp pháp của yêu cầu, xác nhận thông tin đã được cung cấp hay không và lắng nghe ý kiến ​​của các chuyên gia pháp lý bên ngoài.\n④ Khi thực hiện nhiệm vụ của mình, người chịu trách nhiệm công bố thông tin có thể tham khảo ý kiến ​​của các giám đốc điều hành phụ trách công việc liên quan nếu cần thiết và có thể tìm kiếm sự trợ giúp từ các chuyên gia bằng chi phí của công ty.\n⑤ Người chịu trách nhiệm công bố thông tin phải thường xuyên báo cáo tình hình hoạt động của hệ thống quản lý thông tin nội bộ cho Tổng Giám đốc (hoặc Hội đồng Quản trị).",
+      "label2_3": "Điều 6 (Người công bố thông tin)",
+      "sub2_3": "① Giám đốc điều hành phải chỉ định người công bố thông tin và báo cáo việc này với Sàn giao dịch Hàn Quốc. Khi thay đổi người công bố thông tin cũng phải thực hiện quy trình tương tự.\n② Người công bố thông tin chịu sự chỉ đạo của người chịu trách nhiệm công bố thông tin và thực hiện các nhiệm vụ liên quan đến quản lý thông tin nội bộ sau đây.\n\t 1. Thu thập, xem xét thông tin nội bộ và báo cáo cho người chịu trách nhiệm công bố thông tin\n\t2. Các công việc cần thiết để thực hiện công bố thông tin\n\t3. Kiểm tra các vấn đề cần thiết cho việc quản lý thông tin nội bộ như những thay đổi về luật liên quan đến công bố thông tin và báo cáo cho người chịu trách nhiệm công bố thông tin.\n\t4. Thường xuyên theo dõi các bản tin liên quan đến công ty, báo cáo cho người chịu trách nhiệm công bố thông tin để đính chính những nội dung sai lệch với thực tế nếu có.\n\t5. Ngoài ra còn các công việc khác được giám đốc hoặc người chịu trách nhiệm công bố thông tin xác nhận là cần thiết",
+      "label2_4": "Điều 7 (Tập trung vào thông tin nội bộ)",
+      "sub2_4": "Người điều hành và trưởng các bộ phận phải cung cấp thông tin liên quan kịp thời cho người chịu trách nhiệm công bố thông tin trong các trường hợp sau đây.\n\t1. Khi xảy ra thông tin vấn đề nội bộ\n\t2. Khi có lí do cần hủy bỏ hoặc thay đổi thông tin nội bộ đã công bố.\n\t3. Ngoài ra khi có yêu cầu từ người chịu trách nhiệm công bố thông tin, Điều 8 (Cung cấp thông tin nội bộ cho bên ngoài)\n① Nếu người điều hành hoặc nhân viên bắt buộc phải cung cấp thông tin nội bộ cho các đối tác công ty, kiểm toán viên bên ngoài, đại lý hoặc những người mà công ty đã ký kết hợp đồng tư vấn như tư vấn pháp lý hoặc tư vấn quản lý... vì lý do công việc, họ phải báo cáo lại các nội dung liên quan cho người chịu trách nhiệm công bố thông tin. Người chịu trách nhiệm công bố thông tin phải chú ý để không bỏ sót nếu đó là thông tin tiết lộ công bằng.\n② Trong trường hợp của điều 1, người chịu trách nhiệm công bố thông tin phải thực hiện các biện pháp cần thiết như ký kết hợp đồng về bảo mật thông tin nội bộ liên quan.",
+      "label2_5": "Điều 8 (Cung cấp thông tin nội bộ cho bên ngoài)",
+      "sub2_5": "① Nếu người điều hành hoặc nhân viên vì lí do công việc bắt buộc phải cung cấp thông tin nội bộ cho đối tác công ty, kiểm toán viên bên ngoài, đại lý hoặc các bên mà công ty đã ký kết hợp đồng tư vấn như tư vấn pháp lý, tư vấn quản lý... thì cần phải báo cáo các vấn đề liên quan cho người chịu trách nhiệm công bố thông tin. Người chịu trách nhiệm công bố thông tin phải chú ý để không bỏ sót nếu thông tin cần công bố là đối tượng công bố công bằng.\n② Trong trường hợp thuộc khoản 1, người chịu trách nhiệm công bố thông tin phải thực hiện các biện pháp cần thiết như ký kết hợp đồng bảo mật thông tin nội bộ liên quan.",
+      "title3": "Chương 3: Công bố thông tin nội bộ",
+      "label3_1": "Điều 9 (Các loại công bố thông tin)",
+      "sub3_1": "Thông tin công bố của công ty được phân loại như sau\n\t1. Báo cáo và công bố các vấn đề quản lý quan trọng theo Phần 1, Chương 2, Mục 1 của Quy định công bố thông tin\n\t2. Điều tra và công bố theo Phần 1, Chương 2, Mục 2 của Quy định công bố thông tin\n\t3. Công bố thông tin công bằng theo Phần 1, Chương 2, Mục 3 của Quy định công bố thông tin\n\t4. Công bố thông tin tự do theo Phần 1 Chương 3 Quy định công bố thông tin\n\t5. Nộp báo cáo chứng khoán, v.v. theo Phần 3 Chương 1 của Đạo luật\n\t6. Nộp báo cáo kinh doanh, v.v. theo Điều 159, 160 và 165 của Đạo luật và Phần 1, Chương 2, Mục 4 của Quy định công bố thông tin\n\t7. Nộp báo cáo các thông tin quan trọng theo Điều 161 của Đạo luật\n\t8. Công bố thông tin theo Điều 10, Đoạn 1 Quy định công bố thông tin\n\t9. Các công bố thông tin khác theo quy định của pháp luật",
+      "label3_2": "Điều 10 (Thực hiện công bố thông tin)",
+      "sub3_2": "① Nếu xảy ra vấn đề công bố thông tin được quy định tại Điều 9, người công bố thông tin phải soạn các nội dung cần thiết, chuẩn bị các tài liệu cần thiết, v.v. và báo cáo cho người chịu trách nhiệm công bố thông tin.\n② Người chịu trách nhiệm công bố thông tin phải xem xét xem nội dung và tài liệu tại Đoạn 1 có vi phạm luật pháp và quy định liên quan hay không, báo cáo vấn đề này với Giám đốc điều hành và sau đó mới công bố thông tin.\n③ Khi phát sinh việc cần công bố, cần công bố kịp  thời các vấn đề cần được công bố",
+      "label3_3": "Điều 11 (Các biện pháp tiếp theo sau khi công bố)",
+      "sub3_3": "Nếu có sai sót hoặc thiếu sót trong nội dung được công bố, người chịu trách nhiệm công bố và người công bố phải thực hiện các biện pháp để khắc phục ngay lập tức.",
+      "label3_4": "Điều 12 (Đưa tin trên phương tiện truyền thông)",
+      "sub3_4": "① Nếu có yêu cầu đưa tin về công ty từ một phương tiện truyền thông, về nguyên tắc, Giám đốc điều hành hoặc người chịu trách nhiệm công bố thông tin sẽ phản hồi. Nếu cần thiết, giám đốc điều hành và nhân viên của các bộ phận liên quan có thể được phỏng vấn.\n② Nếu công ty muốn phát hành thông cáo báo chí cho các cơ quan truyền thông, công ty phải tham khảo ý kiến ​​của người chịu trách nhiệm công bố thông tin. Nếu cần thiết, người chịu trách nhiệm công bố thông tin phải báo cáo các vấn đề liên quan đến việc phát hành thông cáo báo chí cho Giám đốc điều hành.\n③ Các người điều hành và nhân viên nếu biết được các báo cáo trên phương tiện truyền thông khác với sự thật phải báo cáo điều này cho người chịu trách nhiệm công bố thông tin. Người chịu trách nhiệm tiết lộ thông tin phải báo cáo các vấn đề liên quan tới Giám đốc điều hành và thực hiện các hành động cần thiết.\n④ Nếu nội dung của thông cáo báo chí là công bố công bằng thì nội dung đó phải được công bố trước khi được thông cáo báo chí.",
+      "label3_5": "Điều 13 (Buổi giới thiệu doanh nghiệp)",
+      "sub3_5": "① Buổi giới thiệu doanh nghiệp về chi tiết quản lý, kế hoạch kinh doanh và triển vọng của công ty... phải được tổ chức dưới sự tham vấn của người chịu trách nhiệm công bố thông tin.\n② Cần phải nhận thức rằng hoạt động giới thiệu doanh nghiệp là trách nhiệm của các công ty đã niêm yết nên phải nỗ lực để đảm bảo các hoạt động giới thiệu doanh nghiệp được diễn ra mang tính tự nguyện và liên tục.\n③ Khi tiến hành hoạt động giới thiệu doanh nghiệp, cần chú ý để không công bố những vấn đề chưa được công bố trước đây.",
+      "title4": "Chương 4: Quy định về giao dịch nội gián",
+      "label4_1": "Điều 14 (Hoàn trả lợi nhuận giao dịch ngắn hạn)",
+      "sub4_1": "① Người điều hành và nhân viên được quy định tại Điều 172 khoản 1 của Đạo luật và Điều 194 của Nghị định thi hành Đạo luật, theo Điều 172 khoản 1 của Đạo luật, nếu bán chứng khoán cụ thể trong vòng 6 tháng sau khi mua chúng, hoặc mua và bán kiếm lợi nhuận trong vòng 6 tháng sau khi bán chứng khoán cụ thể thì khoản lợi nhuận đó (sau đây gọi là “Lợi nhuận giao dịch ngắn hạn”) phải được hoàn trả cho công ty.\n② Trong trường hợp cổ đông của công ty (bao gồm những người sở hữu chứng khoán vốn hoặc lưu ký chứng khoán không phải là cổ phiếu, sau đây áp dụng tương tự tại Điều này) yêu cầu công ty hoàn lại lợi nhuận giao dịch ngắn hạn từ người đã thu lợi được từ giao dịch ngắn hạn theo Khoản 1 thì công ty phải thực hiện các biện pháp cần thiết trong vòng 02 tháng kể từ ngày nhận yêu cầu.\n③ Trong trường hợp Ủy ban Chứng khoán và Hợp đồng Tương lai thông báo cho công ty về việc xảy ra việc thu lợi nhuận từ giao dịch ngắn hạn theo Khoản 1, người chịu trách nhiệm công bố thông tin sẽ phải ngay lập tức thông báo các vấn đề sau trên trang chủ internet của công ty.\n\t 1. Vị trí của người phải hoàn trả lợi nhuận kinh doanh ngắn hạn\n\t2. Số tiền lợi nhuận thu được do giao dịch ngắn hạn\n\t3. Ngày Ủy ban Chứng khoán và Hợp đồng Tương lai thông báo phát sinh lợi nhuận do giao dịch ngắn hạn\n\t4. Phương án yêu cầu hoàn trả lợi nhuận giao dịch ngắn hạn\n\t5. Cổ đông của công ty có quyền yêu cầu công ty hoàn lại lợi nhuận giao dịch ngắn hạn từ người đã thu được lợi nhuận do giao dịch ngắn hạn và nếu công ty không thực hiện yêu cầu trong vòng 02 tháng kể từ ngày nhận yêu cầu, cổ đông có quyền thay mặt công ty yêu cầu hoàn lại lợi nhuận phát sinh do giao dịch ngắn hạn.\n④ Thời gian công bố theo Khoản 3 sẽ là 02 năm kể từ ngày Ủy ban Chứng khoán và Hợp đồng Tương lai thông báo phát sinh lợi nhuận do giao dịch ngắn hạn, hoặc cho đến ngày hoàn trả lợi nhuận giao dịch ngắn hạn, tùy điều kiện nào đến trước.",
+      "label4_2": "Điều 15 (Thông báo về giao dịch chứng khoán cụ thể)",
+      "sub4_2": "① Người điều hành và nhân viên được quy định tại Điều 172 của Đạo luật và Điều 194 của Nghị định thi hành Đạo luật phải thông báo cho người chịu trách nhiệm công bố thông tin khi tham gia giao dịch mua bán hoặc các giao dịch khác của chứng khoán cụ thể.\n② Nếu người điều hành (bao gồm cả người điều hành chưa đăng ký) nắm giữ hoặc thực hiện giao dịch mua bán chứng khoán cụ thể của công ty thì họ phải cung cấp các thông tin chi tiết liên quan cho người chịu trách nhiệm công bố hoặc người công bố thông tin trong vòng 2 ngày.",
+      "label4_3": "Điều 16 (Cấm lợi dung thông tin quan trọng chưa được công khai)",
+      "sub4_3": "Theo quy định tại Điều 174 khoản 1 của Đạo luật, người điều hành và nhân viên không được sử dụng hoặc cho phép người khác sử dụng thông tin quan trọng chưa được công khai (bao gồm thông tin quan trọng chưa được công khai của các công ty liên kết) trong giao dịch chứng khoán cụ thể hoặc các giao dịch khác.\n\n※ Để nhận thông báo và báo cáo các nội dung thuộc Điều 14 đến Điều 16, công ty có thể đăng ký “Dịch vụ thông báo giao dịch nội gián của nhân viên và người điều hành công ty niêm yết (KRX-Insider Trading Alarm Service)”  do Sàn giao dịch Hàn Quốc cung cấp để ngăn chặn người nội bộ sử dụng thông tin chưa công khai, ngăn chặn các giao dịch không công bằng như hoàn trả lợi nhuận giao dịch ngắn hạn và báo cáo cổ phiếu.",
+      "label4_4": "Điều 17 (Thông tin nội bộ quan trọng của các công ty liên kết)",
+      "sub4_4": "① Người điều hành và nhân viên phải quản lý chặt chẽ mọi thông tin quan trọng chưa công khai của các công ty liên kết đã biết được qua quá trình làm việc và không được rò rỉ hoặc tiết lộ thông tin đó trong công ty hoặc ngoài công ty, trừ khi cần thiết cho công việc.\n② Nếu người điều hành và nhân viên biết được thông tin quan trọng chưa được công khai của công ty liên kết, họ không được sử dụng thông tin đó hoặc cho phép người khác sử dụng thông tin đó.",
+      "title5": "Chương 5: Điều khoản bổ sung",
+      "label5_1": "Điều 18 (Đào tạo)",
+      "sub5_1": "Người chịu trách nhiệm công bố thông tin và người công bố thông tin phải hoàn thành khóa đào tạo về công tác công bố thông tin theo Điều 36 và Điều 44 khoản 5 của Quy định công bố thông tin. Đồng thời, người chịu trách nhiệm công bố thông tin phải thông báo về nội dung đào tạo cho người điều hành và nhân viên.",
+      "label5_2": "Điều 19 (Thay đổi hay bãi bỏ quy định)",
+      "sub5_2": "Mọi thay đổi hay bãi bỏ quy định này sẽ được giải quyết bằng quyết định của Hội đồng Quản trị.",
+      "label5_3": "Điều 20 (Công bố quy định)",
+      "sub5_3": "Quy định này được công bố trên trang chủ của công ty. Khi thay đổi nội dung quy định cũng sẽ áp dụng tương tự."
+    },
+    "irReport": {
+      "title": "Financial Report",
+      "desc": "Seoul Viosys xây dựng niềm tin thông qua việc cung cấp thông tin minh bạch.",
+      "performanceReport": "Tài liệu trình bày về thành tích",
+      "mainReport": "Báo cáo quan trọng",
+      "auditReport": "Báo cáo kiểm toán",
+      "tradingReport": "Báo cáo kinh doanh",
+      "businessReport": "Báo cáo tình hình công ty",
+      "otherData": "Các tài liệu khác",
+      "bannerLink": "IR Materials"
+    },
+    "irNotice": {
+      "title": "공고",
+      "desc": "서울바이오시스의 주요 공고사항을 확인하세요(vn)"
+    }
+  },
+  "support": {
+    "title": "Hỗ trợ",
+    "searchFilter": "Bộ lọc tìm kiếm",
+    "documentLibrary": {
+      "title": "Download",
+      "desc": "Khám phá các tài liệu sản phẩm của Seoul Viosys.",
+      "placeholder": "Input Part No. or file name."
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "desc": "Liên hệ ngay với chúng tôi để biết thêm chi tiết.",
+      "productInquiry": "Hỏi đáp về sản phẩm",
+      "exordium": "Nếu Quý khách có bất kỳ thắc mắc nào,\nliên hệ với chúng tôi để được tư vấn.",
+      "required": "Trường bắt buộc.",
+      "ruleName": "Vui lòng nhập theo định dạng hợp lệ.",
+      "ruleEmail": "Vui lòng nhập theo định dạng email hợp lệ.",
+      "rulePhone": "Enter only numbers",
+      "form": {
+        "inquiryCategory": {
+          "label": "Phân loại câu hỏi",
+          "placeholder": "Hỏi về sản phẩm"
+        },
+        "inquiryProduct": {
+          "label": "Sản phẩm cần hỏi",
+          "placeholder": "Vui lòng chọn sản phẩm cần hỏi."
+        },
+        "inquiryEtc": {
+          "label": "상세 구분",
+          "placeholder": "상세 구분을 선택해주세요."
+        },
+        "country": {
+          "label": "Quốc gia",
+          "placeholder": "Chọn quốc gia (Dựa trên địa điểm kinh doanh)"
+        },
+        "phone": {
+          "label": "Phone number (Enter only numbers)",
+          "placeholder": "Please enter your phone number. (numbers only)"
+        },
+        "route": {
+          "label": "Bạn biết đến chúng tôi qua kênh nào?",
+          "placeholder": "Chọn kênh thông tin"
+        },
+        "name": {
+          "label": "Tên",
+          "placeholder": "Nhập tên của bạn."
+        },
+        "email": {
+          "label": "Email",
+          "placeholder": "Nhập email của bạn."
+        },
+        "detail": {
+          "label": "Nội dung",
+          "placeholder": "Nhập nội dung câu hỏi."
+        },
+        "button": "Gửi câu hỏi"
+      },
+      "terms": {
+        "title": "Đồng ý thu thập và sử dụng thông tin cá nhân",
+        "agree": "Tôi đồng ý với việc thu thập và sử dụng thông tin cá nhân bên trên.",
+        "subtitle1": "1. Mục đích của thu thập và sử dụng thông tin cá nhân",
+        "subtitle2": "2. Các hạng mục thông tin cá nhân được thu thập",
+        "subtitle3": "3. Thời gian lưu trữ và sử dụng thông tin cá nhân",
+        "content1": "Chúng tôi xử lý thông tin cá nhân cho mục đích trả lời các câu hỏi về công ty và sản phẩm.",
+        "content2": "Hạng mục thông tin thu thập:",
+        "content2_highlight": "Quốc gia, tên, email",
+        "content3_1": "Thông tin cá nhân bạn đã nhập sẽ được ",
+        "content3_highlight": " lưu trữ và xóa đi sau 1 năm ",
+        "content3_2": "kể từ khi hoàn tất phản hồi cho yêu cầu của bạn. Tuy nhiên, nếu người gửi câu hỏi trực tiếp yêu cầu xóa thì thông tin sẽ bị xóa ngay lập tức.",
+        "subtitle4": "4. Quyền từ chối đồng ý và những bất lợi do từ chối đồng ý",
+        "content4": "Khách hàng có quyền không đồng ý với việc thu thập và sử dụng thông tin cá nhân.\nTuy nhiên, chúng tôi sẽ không thể phản hồi các câu hỏi nếu quý khách không nhập các thông tin cá nhân như địa chỉ email hoặc thông tin liên hệ."
+      },
+      "inquiryCategory": {
+        "productInquiry": "Hỏi về sản phẩm",
+        "sampleInquiry": "Hỏi về sản phẩm mẫu",
+        "promotionalInquiry": "Hỏi về quảng cáo",
+        "recruitmentInquiry": "Hỏi về tuyển dụng",
+        "investmentInquiry": "Hỏi về đầu tư",
+        "generalInquiry": "Câu hỏi thông thường",
+        "marketingInquiry": "Hỏi về marketing",
+        "inconvenience": "Phản ánh vấn đề"
+      },
+      "visitRoute": {
+        "googleSearch": "Tìm kiếm qua Google",
+        "naverSearch": "Tìm kiếm qua Naver",
+        "onlineAdvertising": "Quảng cáo online (banner, video…)",
+        "SNS": "SNS (Facebook, LinkedIn, Medium, Twitter…)",
+        "onlineEvents": "Sự kiện online (webinar, bài giảng trực tuyến…)",
+        "offlineEvents": "Sự kiện offline (triển lãm, hội nghị…)",
+        "pressRelease": "Thông cáo báo chí",
+        "thesisJournal": "Luận văn/Tạp chí",
+        "community": "Cộng đồng",
+        "recommend": "Người quen/đồng nghiệp giới thiệu",
+        "etc": "Khác"
+      },
+      "textareaPattern": "Không thể sử dụng ký tự đặc biệt <, >, ', \\'.",
+      "submissionSuccess": "Yêu cầu của bạn đã được tiếp nhận."
+    },
+    "discontinuedProducts": {
+      "title": "Sản phẩm ngừng sản xuất",
+      "productSoldOut": "Sản phẩm ngừng sản xuất",
+      "placeholder": "Vui lòng nhập Part No.",
+      "replacementProduct": "Replacement Product",
+      "dataNotFound": "Không tìm thấy sản phẩm mong muốn?"
+    },
+    "documentsSearch": {
+      "title": "Documents Search",
+      "placeholder": "Vui lòng nhập Part No. để tìm kiếm tài liệu"
+    },
+    "categorySearch": {
+      "title": "Category Search",
+      "placeholderLevel2": "Select Product Level 2",
+      "placeholderLevel3": "Select Product Level 3",
+      "documentSearch": "Document Search"
+    },
+    "nodata": "Không tìm thấy bài viết nào."
+  },
+  "product": {
+    "placeholderSearch": "Vui lòng nhập Part No.",
+    "violet": {
+      "title": "UV LED",
+      "subTitle": "Tia UV là năng lượng ánh sáng có bước sóng ngắn hơn (200-400 nm) so với ánh sáng khả kiến.\n Tia UV được gọi là tia cực tím do nằm trong vùng màu tím của ánh sáng khả kiến.\nTùy thuộc vào dải bước sóng, tia UV được chia thành ba loại chính: UVC, UVB và UVA.",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Tải tài liệu sản phẩm",
+        "productInquiryBtn": "Liên hệ về mẫu và sản phẩm"
+      },
+      "banner": {
+        "title": "Home Appliance & Industrial",
+        "desc": "Cung cấp nhiều giải pháp cho các ngành công nghiệp bao gồm khử trùng-khử khuẩn (UVC), tái tạo da (UVB) đến lọc không khí, nước và tăng trưởng thực vật.",
+        "buttonText": "View more applications"
+      }
+    },
+    "micro": {
+      "title": "Micro LED",
+      "subTitle": "Việc triển khai MicroLED phụ thuộc hoàn toàn vào công nghệ gốc No Wire của SVC. Đây là sản phẩm đầu tiên và duy nhất trên thế giới tích hợp ba màu RGB vào một chip và pixel duy nhất.",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Tải tài liệu sản phẩm",
+        "productInquiryBtn": "Liên hệ về mẫu và sản phẩm"
+      },
+      "banner": {
+        "title": "MicroLED Display",
+        "desc": "Dẫn đầu hệ sinh thái micro LED trong việc phát triển Chip RGB One dạng xếp chồng đầu tiên trên thế giới.",
+        "buttonText": "View more applications"
+      }
+    },
+    "vcsel": {
+      "title": "VCSEL LD",
+      "subTitle": "Nền tảng được tối ưu hóa cho nhiều ứng dụng di động\ngiúp nâng cao hiệu suất, gia tăng độ nhận diện,\nđồng thời giảm thiểu tiêu thụ điện năng và tiết kiệm chi phí.",
+      "productSearchBtn": "Product Search",
+      "bottomBtnWrap": {
+        "documentDownloadBtn": "Tải tài liệu sản phẩm",
+        "productInquiryBtn": "Liên hệ về mẫu và sản phẩm"
+      },
+      "banner": {
+        "title": "Sensor & Data Communications",
+        "desc": "Dẫn đầu về công nghệ thị trường truyền thông trung tâm dữ liệu AI, 6G và cảm biến 3D với giải pháp VCSEL công nghệ laser thế hệ mới.",
+        "buttonText": "View more applications"
+      }
+    }
+  },
+  "media": {
+    "placeholder": "Các bạn hãy nhập từ khóa tìm kiếm nha",
+    "news": {
+      "title": "Newsroom",
+      "desc": "Xem các sự kiện mới nhất và tin tức quan trọng của Seoul Viosys.",
+      "category": {
+        "placeholder": "Tất cả"
+      },
+      "sort": "Mới nhất"
+    },
+    "event": {
+      "title": "Events",
+      "button": "Đi đến sự kiện",
+      "subTitle": "Khám phá các sự kiện của Seoul Viosys.",
+      "modal": {
+        "title1": "Sao chép URL",
+        "title2": "Tìm hiểu thêm"
+      }
+    },
+    "insight": {
+      "title": "Blog of Light",
+      "subTitle": "Câu chuyện về kiến thức ánh sáng càng biết càng thú vị khoa học về ánh sáng",
+      "series": "Light Series"
+    },
+    "banner": {
+      "title": "Contact Us",
+      "desc": "Vui lòng liên hệ với chúng tôi nếu có bất kỳ thắc mắc nào.",
+      "buttonText": "Liên hệ"
+    }
+  },
+  "technology": {
+    "wicop": {
+      "catalogue": {
+        "whatIs": "WICOP là gì?",
+        "characteristic": "Đặc điểm",
+        "applicationField": "Lĩnh vực áp dụng"
+      },
+      "introduction": "WICOP (Wafer Integrated Chip on PCB) is a technology that involves mounting the chip directly onto the substrate without using wires or packages. \nThis method eliminates the traditional packaging steps, allowing for a slimmer design",
+      "introductionMobile": "WICOP (Wafer Integrated Chip on PCB) is a technology that involves mounting the chip directly onto the substrate without using wires or packages. \nThis method eliminates the traditional packaging steps, allowing for a slimmer design",
+      "WICOPCharacteristic": {
+        "title": "High Light Efficiency",
+        "item": "By minimizing optical loss, it provides high light efficiency and output.",
+        "item_1": "It can achieve excellent color rendering and uniform light distribution.",
+        "title2": "High Reliability",
+        "item2": "With low thermal resistance and excellent heat dissipation, it offers high reliability.",
+        "item2_1": "It has superior resistance to thermal shock and mechanical stress.",
+        "title3": "Flexible and Slim Design and Applicability",
+        "item3": "As an ultra-thin LED mounted directly on the substrate, it allows for designs in various shapes and sizes.",
+        "item3_1": "It can be utilized in various fields such as automotive, displays, lighting, and home appliances.",
+        "title4": "Eco-friendliness",
+        "item4": "By minimizing the materials and energy used in the manufacturing process, it reduces the environmental impact."
+      },
+      "WICOPCharacteristic2": {
+        "sub_title": "WICOP",
+        "title": "Display\nTechnology Trends",
+        "title_desc": "Beyond CSP, New generation LED technology for various application design solutions"
+      },
+      "WICOPCharacteristic3": {
+        "sub_title": "WICOP mini",
+        "title": "No Wire, No Package,\nNo Lens",
+        "title_desc": "Unique tunable beam pattern technology enable the best solution for thin display"
+      }
+    },
+    "acrich": {
+      "catalogue": {
+        "whatIs": "Acrich là gì?",
+        "characteristic": "Đặc điểm",
+        "applicationField": "Lĩnh vực áp dụng",
+        "references": "Tài liệu liên quan"
+      },
+      "introduction": "Acrich is a portmanteau of AC and rich, referring to AC Direct driving technology \nthat utilizes high-voltage MJT (Multi Junction Technology) LED technology and AC DOB (Driver On Board) switching technology.",
+      "characteristic2": {
+        "title": "Công nghệ MJT, MCT\nphát triển LED điện áp cao​",
+        "des": "Để phát triển LED điện áp cao đòi hỏi phải có những công nghệ chi tiết như  MJT (Multi Junction Technology) và MCT(Multi Chip Technology).",
+        "desMobile": "Để phát triển LED điện áp cao đòi hỏi phải có những công nghệ chi tiết như  MJT (Multi Junction Technology) và MCT(Multi Chip Technology)."
+      },
+      "characteristic3": {
+        "title": "Công nghệ IC Switching\ngia tăng hiệu suất cao​",
+        "des": "Công nghệ IC Switching có thể điều khiển được bằng AC Power và mang lại hiệu suất cao. Công nghệ này cải thiện độ tin cậy nhờ vào việc phát triển bo mạch có thể chịu được nguồn điện xoay chiều và đưa hiệu suất của AC Direct DOB tiến gần hơn với SMPS."
+      },
+      "applicationField": {
+        "title": "Lĩnh vực áp dụng",
+        "des": "Chúng tôi cung cấp các giải pháp tổng thể bao gồm mô-đun, động cơ, ống kính và tản nhiệt."
+      },
+      "remveveDriver": "Việc loại bỏ Driver không chỉ giúp giảm trọng lượng của Driver mà còn\ngiảm trọng lượng của toàn bộ hệ thống bảo vệ cơ học cho Driver.​",
+      "driverOnBoard": "Driver On Board cho phép người ta phát triển được các sản phẩm mỏng nhẹ,\nđồng thời mang lại sự linh hoạt trong thiết kế.",
+      "smallComponents": "SMPS đòi hỏi nhiều thành phần để điều khiển bo mạch, nhưng Acrich thì đơn giản hóa\ntoàn bộ mạch bằng cách thực hiện chuyển đổi trực tiếp trên IC bằng truyền động tuyến tính.",
+      "smallComponentsMobile": "SMPS đòi hỏi nhiều thành phần để điều khiển bo mạch, nhưng Acrich thì đơn giản hóa\ntoàn bộ mạch bằng cách thực hiện chuyển đổi trực tiếp trên IC bằng truyền động tuyến tính.",
+      "fixtureDesign": "Giảm kích thước bằng cách loại bỏ Driver Part và thiết bị cố định,\nđồng thời có thể cải thiện hiệu suất tản nhiệt nhờ Flat Design."
+    },
+    "microled": {
+      "catalogue": {
+        "whatIs": "WICOP Pixel là gì?",
+        "characteristic": "Đặc điểm",
+        "applicationField": "Lĩnh vực áp dụng"
+      },
+      "introduction": "WICOP Pixel is the world's first real RGB 1-chip​ technology for implementing a MicroLED display\n based on the WICOP technology, which uses no wires",
+      "sameColor": {
+        "title": "Same Color",
+        "des": "It maintains consistent colors without distortion from any viewing angle,\n even at 360 degrees"
+      },
+      "smallSpace": {
+        "title": "Small Space",
+        "des": "Cho thấy sự tương phản rõ ràng và màu sắc mịn hơn nhờ vào\nviệc phát triển đèn LED siêu nhỏ để thể hiện các pixel nhỏ hơn."
+      },
+      "costDown": {
+        "title": "Ultra Fine pitch",
+        "des": "WICOP Pixel can achieve ultra-high resolution and exceptional image quality through its very small pixel pitch."
+      },
+      "cesInnovation": {
+        "title": "CES Innovation Award Product",
+        "titleMobile": "CES Innovation\nAward Product",
+        "des": "Experience WICOP Pixel, MicroLED winner at CES awards",
+        "desMobile": "Experience WICOP Pixel,\nMicroLED winner at\nCES awards",
+        "type": "Honoree",
+        "cont": "Video Displays",
+        "item": "Real One Pixel MicroLED that composed with R/G/B layred stack structure"
+      }
+    },
+    "uv": {
+      "catalogue": {
+        "whatIs": "Violeds là gì?",
+        "characteristic": "Đặc điểm",
+        "applicationField": "Lĩnh vực áp dụng"
+      },
+      "introduction": "Tia UV là năng lượng ánh sáng có bước sóng ngắn hơn (200-400 nm) so với ánh sáng nhìn thấy được.\nDo nằm trong vùng màu tím của ánh sáng nhìn thấy được, nó được gọi là tia cực tím (UV) và được phân thành 3 loại UVC, UVB và UVA tùy thuộc vào phạm vi bước sóng.\nCông nghệ làm sạch bằng UV LED tiên tiến có thể ứng dụng vào việc khử trùng, làm sạch và khử mùi hiệu quả cho nước, không khí và bề mặt.",
+      "introductionMobile": "Tia UV là năng lượng ánh sáng có bước sóng ngắn hơn (200-400 nm) so với ánh sáng nhìn thấy được.\nDo nằm trong vùng màu tím của ánh sáng nhìn thấy được, nó được gọi là tia cực tím (UV) và được phân thành 3 loại UVC, UVB và UVA tùy thuộc\nvào phạm vi bước sóng.",
+      "characteristic1": {
+        "title": "Hiệu suất năng lượng cao",
+        "des": "Đèn LED UV tiết kiệm năng lượng hơn nhiều so với đèn thủy ngân truyền thống và cung cấp lượng tia cực tím tương đương, thậm chí là cao hơn. Đèn LED UV chuyển đổi năng lượng điện thành tia UV  với hiệu suất cao hơn đèn thủy ngân, trong khi đó đèn thủy ngân ngoài tạo tia UV còn tạo ra năng lượng nhiệt, dẫn đến việc thất thoát năng lượng.",
+        "des2": "Ngoài ra, đèn LED UV phát ra tia UV ngay khi được cung cấp năng lượng điện, không cần thời gian làm nóng hoặc làm mát trước. Điều này không chỉ giúp tiết kiệm chi phí vận hành mà còn giảm lượng khí thải carbon nhờ tiết kiệm năng lượng trong quá trình sử dụng tia cực tím.",
+        "desMobile": "Đèn LED UV tiết kiệm năng lượng hơn nhiều so với đèn thủy ngân truyền thống và cung cấp lượng tia cực tím tương đương, thậm chí là cao hơn. Đèn LED UV chuyển đổi năng lượng điện thành tia UV  với hiệu suất cao hơn đèn thủy ngân, trong khi đó đèn thủy ngân ngoài tạo tia UV còn tạo ra năng lượng nhiệt, dẫn đến việc thất thoát năng lượng. \n\nNgoài ra, đèn LED UV phát ra tia UV ngay khi được cung cấp năng lượng điện, không cần thời gian làm nóng hoặc làm mát trước. Điều này không chỉ giúp tiết kiệm chi phí vận hành mà còn giảm lượng khí thải carbon nhờ tiết kiệm năng lượng trong quá trình sử dụng tia cực tím."
+      },
+      "characteristic2": {
+        "title": "Tuổi thọ lâu dài",
+        "des": "Đèn LED UV có thể sử dụng được trong thời gian dài, trên 20.000 giờ.\nNgược lại, đèn thủy ngân có tuổi thọ hạn chế và cần phải thay thế thường xuyên,\nđây cũng là một nguyên nhân làm gián đoạn quá trình sản xuất."
+      },
+      "characteristic3": {
+        "title": "Giảm phát  nhiệt và nâng cao an toàn lao động",
+        "des": "Đèn LED UV tỏa ra ít nhiệt hơn đèn thủy ngân, giảm nguy cơ hư hỏng do nhiệt đối với sản phẩm được sản xuất và tăng năng suất. Chúng tạo ra môi trường làm việc an toàn và hiệu quả hơn, ngăn ngừa nguy cơ bỏng cho người lao động"
+      },
+      "applicationField": {
+        "title": "Lĩnh vực áp dụng",
+        "des": "Đèn LED UV đang được ứng dụng trong nhiều lĩnh vực, từ đồ gia dụng đến thiết bị ô tô và công nghiệp."
+      }
+    },
+    "sunLike": {
+      "catalogue": {
+        "whatIs": "SunLike là gì?",
+        "characteristic": "Đặc điểm",
+        "applicationField": "Lĩnh vực áp dụng"
+      },
+      "sunlight": {
+        "introduction": "Nguồn ánh sáng do thiên nhiên ban tặng là ánh sáng dễ chịu và tốt nhất cho con người.\nThế giới đang tập trung vào việc mô phỏng ánh sáng tự nhiên, ánh sáng lấy con người làm trung tâm.​",
+        "relationship": "Con người đã tiến hóa cùng với ánh sáng mặt trời kể từ khi Trái đất được hình thành cách đây 4,5 tỷ năm.",
+        "relationshipMobile": "Con người đã tiến hóa cùng với ánh sáng mặt trời kể từ khi Trái đất được hình thành cách đây 4,5 tỷ năm.",
+        "des1": "Dựa trên cách tính ngày 24 giờ, DNA của con người chúng ta đã tiến hóa để hoạt đồng vào ban ngày khi ánh mặt trời chiếu sáng và ngủ trong bóng tối vào ban đêm. Vào ban ngày, bạn có thể cảm nhận được sức sống nhờ hormone  'serotonin' tiết ra khi có ánh sáng mặt trời. Còn ban đêm, bạn có thể có một giấc ngủ ngon nhờ có hormone 'melatonin'. Trên thực tế, ánh sáng mặt trời kích thích hormone serotonin tiết ra nhiều hơn và ban đêm là thời gian của hormone melatonin. Vì vậy, “ánh sáng mặt trời” là yếu tố thiết yếu trong việc tạo ra nhịp sinh học lành mạnh.",
+        "des2": "Chúng ta thường dành nhiều thời gian dưới ánh sáng trong nhà hơn là dưới ánh sáng tự nhiên từ mặt trời. Vì thế ta cần quan tâm hơn đến việc nên lựa chọn nguồn sáng nào khi sử dụng trong cuộc sống hàng ngày để có thể có một cuộc sống khỏe mạnh. Ánh sáng tự nhiên là nguồn sáng tốt nhất cho con người. Thế giới hiện nay cũng đang tập trung mô phỏng ánh sáng tự nhiên, lấy con người làm trung tâm.",
+        "solutions": "Giải pháp chiếu sáng lấy con người làm trung tâm (Human Centric Lighting) Đây là công nghệ chiếu sáng mô phỏng ánh sáng tự nhiên để ổn định nhịp sinh học của con người và mang lại sự thoải mái, sức khỏe, hạnh phúc cho con người. Đồng thời đây cũng là một khái niệm mời trong ngành chiếu sáng chuyên nghiệp."
+      },
+      "introduction": "SunLike cung cấp ánh sáng có lợi cho con người bằng cách tái tạo quang phổ gần giống với ánh sáng tự nhiên.",
+      "subIntroduction": "Việc tiếp xúc lâu với ánh sáng thường có quá nhiều ánh sáng xanh sẽ gây mệt mỏi cho mắt và cơ thể, đồng thời phá vỡ nhịp sinh học. SunLike giúp giảm bước sóng ánh sáng xanh và tái tạo quang phổ ánh sáng tự nhiên tương tự như ánh sáng tự nhiên.",
+      "feature1": {
+        "label": "Better Eye",
+        "title": "Phòng ngừa cận thị",
+        "des": "Có hiệu quả trong việc giảm mỏi mắt và cải thiện sức khỏe mắt của trẻ em đang  trong giai đoạn phát triển."
+      },
+      "feature2": {
+        "label": "Better Sleep",
+        "title": "Hỗ trợ giấc ngủ",
+        "des": "Giúp bạn thoải mái nghỉ ngơi và mang lại giấc ngủ ngon."
+      },
+      "feature3": {
+        "label": "Better Study",
+        "title": "Cải thiện khả năng học tập",
+        "des": "Tăng sự tỉnh táo vào ban ngày và tăng hiệu quả học tập."
+      },
+      "feature4": {
+        "label": "Comfortable Ambient",
+        "title": "Tạo môi trường thoải mái",
+        "des": "SunLike tạo ra môi trường thoải mái trong mọi không gian  bằng cách cung cấp ánh sáng giống với tự nhiên."
+      },
+      "feature5": {
+        "label": "Natural Color",
+        "title": "Thể hiện màu sắc chính xác",
+        "des": "Thể hiện màu sắc của vật thể một cách chính xác nhất."
+      },
+      "feature6": {
+        "label": "Best Eye Safety",
+        "title": "Chứng nhận ánh sáng an toàn",
+        "des": "Chúng tôi đã giành được 10 giải thưởng cộng nghệ đổi mới thế giới tại 5 quốc gia."
+      },
+      "effect1": {
+        "type": "Effect 01",
+        "label": "Better Eye",
+        "title": "Sản phẩm có hiệu quả trong việc giảm mỏi mắt và cải thiện sức khỏe mắt của trẻ em đang trong giai đoạn phát triển.",
+        "des": "Bạn có nghĩ cận thị là do di truyền? Theo kết quả khảo sát ở 4 quốc gia châu Á, tỷ lệ cận thị ở trẻ em đã tăng gấp 4 lần trong 50 năm qua. Đặc biệt, Hàn Quốc đứng đầu thế giới về tỷ lệ cận thị ở trẻ em với 97%. Khi người ta ưa thích các hoạt động trong nhà hơn, giảm bớt hoạt động ngoài trời, sử dụng smartphone và tăng thêm thời gian học tập thì nguy cơ mắc bệnh cận thị cũng tăng cao.",
+        "item1": {
+          "label": "Mỏi mắt",
+          "title": "Giảm 4.3 lần",
+          "des": "Tình trạng mỏi mắt sẽ giảm bớt khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "item2": {
+          "label": "Sức khỏe mắt",
+          "title": "Cải thiện 1.2 lần",
+          "des": "Sức khỏe mắt được cải thiện khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "item3": {
+          "label": "Tiến triển bệnh cận thị",
+          "title": "Giảm tốc độ cận thị",
+          "des": "Kết quả thí nghiệm cho thấy rằng quá trình tiến triển của cận thị bị chậm lại khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": "*Kết quả thí nghiệm trên gà con"
+        },
+        "item4": {
+          "label": "Cải thiện bệnh cận thị",
+          "title": "Cải thiện bệnh cận thị",
+          "des": "Kết quả thí nghiệm cho thấy rằng cận thị có thể được cải thiện khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": "*Kết quả thí nghiệm trên gà con"
+        },
+        "popup": {
+          "item1": {
+            "highlight": "",
+            "title": "Tăng tỷ lệ mắc cận thị và nguyên nhân gây cận thị",
+            "des": "Khi tiếp xúc quá mức với ánh sáng nhân tạo có ánh sáng xanh mạnh, sự tiết dopamine từ võng mạc trở nên không ổn định, dẫn đến việc mắt phát triển quá mức và dễ mắc cận thị do khoảng cách giữa thủy tinh thể và võng mạc tăng lên. Ánh sáng tự nhiên giúp ổn định nhịp dopamine trong mắt và ngăn chặn sự phát triển quá mức của mắt, do đó có lợi cho việc phòng ngừa cận thị."
+          },
+          "item2": {
+            "highlight": "[Viện Nghiên cứu Mắt Singapore (SERI)] Thí nghiệm về mối liên hệ giữa ánh sáng và cận thị",
+            "title": "Tiến triển cận thị và cải thiện cận thị",
+            "des": "",
+            "detail2": {
+              "title": "Khi sử dụng SunLike",
+              "des": "tốc độ tiến triển cận thị được làm chậm lại, độ dày của màng mạch (màng giữa bao quanh mắt) tăng lên, và sự điều chỉnh ametropia (tầm nhìn bình thường) diễn ra nhanh chóng. Điều này có nghĩa là ánh sáng SunLike, nhờ vào việc tái tạo quang phổ tương tự như ánh sáng tự nhiên, đóng vai trò tích cực tương tự như ánh sáng tự nhiên đối với mắt, giúp làm chậm tiến triển cận thị và hỗ trợ phục hồi cận thị.",
+              "brand": {
+                "title": "Viện Nghiên cứu Mắt Singapore, Nghiên cứu hiệu quả của SunLike như một biện pháp đối phó với cận thị (2020)",
+                "des": "Một trong những loài động vật có cấu trúc mắt tương tự nhất với con người là gà con. Nghiên cứu đã tiến hành che một bên mắt của gà con trong 2 tuần để gây ra cận thị, sau đó tiếp tục cho chúng tiếp xúc với ánh sáng huỳnh quang và ánh sáng SunLike trong 2 tuần để so sánh hiệu quả phục hồi cận thị. Mục tiêu là đánh giá ảnh hưởng của LED SunLike đối với sự phát triển của mắt và tiến triển cận thị."
+              }
+            }
+          },
+          "item3": {
+            "highlight": "[Đại học Basel, Thụy Sĩ] Thí nghiệm về mức độ thoải mái của mắt theo ánh sáng",
+            "title": "Ánh sáng được chứng minh có chất lượng tốt hơn 1.2 lần",
+            "des": "",
+            "detail2": {
+              "title": "Đo chỉ số thoải mái của ánh sáng",
+              "des": "Trong thí nghiệm đo ‘chỉ số thoải mái của ánh sáng‘ kết hợp giữa ‘mức độ sáng‘ và ‘nhiệt độ màu‘, ánh sáng SunLike đã được chứng minh có chất lượng tốt hơn 1.2 lần so với ánh sáng thông thường.",
+              "brand": {
+                "title": "Đại học Basel, Nghiên cứu về tác động của LED ánh sáng tự nhiên đối với sự thoải mái của mắt, melatonin, tâm trạng, hiệu suất tỉnh táo và giấc ngủ, 2019",
+                "des": "Nghiên cứu đã tiến hành trên 15 người tham gia từ 19-35 tuổi với tình trạng mắt bình thường và không đeo kính, trong vòng 2-3 tuần để đánh giá sự thoải mái của mắt, mức độ melatonin, tâm trạng, hiệu suất tỉnh táo và hoạt động sóng não trong giấc ngủ."
+              }
+            }
+          },
+          "item4": {
+            "highlight": "[Trường Đại học Y Seoul] Thí nghiệm về mối liên hệ giữa ánh sáng và sự mệt mỏi của mắt",
+            "title": "Giảm cảm giác mệt mỏi của mắt 4.3 lần",
+            "des": "",
+            "detail2": {
+              "title": "Thí nghiệm giữa người dùng SunLike và người dùng ánh sáng thông thường",
+              "des": "Trong thí nghiệm về cảm giác mệt mỏi của mắt, thị lực mờ và độ nhạy cảm với ánh sáng, người dùng SunLike cho thấy mức độ mệt mỏi của mắt giảm hơn 4.3 lần so với người dùng ánh sáng thông thường.",
+              "brand": {
+                "title": "Trường Đại học Y Seoul, Nghiên cứu về tác động của việc sử dụng LED ánh sáng tự nhiên đối với giấc ngủ ban đêm và sự khó chịu của mắt, 2018",
+                "des": "Nghiên cứu được thực hiện trên 34 người tham gia từ 20-49 tuổi, chia thành 2 nhóm 17 người, sử dụng ánh sáng thông thường và ánh sáng SunLike, nhằm kiểm tra sự mệt mỏi của mắt, thị lực mờ, độ nhạy cảm với ánh sáng, tốc độ ngủ, tốc độ thức dậy vào buổi sáng, nhịp tim qua điện tâm đồ trong khi ngủ, và mức độ hoạt động của hệ thần kinh giao cảm và đối giao cảm."
+              }
+            }
+          }
+        }
+      },
+      "effect2": {
+        "type": "Effect 02",
+        "label": "Better Sleep",
+        "title": "Giúp bạn thoải mái nghỉ ngơi và mang lại giấc ngủ ngon.",
+        "des": "Công nghệ tái tạo quang phổ ánh sáng tự nhiên của SunLike kích thích tiết hormone serotonin vào ban ngày để giúp bạn tỉnh táo và kích thích tiết hormone melatonin vào ban đêm - loại hormone giúp bạn có một giấc ngủ ngon hơn. Một giấc ngủ ngon sẽ mang lại cho bạn nhiều lợi ích, ví dụ như cải thiện khả năng tập trung và chú ý, đồng thời cũng tăng cường chức năng miễn dịch được kích hoạt khi bạn đang chìm vào giấc ngủ.",
+        "item1": {
+          "label": "Thời gian để bắt đầu ngủ",
+          "title": "Giảm 23%",
+          "des": "Bạn có thể dễ dàng chìm vào giấc ngủ hơn khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "item2": {
+          "label": "Chất lượng giấc ngủ",
+          "title": "Tăng 1.3 lần",
+          "des": "Bạn có thể ngủ ngon và sâu hơn khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "popup": {
+          "item1": {
+            "highlight": "[Trường Đại học Quốc gia Seoul] Thí nghiệm về giấc ngủ",
+            "title": "Thời gian ngủ giảm 23%, chất lượng giấc ngủ cải thiện 1,3 lần",
+            "des": "",
+            "detail2": {
+              "title": "Cải thiện nhịp điệu giấc ngủ",
+              "des": "Thông qua việc đo lường các biến số khác nhau biểu thị chất lượng giấc ngủ, nghiên cứu cho thấy việc sử dụng ánh sáng SunLike so với ánh sáng thông thường đã cải thiện chất lượng giấc ngủ 1,3 lần và giảm 23% thời gian để ngủ.",
+              "brand": {
+                "title": "Nghiên cứu của Trường Đại học Quốc gia Seoul về tác động của việc sử dụng LED ánh sáng tự nhiên đối với giấc ngủ ban đêm và sự khó chịu của mắt, 2018.",
+                "des": "Thí nghiệm được thực hiện trên 34 người trong độ tuổi từ 20 đến 49, chia thành 2 nhóm 17 người, sử dụng ánh sáng thông thường và ánh sáng SunLike. Các thí nghiệm được tiến hành về cảm giác mệt mỏi của mắt, sự mờ mắt, độ nhạy cảm với ánh sáng, tốc độ ngủ, tốc độ thức dậy vào buổi sáng, nhịp tim qua điện tâm đồ trong lúc ngủ, và hoạt động của hệ thần kinh giao cảm và đối giao cảm."
+              }
+            }
+          },
+          "item2": {
+            "highlight": "[Đại học Basel, Thụy Sĩ] Thí nghiệm về giấc ngủ sâu",
+            "title": "Giấc ngủ sâu hơn",
+            "des": "",
+            "detail2": {
+              "title": "Thí nghiệm đo sóng não delta",
+              "des": "Trong suốt thời gian ngủ, thông qua việc đo sóng não delta xuất hiện khi rơi vào giấc ngủ sâu, nghiên cứu cho thấy việc sử dụng ánh sáng SunLike so với ánh sáng thông thường làm tăng mức sóng não delta, dẫn đến giấc ngủ sâu hơn.",
+              "brand": {
+                "title": "Nghiên cứu của Đại học Basel về tác động của LED ánh sáng tự nhiên đến sự thoải mái của mắt, melatonin, tâm trạng, hiệu suất tỉnh táo và giấc ngủ, 2019.",
+                "des": "Thí nghiệm được thực hiện trên 15 người trong độ tuổi từ 19 đến 35 có tình trạng mắt bình thường và không đeo kính, trong thời gian 2-3 tuần để kiểm tra sự thoải mái của mắt, mức độ melatonin, tâm trạng, hiệu suất tỉnh táo và mức sóng não trong khi ngủ."
+              }
+            }
+          }
+        }
+      },
+      "effect3": {
+        "type": "Effect 03",
+        "label": "Better Study",
+        "title": "Tăng sự tỉnh táo vào ban ngày và tăng hiệu quả học tập.",
+        "des": "Việc tiếp xúc với ánh nắng buổi trưa sẽ giúp kích thích tiết hormone serotonin - một loại hormone giúp cải thiện tâm trạng và cung cấp năng lượng cho cơ thể. Điều này có tác dụng làm tăng tốc độ trao đổi chất của cơ thể con người và tăng tốc độ chuyển động của não. Khi sử dụng loại ánh sáng tương tự với ánh sáng tự nhiên như SunLike, bạn sẽ cảm nhận được sức sống của cơ thể và cảm thấy tỉnh táo hơn.Do đó sản phẩm này được kì vọng sẽ mang lại hiệu quả trong việc cải thiện hiệu quả học tập, tăng tốc độ và chất lượng học tập của học sinh.",
+        "desMobile": "Việc tiếp xúc với ánh nắng buổi trưa sẽ giúp kích thích tiết hormone serotonin - một loại hormone giúp cải thiện tâm trạng và cung cấp năng lượng cho cơ thể. Điều này có tác dụng làm tăng tốc độ trao đổi chất của cơ thể con người và tăng tốc độ chuyển động của não. Khi sử dụng loại ánh sáng tương tự với ánh sáng tự nhiên như SunLike, bạn sẽ cảm nhận được sức sống của cơ thể và cảm thấy tỉnh táo hơn.Do đó sản phẩm này được kì vọng sẽ mang lại hiệu quả trong việc cải thiện hiệu quả học tập, tăng tốc độ và chất lượng học tập của học sinh.",
+        "item1": {
+          "label": "Giải đề chính xác",
+          "title": "Tăng 5%",
+          "des": "Kết quả cho thấy tỷ lệ đáp án đúng đã tăng 5% khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "item2": {
+          "label": "Tốc độ học tập",
+          "title": "Cải thiện 3.2 lần",
+          "des": "Kết quả cho thấy tốc độ học tập được cải thiện 3.2 lần khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": ""
+        },
+        "item3": {
+          "label": "Tốc độ thức dậy vào buổi sáng",
+          "title": "Tăng 1.8 lần",
+          "des": "Kết quả thí nghiệm cho thấy rằng tốc độ tỉnh táo sau khi ngủ dậy vào buổi sáng đã nhanh hơn 1.8 lần khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": "*Kết quả thí nghiệm trên gà con"
+        },
+        "item4": {
+          "label": "Độ tỉnh táo vào ban ngày",
+          "title": "Cao",
+          "des": "Kết quả thí nghiệm cho thấy mức độ tỉnh táo vào ban ngày rất cao khi sử dụng đèn LED SunLike phổ ánh sáng tự nhiên.",
+          "note": "*Kết quả thí nghiệm trên gà con"
+        },
+        "popup": {
+          "item1": {
+            "highlight": "[Trường Y Harvard, Mỹ] Thí nghiệm về hiệu suất nhận thức với ánh sáng SunLike",
+            "title": "Độ chính xác trong giải quyết vấn đề tăng 5%, tốc độ giải quyết vấn đề tăng 3.2 lần",
+            "des": "",
+            "detail2": {
+              "title": "Thí nghiệm hiệu suất nhận thức",
+              "des": "Tại Trường Y Harvard, một thí nghiệm về hiệu suất nhận thức đã được thực hiện trên 39 người tham gia. Kết quả cho thấy ánh sáng 5.000K có độ sáng cao mang lại độ chính xác tốt hơn trong việc giải quyết vấn đề, đặc biệt ánh sáng SunLike 5.000K cho thấy độ chính xác tăng 5% so với ánh sáng thông thường, đạt kết quả cao nhất. Trong thí nghiệm về tốc độ giải quyết vấn đề, SunLike cũng cho kết quả cao, với ánh sáng SunLike 5.000K đạt tốc độ giải quyết vấn đề tăng 3.2 lần so với ánh sáng thông thường.",
+              "brand": {
+                "title": "Nghiên cứu về hiệu suất nhận thức theo sự tiếp xúc với ánh sáng ngắn sóng tại Trường Y Harvard, Bệnh viện Brigham và Trung tâm Y tế Beth Israel, 2021",
+                "des": "Nghiên cứu được thực hiện trên 39 sinh viên (18 nam, 21 nữ) với việc sử dụng ánh sáng thông thường 3.000K/5.000K và ánh sáng SunLike 3.000K/5.000K, nhằm đánh giá độ chính xác và tốc độ giải quyết vấn đề, cũng như tỷ lệ phản hồi sai."
+              }
+            }
+          },
+          "item2": {
+            "highlight": "[Trường Đại học Y Seoul] Thí nghiệm về mức độ tỉnh táo vào buổi sáng",
+            "title": "Tốc độ đi vào giấc ngủ tăng 1.3 lần, tốc độ thức dậy tăng 1.8 lần",
+            "des": "",
+            "detail2": {
+              "title": "Cải thiện nhịp sinh học giấc ngủ",
+              "des": "Kết quả tính toán các tham số khác nhau như nhịp tim qua điện tâm đồ trong khi ngủ, hoạt động của hệ thần kinh giao cảm và đối giao cảm cho thấy khi sử dụng ánh sáng SunLike, tốc độ đi vào giấc ngủ vào ban đêm tăng 1.3 lần và tốc độ thức dậy vào buổi sáng tăng 1.8 lần.",
+              "brand": {
+                "title": "Trường Đại học Y Seoul, Nghiên cứu về tác động của việc sử dụng LED ánh sáng tự nhiên đối với giấc ngủ ban đêm và sự khó chịu của mắt, 2018",
+                "des": "Nghiên cứu được thực hiện trên 34 người tham gia từ 20-49 tuổi, chia thành 2 nhóm 17 người, sử dụng ánh sáng thông thường và ánh sáng SunLike, nhằm kiểm tra sự mệt mỏi của mắt, thị lực mờ, độ nhạy cảm với ánh sáng, tốc độ ngủ, tốc độ thức dậy vào buổi sáng, nhịp tim qua điện tâm đồ trong khi ngủ, và mức độ hoạt động của hệ thần kinh giao cảm và đối giao cảm."
+              }
+            }
+          },
+          "item3": {
+            "highlight": "[Đại học Basel, Thụy Sĩ] Thí nghiệm về mức độ tỉnh táo vào ban ngày",
+            "title": "Mức độ tỉnh táo vào ban ngày cao",
+            "des": "",
+            "detail2": {
+              "title": "Cải thiện sự chú ý",
+              "des": "Kết quả đo chỉ số buồn ngủ (Karolinska Sleepiness Scale) cho thấy khi sử dụng ánh sáng SunLike, mức độ buồn ngủ từ 11 giờ sáng đến 7 giờ tối giảm đáng kể so với ánh sáng thông thường, cho thấy mức độ tỉnh táo cao trong suốt thời gian ban ngày.",
+              "brand": {
+                "title": "Đại học Basel, Nghiên cứu về tác động của LED ánh sáng tự nhiên đối với sự thoải mái của mắt, melatonin, tâm trạng, hiệu suất tỉnh táo và giấc ngủ, 2019",
+                "des": "Nghiên cứu được thực hiện trên 15 người tham gia từ 19-35 tuổi với tình trạng mắt bình thường và không đeo kính, trong vòng 2-3 tuần để đánh giá sự thoải mái của mắt, mức độ melatonin, tâm trạng, hiệu suất tỉnh táo và hoạt động sóng não trong giấc ngủ."
+              }
+            }
+          }
+        }
+      },
+      "effect5": {
+        "type": "Effect 04",
+        "label": "Comfortable\nAmbient",
+        "title": "SunLike tạo ra môi trường thoải mái trong mọi không gian bằng cách cung cấp ánh sáng giống với tự nhiên. ",
+        "des": "Bạn có thể tạo ra một môi trường an toàn và thoải mái cho các không gian như phòng khách, phòng trẻ em, bên trong ô tô, phòng đọc sách, phòng chăm sóc da, văn phòng chung, phòng làm việc cá nhân... để giảm tình trạng mỏi cho mắt và dễ dàng quay lại nhịp sinh hoạt tự nhiên mà không bị chói mắt."
+      },
+      "effect6": {
+        "type": "Effect 05",
+        "label": "Natural Color",
+        "title": "Thể hiện màu sắc của vật thể một cách chính xác nhất.",
+        "des": "Khi nhin một vật thể nào đó dưới ánh sáng LED thông thường trong nhà, màu sắc vật thể sẽ bị lệch đi do phản xạ khuếch tán gây ra bởi ánh sáng xanh, không giống như khi nhìn dưới ánh sáng mặt trời. SunLike có chỉ số hoàn màu (CRI) thể hiện cảm giác về màu sắc khi nhìn một vật thể lên tới CRI-97, gần giống với ánh sáng mặt trời (CRI-100), cho phép nó thể hiện màu sắc nguyên bản nhất. \n\nNgoài ra, ánh sáng xanh ở một bước sóng nhất định cũng đã được giảm xuống bằng với ánh sáng mặt trời, giúp bạn giảm mỏi mắt, chói mắt và nhìn rõ văn bản hơn.",
+        "desMobile": "Khi nhin một vật thể nào đó dưới ánh sáng LED thông thường trong nhà, màu sắc vật thể sẽ bị lệch đi do phản xạ khuếch tán gây ra bởi ánh sáng xanh, không giống như khi nhìn dưới ánh sáng mặt trời. SunLike có chỉ số hoàn màu (CRI) thể hiện cảm giác về màu sắc khi nhìn một vật thể lên tới CRI-97, gần giống với ánh sáng mặt trời (CRI-100), cho phép nó thể hiện màu sắc nguyên bản nhất. \n\nNgoài ra, ánh sáng xanh ở một bước sóng nhất định cũng đã được giảm xuống bằng với ánh sáng mặt trời, giúp bạn giảm mỏi mắt, chói mắt và nhìn rõ văn bản hơn.",
+        "item1": {
+          "label": "Ánh sáng tự nhiên có độ hoàn màu cao",
+          "title": "CRI 97",
+          "des": "Thể hiện màu sắc chính xác đến 97%, giúp mắt thoải mái hơn.",
+          "note": "*Ánh sáng mặt trời  CRI100"
+        },
+        "item2": {
+          "label": "Chứng nhận sản phẩm",
+          "title": "UL",
+          "des": "Được bình chọn cấp Diamond - cấp cao nhất theo Xếp hạng hiển thị màu UL.",
+          "note": ""
+        },
+        "popup": {
+          "item1": {
+            "highlight": "",
+            "title": "Mức độ tái tạo màu sắc của SunLike",
+            "des": "SunLike được đánh giá là ánh sáng chất lượng cao tương tự như ánh sáng tự nhiên nhất trong bảng xếp hạng độ trung thực màu sắc UL, và đã được chọn là cấp độ cao nhất, cấp độ kim cương."
+          },
+          "item2": {
+            "highlight": "",
+            "title": "Mức độ tái tạo màu sắc của SunLike",
+            "des": "SunLike được đánh giá là ánh sáng chất lượng cao tương tự như ánh sáng tự nhiên nhất trong bảng xếp hạng độ trung thực màu sắc UL, và đã được chọn là cấp độ cao nhất, cấp độ kim cương.",
+            "detail2": {
+              "title": "Chứng nhận UL",
+              "des": "Dấu UL là dấu chứng nhận toàn cầu, được cấp cho các sản phẩm đã được thử nghiệm và đánh giá về độ an toàn và hiệu suất. SunLike đã đạt được điểm CRI (Chỉ số hoàn màu) 97, gần tương tự với ánh sáng tự nhiên (100) trong quá trình đánh giá hiệu suất của UL. Đặc biệt, trong mục độ trung thực màu sắc (Color fidelity) đánh giá mức độ tương tự với ánh sáng tự nhiên, SunLike đã đáp ứng yêu cầu Rf trên 95, trở thành sản phẩm LED đầu tiên trong ngành được đăng ký với cấp độ kim cương. Công nghệ độc quyền của SunLike trong việc tái hiện quang phổ giống như ánh sáng tự nhiên đang trở thành tiêu chuẩn chính cho chất lượng ánh sáng.",
+              "note1": {
+                "label": "* Chỉ số hoàn màu (CRI) :",
+                "des": "Là chỉ số cho biết ánh sáng thể hiện màu sắc nguyên bản của vật thể tốt đến mức nào, được biểu thị từ 0 đến 100."
+              },
+              "note2": {
+                "label": "* Tiêu chuẩn đánh giá UL :",
+                "des": "Diamond: Rf ≥ 95/ Platinum Rf ≥ 90, Rf, h1 ≥ 90/ Gold: Rf ≥ 85, Rf, h1 ≥ 85"
+              },
+              "note3": {
+                "label": "* Rf :",
+                "des": "Là chỉ số cho biết mức độ trung thực của ánh sáng so với ánh sáng mặt trời, được biểu thị từ 0 đến 100."
+              }
+            }
+          }
+        }
+      },
+      "effect7": {
+        "type": "Effect 06",
+        "label": "Best Eye Safety",
+        "title": "Chúng tôi đã giành được 10 giải thưởng cộng nghệ đổi mới thế giới tại 5 quốc gia, bao gồm giải thưởng Sáng tạo Đức, Giải thưởng Công nghệ LUX, Giải thưởng của Tổng thống Hàn Quốc.",
+        "titleMobile": "Chúng tôi đã giành được 10 giải thưởng cộng nghệ đổi mới thế giới tại 5 quốc gia, bao gồm giải thưởng Sáng tạo Đức, Giải thưởng Công nghệ LUX, Giải thưởng của Tổng thống Hàn Quốc.",
+        "des": "Công nghệ LED quang phổ tương tự ánh sáng mặt trời đầu tiên trên thế giới với nhiều giải thưởng toàn cầu về công nghệ tiên tiến."
+      },
+      "lightingComposition": {
+        "label": "Kiểm tra thành phần ánh sáng là điều cần thiết.",
+        "desStart": "Hãy kiểm tra\n",
+        "desHighlight": "Nhãn hiệu SunLike ",
+        "desEnd": "công nghệ phát triển độc lập bởi Seoul Viosys"
+      },
+      "application": {
+        "title": "Lĩnh vực áp dụng",
+        "des": "SunLike được ứng dụng cho đa dạng các thiết bị như đèn bàn, đèn chiếu sáng cho nhà ở, bệnh viện, trường học, bảo tàng."
+      },
+      "automotiveLighting": {
+        "title": "Đèn cho ô tô",
+        "des": "Automotive lighting",
+        "detail": {
+          "label": "Automotive lighting",
+          "title": "Ánh sáng có thể mang lại sự thoải mái cho không gian trong ô tô. Giúp bạn có thể chợp mắt sau khi lái xe, người ngồi ghế sau cũng thấy dễ chịu.",
+          "titleMobile": "Ánh sáng có thể mang lại sự thoải mái cho không gian trong ô tô. Giúp bạn có thể chợp mắt sau khi lái xe, người ngồi ghế sau cũng thấy dễ chịu.",
+          "des": "Các dòng xe cao cấp đã phát triển và ứng dụng nhiều công nghệ để tạo không gian tiện nghi, thoải mái bên trong xe. Gần đây, SunLike cũng đã được ứng dụng cho những dòng xe cao cấp. Khi sử dụng SunLike, người lái xe có thể có được giấc ngủ ngon sau quãng đường dài, mang lại sự thoải mái cho người ngồi ghế sau. Và hơn hết là màu sắc chất liệu da của ghế được thể hiện rất sống động, mang lại cảm giác sang trọng cho nội thất xe."
+        }
+      },
+      "indoorLighting": {
+        "title": "Đèn trong nhà",
+        "des": "Indoor lighting",
+        "detail": {
+          "label": "Indoor lighting in schools\nand study facilities",
+          "title": "Ngăn ngừa cận thị, cải thiện khả năng học tập và nhịp sinh học. SunLike cực kì cần thiết cho không gian sống của học sinh - sinh viên.",
+          "des": "SunLike đang được ứng dụng tại các không gian cho trẻ em như nhà trẻ, trường học, bệnh viện..., ở nhiều quốc gia quan tâm đến sức khỏe và cận thị của trẻ. SunLike là một sản phẩm rất cần thiết đối với trẻ em."
+        }
+      },
+      "officeLighting": {
+        "title": "Đèn bệnh viện, văn phòng",
+        "des": "Hospital or office lighting",
+        "detail": {
+          "label": "Hospital or office lighting",
+          "title": "Ở môi trường bệnh viên, SunLike giúp ổn định nhịp sinh học! Ở môi trường văn phòng, SunLike giúp tăng hiệu suất làm việc!",
+          "des": "SunLike giúp ổn định nhịp sinh học và ổn định tâm lí, phù hợp với các phòng khám và bệnh viện. Ngoài ra, SunLike còn đc chứng nhận có khả năng cải thiện tốc độ và độ chính xác khi giải quyết vấn đề, giúp tăng hiệu quả công việc nếu được lắp đặt trong văn phòng."
+        }
+      },
+      "horticulturalLighting": {
+        "title": "Đèn trồng cây",
+        "des": "Horticultural lighting",
+        "detail": {
+          "label": "Horticultural lighting",
+          "title": "Ánh sáng mặt trời không chỉ có ích cho con người\nmà còn có ích cho cây trồng.",
+          "des": "Thực vật trồng dưới ánh sáng đỏ + ánh sáng xanh có hiện tượng nhanh chóng bị chết khô chỉ vì những vết thương nhỏ, chúng cũng không ngon và có ít chất dinh dưỡng. Ngược lại, cây trồng dưới ánh sáng đèn SunLike tái tạo ánh sáng tự nhiên thường có trọng lượng, mùi vị và kết cấu tuyệt vời, giàu chất dinh dưỡng giống như cây trồng ngoài tự nhiên. Đây là lí do SunLike được ứng dụng tại nhiều nông trại trồng cây trên thế giới, trong đó có Viện nghiên cứu quốc gia Pháp.",
+          "lightingForPlant": "Thay đổi ánh sáng trong trồng trọt"
+        }
+      },
+      "lightingForExhibitions": {
+        "title": "Đèn cửa hàng",
+        "des": "Lighting for exhibitions",
+        "detail": {
+          "label": "Lighting for exhibitions\nin art museums",
+          "title": "Có các loại đèn riêng biệt để sử dụng khi phục hồi các tác phẩm nghệ thuật. Đèn SunLike có thể tái hiện màu sắc tuyệt vời và có khả năng hiển thị màu sắc chính xác nhất.",
+          "titleMobile": "Có các loại đèn riêng biệt để sử dụng khi phục hồi các tác phẩm nghệ thuật. Đèn SunLike có thể tái hiện màu sắc tuyệt vời và có khả năng hiển thị màu sắc chính xác nhất.",
+          "des": "SunLike táo tạo quảng phổ của mặt trời để thể hiện được màu sắc thực tế của vật thể, đồng thời tạo hiệu ứng ba chiều nhờ độ tương phản cao, cho thấy màu sắc chính xác nhất của tác phẩm giống như khi nhìn dưới ánh mặt trời. Bảo tàng tượng sáp Pháp (Grevin Museum Paris) đã chọn SunLike vì sản phẩm này cho phép thể hiện được những điều khó thể hiện dưới ánh sáng đèn thường, ví dụ như kết cấu quần áo và làn da tự nhiên. Ngoài ra, SunLike cũng được áp dụng cho nhiều bảo tàng lớn trên thế giới như đèn chiếu tranh treo tường ở Pompeii, Italia và Bảo tàng Nghệ thuật Cung điện Hoàng gia Milan. ",
+          "item1": {
+            "title": "Đèn chiếu sáng tranh tường ở Pompeii, Italia",
+            "des1": "Đèn SunLike",
+            "des2": "Đèn thông thường"
+          },
+          "item2": {
+            "title": "Bảo tàng Nghệ thuật Cung điện Hoàng gia Milan",
+            "des1": "Đèn SunLike",
+            "des2": "Đèn thông thường"
+          }
+        }
+      },
+      "retailLighting": {
+        "title": "Đèn triển lãm",
+        "des": "Retail lighting",
+        "detail": {
+          "label": "Retail lighting",
+          "title": "Điều cơ bản nhất khi trưng bày sản phẩm trong cửa hàng là phải thể hiện màu sắc chính xác và sống động!",
+          "titleMobile": "Điều cơ bản nhất khi trưng bày sản phẩm trong cửa hàng là phải thể hiện màu sắc chính xác và sống động!",
+          "des": "SunLike có độ phản chiếu ánh sáng thấp và chỉ số hoàn màu cao thể hiện tốt màu sắc tự nhiên, không bị lệch màu nên được ứng dụng rộng rãi trong nhiều cửa hàng. Hãy thử lắp đặt chúng ở những cửa hàng cần chú trọng màu sắc như cửa hàng tạp hóa, cửa hàng quần áo/phụ kiện, cửa hàng thịt, cửa hàng nội thất, cửa hàng giày dép/túi xách, cửa hàng trang sức...",
+          "item1": {
+            "title": "Đèn LED thông thường",
+            "des": "Phản xạ ánh sánh khuếch tán ít sẽ làm hình ảnh có độ tương phản và rõ ràng hơn, giúp mắt đỡ mỏi hơn.",
+            "reflection": "Phản xạ khuếch tán cao",
+            "contrast": "Lower contrast"
+          },
+          "item2": {
+            "title": "SunLike",
+            "des": "Sự phản xạ ánh sáng ít khuếch tán hơn sẽ làm tăng độ tương phản và độ rõ của hình ảnh, có thể làm giảm mỏi mắt.",
+            "reflection": "Phản xạ khuếch tán thấp",
+            "contrast": "Higher contrast "
+          }
+        }
+      },
+      "residentialLighting": {
+        "title": "Đèn dân dụng",
+        "des": "Residential lighting",
+        "detail": {
+          "label": "Residential lighting",
+          "title": "Hãy chọn SunLike để bảo vệ đôi mắt và giấc ngủ thoải mái của gia đình bạn.",
+          "des": "SunLike đang được áp dụng cho nhiều hệ thống chiếu sáng dân dụng đa dạng, ví dụ như đèn trần phòng khách, đèn trần các phòng, đèn cảm biến hành lang, đèn phòng tắm, đèn highlight... Vì sức khỏe của gia đình bạn, hãy chọn sản phẩm từ thương hiệu SunLike."
+        }
+      },
+      "deskLamp": {
+        "title": "Đèn bàn học sinh",
+        "des": "Desk lamp",
+        "detail": {
+          "label": "Desk lamp",
+          "title": "SunLike ngăn ngừa cận thị và cải thiện hiệu quả học tập. Hãy chọn SunLike làm đèn bàn học cho con của bạn.",
+          "des": "SunLike được chứng minh là có tác dụng ngăn ngừa cận thị, tăng cường hiệu quả học tập và đã được áp dụng trong nhiều thiết kế đa dạng của các công ty về đèn chiếu sáng lớn trên thế giới. Khi mua, hãy xác nhận kĩ xem sản phẩm có được gắn nhãn hiệu SunLike không nhé!"
+        }
+      },
+      "inspectionLighting": {
+        "title": "Đèn chiếu sáng kiểm tra",
+        "des": "inspection Lighting"
+      }
+    }
+  },
+  "application": {
+    "catalogue": {
+      "characteristic": "Tính năng",
+      "applicationField": "Lĩnh vực ứng dụng",
+      "Specification": "Đặc điểm"
+    },
+    "homeAppliance": {
+      "character": {
+        "desc": "Violeds UV, công nghệ LED UV độc quyền, mang đến giải pháp chiếu sáng hiệu quả để xử lý nhiều vấn đề trong lĩnh vực công nghiệp. Bằng cách tinh chỉnh bước sóng, góc độ và cường độ ánh sáng mà không cần các hoá chất độc hại, Violeds không chỉ khử trùng, diệt khuẩn (UVC) hiệu quả mà còn ứng dụng trong tái tạo da (UVB), làm sạch không khí và nước, diệt côn trùng và thúc đẩy phát triển cây trồng.\n Thị trường này hứa hẹn sẽ nhanh chóng thay thế thị trường đèn thủy ngân truyền thống nhờ những ưu điểm vượt trội về hiệu suất năng lượng, tính thân thiện với môi trường và không gây ảnh hưởng đến ozone.",
+        "mainCharacter": {
+          "title": "Các tính năng chính",
+          "chara01": "Dải bước sóng UV toàn diện (255-405nm) Có khả năng sản xuất và cung cấp",
+          "chara02": "Không chứa hóa chất độc hại",
+          "chara03": "Tuổi thọ cao giúp làm giảm chi phí thay thế",
+          "chara04": "Tiêu thụ điện năng thấp",
+          "chara05": "Linh hoạt trong thiết kế thiết bị"
+        },
+        "curing": {
+          "title": "Số 1 về thị phần",
+          "desc": "Hơn 10 năm nghiên cứu và phát triển (R&D) cũng như nắm giữ bí quyết từ chip UV LED cho đến giải pháp mô-đun tùy chỉnh"
+        },
+        "water": {
+          "title": "Năng lực kỹ thuật đã được kiểm nghiệm bởi các doanh nghiệp toàn cầu",
+          "desc": "Cung cấp giải pháp tùy chỉnh cho nhiều loại máy lọc, độc quyền sở hữu công nghệ được chứng nhận tại Mỹ (SETi)"
+        },
+        "airsurface": {
+          "title": "Đạt chứng nhận làm sạch của Mỹ thông qua thử nghiệm lâm sàng",
+          "desc": "Có cơ sở vật chất và năng lực nghiên cứu, đủ tiêu chuẩn ứng dụng trong hộp điều khiển ô tô"
+        }
+      },
+      "specification": {
+        "disinfection": {
+          "title": "Khử trùng​",
+          "bannerDesc": "Giải pháp khử trùng để loại bỏ vi khuẩn gây hại nhằm ngăn ngừa nhiễm trùng và duy trì cuộc sống khỏe mạnh.",
+          "contTitle": "99.99% Disinfection of COVID-19 Omicron Variant",
+          "contDesc": "Disinfection not only Coronavirus but also Omicron 99.99%",
+          "contTable": {
+            "thead": "Test Data for Surface Disinfection",
+            "tbodyRow1Th": "Type of Virus",
+            "tbodyRow1Td1": "COVID-19",
+            "tbodyRow1Td2": "COVID-19",
+            "tbodyRow1Td3": "COVID-19 Delta",
+            "tbodyRow1Td4": "COVID-19 Omicron",
+            "tbodyRow2Th": "Result",
+            "tbodyRow3Th": "Test Lab",
+            "tbodyRow3Td1": "Korea University",
+            "tbodyRow3Td2": "KR Biotech",
+            "tbodyRow3Td3": "KR Biotech",
+            "tbodyRow3Td4": "KR Biotech",
+            "tbodyRow4Th": "Test date",
+            "tbodyRow4Td1": "Apr, 2020",
+            "tbodyRow4Td2": "Dec, 2020",
+            "tbodyRow4Td3": "Sep, 2021",
+            "tbodyRow4Td4": "Apr, 2022",
+            "tbodyRow5Th": "Meaning",
+            "tbodyRow5Td1": "Disinfection effect of\n Corona Virus in 30 sec.",
+            "tbodyRow5Td2": "Disinfection effect of\n Corona Virus in 1 sec.",
+            "tbodyRow5Td3": "Disinfection effect of\n Delta Variant.",
+            "tbodyRow5Td4": "Also, disinfection effect of\n Omicron Variant."
+          },
+          "contApp": {
+            "appBidet": "Vòi xịt",
+            "appCuttingBoard": "Thớt",
+            "appAirPurifier": "Máy lọc không khí",
+            "appWaterPurifier": "Máy lọc nước",
+            "appHumidifier": "Máy tạo độ ẩm",
+            "appIceMaker": "Máy làm đá"
+          }
+        },
+        "deodorization": {
+          "title": "Khử mùi",
+          "bannerDesc": "Giải pháp khử mùi để loại bỏ những mùi khó chịu nhằm duy trì một môi trường sạch sẽ và trong lành.",
+          "contTitle": "Khử mùi hôi, khói thuốc lá và VOCs",
+          "contDesc": "Loại bỏ hoàn toàn mùi hôi, khói thuốc lá và VOCs*, mang đến không khí trong lành và thoái mái.​",
+          "contDesc2": "* VOCs: Là những hợp chất hữu cơ dễ bay hơi, gây ra nhiều vấn đề sức khỏe nghiêm trọng như hội chứng nhà kín và các bệnh về đường hô hấp.",
+          "contApp": {
+            "appAirPurifier": "Máy lọc không khí",
+            "appAirPurifierSystem": "Hệ thống lọc không khí",
+            "appAutomobileHVAC": "Hệ thống HVAC trong ô tô",
+            "appRefrigerator": "Tủ lạnh",
+            "appAirConditioning": "Điều hòa"
+          }
+        },
+        "insectTrap": {
+          "title": "Diệt côn trùng",
+          "bannerDesc": "Giải pháp diệt côn trùng để tạo môi trường sống sạch sẽ, an toàn, loại bỏ hoàn toàn các loài côn trùng gây hại như ruồi muỗi và mang đến không gian sống trong lành.",
+          "contTitle": "Hiệu quả bắt muỗi cao gấp 13 lần​​",
+          "contDesc": "so với các loại đèn thủy ngân hiện có, đặc biệt đối với muỗi truyền virus ZIKA, Aedes aegypti.",
+          "contDesc2": "(Kết quả thử nghiệm từ Phòng nghiên cứu Côn trùng của Đại học Bang Florida, Hoa Kỳ)",
+          "contApp": {
+            "appCont1": "Máy diệt muỗi tiêu chuẩn",
+            "appCont2": "Máy diệt muỗi ngoài trời (2,000㎡, Chống nước)",
+            "appCont3": "Máy diệt muỗi di động",
+            "appCont4": "Máy diệt muỗi cho gia đình (Khử mùi)",
+            "appCont5": "Máy diệt muỗi ngoài trời (4,000㎡, Chống nước)"
+          }
+        },
+        "curing": {
+          "title": "Sấy khô (Curing)​",
+          "bannerDesc": "Một giải pháp cố kết các chất lỏng hoặc bán rắn như mực, keo thành trạng thái rắn.",
+          "contTitle": "Có khả năng sản xuất và cung cấp toàn bộ dải bước sóng UV (255~405nm)​",
+          "contDesc": "Chúng tôi cung cấp các giải pháp chip, PKG và mô-đun UV được thiết kế riêng, tối ưu hóa cho từng loại vật liệu và thiết bị bảo dưỡng, đảm bảo hiệu quả cao nhất.",
+          "contApp": {
+            "appPrinting": "Printing",
+            "appAdhesive": "Adhesive",
+            "appExposure": "Exposure",
+            "appNailCuring": "NailCuring"
+          }
+        }
+      }
+    },
+    "microDisplay": {
+      "character": {
+        "desc": "Chúng tôi nắm giữ về lợi thế công nghệ dựa trên “WICOP Pixel” - RGB đơn điểm đặc biệt đầu tiên trên thế giới.\n Hiện chúng tôi đang dẫn đầu hệ sinh thái micro LED khi đã phát triển Chip RGB One dạng xếp chồng đầu tiên trên thế giới và thiết lập dây chuyền sản xuất hàng loạt. ​",
+        "cont": {
+          "sameColor": "It maintains consistent colors without distortion from any viewing angle, even at 360 degrees",
+          "smallSpace": "We developed Smaller LEDs were developed for expression of even smaller pixels, thereby allowing sharper contrast and more detailed color expressions.",
+          "ultraFinepitch": "WICOP Pixel can achieve ultra-high resolution and exceptional image quality through its very small pixel pitch."
+        }
+      }
+    },
+    "sensor": {
+      "character": {
+        "desc": "Đưa ra giải pháp VCSEL thế hệ mới, tối ưu hóa cho các ứng dụng lái xe tự động và nhận diện khuôn mặt trên điện thoại thông minh. Với công nghệ VCSEL (Vertical Cavity Surface Emitting Laser) tiên tiến, cho phép tạo ra các chùm sáng có độ chính xác cao và tốc độ truyền dữ liệu nhanh,\n chúng tôi cam kết cung cấp các giải pháp đột phá cho các ứng dụng truyền thông, trung tâm dữ liệu và cảm biến 3D, góp phần thúc đẩy sự phát triển của các công nghệ tương lai như AI và 6G."
+      },
+      "applications": {
+        "sensor6G": "Cảm biến truyền dữ liệu mạng 6G​",
+        "sensor3D": "Cảm biến nhận diện khuôn mặt 3D"
+      }
+    }
+  },
+  "pageNotFound": {
+    "title": "Không tìm thấy trang.",
+    "title2": "Trang bạn yêu cầu không tồn tại.",
+    "homeButton": "Đi tới trang chính",
+    "link": "/vn"
+  },
+  "gnbBanner": {
+    "uvled": {
+      "title": "Đến sản phẩm đèn UV LED",
+      "text": "Khám phá ccông nghệ và sản phẩm UV LED của Seoul Viosys."
+    },
+    "microled": {
+      "title": "Đến sản phẩm Micro LED",
+      "text": "Khám phá công nghệ và sản phẩm Micro LED của Seoul Viosys."
+    },
+    "download": {
+      "title": "Download",
+      "text": "Khám phá các tài liệu sản phẩm của Seoul Viosys."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "text": "Liên hệ ngay với chúng tôi để biết thêm chi tiết."
+    }
+  }
+}
