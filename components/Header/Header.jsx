@@ -25,7 +25,6 @@ const Header = () => {
     setHoverIndex(navIndex);
   };
 
-  console.log(hoverIndex);
   return (
     <>
       <div className={`header ${hoverIndex !== null ? "open" : ""}`}>

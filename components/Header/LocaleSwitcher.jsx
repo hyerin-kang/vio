@@ -3,17 +3,6 @@ import { i18n } from "@/i18n.config";
 import { useContext } from "react";
 import { LangContext } from "@/context/LangContext";
 import { redirect } from "next/navigation";
-// const menuItems = [
-//   { key: "1", label: "Option 1" },
-//   { key: "2", label: "Option 2" },
-// ];
-
-// const menu = {
-//   items: menuItems,
-//   onClick: ({ key }) => {
-//     console.log("Clicked", key);
-//   },
-// };
 
 const LocaleSwitcher = () => {
   const { lang } = useContext(LangContext);
