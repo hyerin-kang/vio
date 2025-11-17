@@ -1,6 +1,6 @@
 .header {
-  //   background: red;
-  background: black;
+  background: transparent;
+  border-bottom: 1px solid rgba(48, 174, 86, 0.2);
   color: #fff;
   display: flex;
   height: 88px;
@@ -11,6 +11,7 @@
   top: 0;
   width: 100%;
   z-index: 999;
+  transition: all 0.2s ease-in;
   .left,
   .rigth ul {
     display: flex;
@@ -35,7 +36,7 @@
     align-items: center;
     height: 100%;
 
-    li {
+    > li {
       height: 100%;
       span {
         display: flex;
@@ -57,7 +58,7 @@
         &.on {
           color: green;
           &::before {
-            width: calc(100% - 40px); // 20*2 : navGap
+            width: calc(100% - 10px); // 20*2 : navGap
             background-color: green;
           }
         }
@@ -84,6 +85,80 @@
         padding: 10px;
         color: green;
         font-weight: 600;
+      }
+    }
+  }
+}
+
+.sub-nav {
+  background: #f9f9f9;
+  position: relative;
+  height: 280px;
+  .sub-title {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    &:before {
+      content: "";
+      display: inline-flex;
+      width: 5px;
+      height: 5px;
+      background: #30ae56;
+      border-radius: 100%;
+    }
+  }
+  .sub-items {
+    background: #fff;
+    border-left: 1px solid #30ae56;
+    border-right: 1px solid #30ae56;
+    position: absolute;
+    top: 0;
+    left: 50%;
+    padding: 30px 0;
+    height: 100%;
+    li {
+      a {
+        padding: 5px 20px;
+        display: block;
+        width: 100%;
+        height: 100%;
+      }
+
+      a:hover {
+        background: #a6e9ba48;
+      }
+    }
+  }
+}
+
+.locale-dropdown {
+  z-index: 9999;
+  &.ant-dropdown {
+    width: 84px;
+    .ant-dropdown-menu {
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      background: #ffffff;
+      box-shadow: none;
+      .ant-dropdown-menu-item {
+        padding: 10px 5px;
+        text-align: center;
+        span {
+          color: #111;
+          font-weight: 500;
+        }
+        &:hover {
+          background: rgba(191, 255, 191, 0.448);
+          span {
+            color: #30ae56;
+          }
+        }
+        &.ant-dropdown-menu-item-selected {
+          background: transparent;
+          span {
+            color: #30ae56;
+          }
+        }
       }
     }
   }

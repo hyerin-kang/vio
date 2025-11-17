@@ -24,8 +24,7 @@ const KeyVisual = () => {
     fetcher
   );
 
-  console.log(bannerErr, "bannerErr");
-  const onAutoplayTimeLeft = (swiper, time, progress) => {
+  const onAutoplayTimeLeft = (progress) => {
     if (progressLine.current) {
       progressLine.current.style.width = `${(1 - progress) * 100}%`;
     }

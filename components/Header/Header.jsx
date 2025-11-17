@@ -5,6 +5,9 @@ import Link from "next/link";
 import { useContext, useState } from "react";
 import useSWR from "swr";
 import "./header.scss";
+import LocaleSwitcher from "./LocaleSwitcher";
+import SearchArea from "./SearchArea";
+import SubNav from "./SubNav";
 
 const fetcher = (url) => axiosInstance.get(url);
 
@@ -13,8 +16,6 @@ const Header = () => {
 
   const { lang } = useContext(LangContext);
   const { data: gnbData, error: gnbErr } = useSWR(`/${lang}/gnb`, fetcher);
-
-  console.log(gnbData?.data, "gnbData");
 
   return (
     <>
@@ -29,7 +30,7 @@ const Header = () => {
                 <li
                   key={navIndex}
                   onMouseEnter={() => setHoverIndex(navIndex)}
-                  onMouseLeave={() => setHoverIndex(null)}
+                  // onMouseLeave={() => setHoverIndex(null)}
                 >
                   <span
                     className={`laben ${hoverIndex === navIndex ? "on" : ""}`}
@@ -37,16 +38,11 @@ const Header = () => {
                     {navItem.title}
                   </span>
                   {hoverIndex === navIndex && navItem.children?.length > 0 && (
-                    <div className="sub-nav">
-                      {navItem.children.map((child) => {
-                        return <p key={child.id}>{child.title}</p>;
-                      })}
-                    </div>
+                    <SubNav navItem={navItem} lang={lang} />
                   )}
                 </li>
               );
             })}
-            <li></li>
           </ul>
         </div>
         <div className="rigth">
@@ -57,8 +53,12 @@ const Header = () => {
             <li className="link-contact">
               <Link href={`/${lang}/support/contact`}>Contact us</Link>
             </li>
-            <li></li>
-            <li>검색영역</li>
+            <li className="min-w-[65px]">
+              <LocaleSwitcher />
+            </li>
+            <li>
+              <SearchArea />
+            </li>
           </ul>
         </div>
       </div>
