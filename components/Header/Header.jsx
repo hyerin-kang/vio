@@ -31,7 +31,11 @@ const Header = () => {
                   onMouseEnter={() => setHoverIndex(navIndex)}
                   onMouseLeave={() => setHoverIndex(null)}
                 >
-                  <span>{navItem.title}</span>
+                  <span
+                    className={`laben ${hoverIndex === navIndex ? "on" : ""}`}
+                  >
+                    {navItem.title}
+                  </span>
                   {hoverIndex === navIndex && navItem.children?.length > 0 && (
                     <div className="sub-nav">
                       {navItem.children.map((child) => {
@@ -47,13 +51,13 @@ const Header = () => {
         </div>
         <div className="rigth">
           <ul>
-            <li>
+            <li className="link-contact">
               <Link href={`/${lang}/company/sustainable`}>ESG</Link>
             </li>
-            <li>
+            <li className="link-contact">
               <Link href={`/${lang}/support/contact`}>Contact us</Link>
             </li>
-            <li>언어변경</li>
+            <li></li>
             <li>검색영역</li>
           </ul>
         </div>
