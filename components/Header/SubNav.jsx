@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-const SubNav = ({ navItem, lang }) => {
+const SubNav = ({ navItem }) => {
   return (
     <div className="sub-nav">
       <p className="sub-title">{navItem.title}</p>
