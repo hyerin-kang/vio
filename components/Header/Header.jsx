@@ -12,14 +12,23 @@ import SubNav from "./SubNav";
 const fetcher = (url) => axiosInstance.get(url);
 
 const Header = () => {
-  const [hoverIndex, setHoverIndex] = useState(1);
+  const [hoverIndex, setHoverIndex] = useState(null);
+  const [position, setPosition] = useState(0);
 
   const { lang } = useContext(LangContext);
   const { data: gnbData, error: gnbErr } = useSWR(`/${lang}/gnb`, fetcher);
 
+  const handleMouseEnter = (e, navIndex) => {
+    const rect = e.currentTarget.getBoundingClientRect();
+    const left = rect.left + window.scrollX;
+    setPosition(left);
+    setHoverIndex(navIndex);
+  };
+
+  console.log(hoverIndex);
   return (
     <>
-      <div className="header">
+      <div className={`header ${hoverIndex !== null ? "open" : ""}`}>
         <div className="left">
           <div className="logo">
             <Link href={`/${lang}`} />
@@ -29,8 +38,8 @@ const Header = () => {
               return (
                 <li
                   key={navIndex}
-                  onMouseEnter={() => setHoverIndex(navIndex)}
-                  // onMouseLeave={() => setHoverIndex(null)}
+                  onMouseEnter={(e) => handleMouseEnter(e, navIndex)}
+                  onMouseLeave={() => setHoverIndex(null)}
                 >
                   <span
                     className={`laben ${hoverIndex === navIndex ? "on" : ""}`}
@@ -38,7 +47,7 @@ const Header = () => {
                     {navItem.title}
                   </span>
                   {hoverIndex === navIndex && navItem.children?.length > 0 && (
-                    <SubNav navItem={navItem} lang={lang} />
+                    <SubNav navItem={navItem} position={position} />
                   )}
                 </li>
               );
