@@ -14,7 +14,7 @@ import TextReveal from "./../AnimateText/TextReveal";
 import { LangContext } from "@/context/LangContext";
 import Image from "next/image";
 
-const fetcher = (url) => axiosInstance.get(url).then((res) => res);
+const fetcher = (url) => axiosInstance.get(url);
 
 const KeyVisual = () => {
   const { lang } = useContext(LangContext);
@@ -24,6 +24,7 @@ const KeyVisual = () => {
     fetcher
   );
 
+  console.log(bannerErr, "bannerErr");
   const onAutoplayTimeLeft = (swiper, time, progress) => {
     if (progressLine.current) {
       progressLine.current.style.width = `${(1 - progress) * 100}%`;
