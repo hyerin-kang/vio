@@ -298,3 +298,38 @@
     }
   }
 }
+
+//about-us
+.aboutus {
+  margin-bottom: 500px;
+  padding: 2.5rem;
+  background: #000;
+  // background: url("./../../public/images/content/bg-aboutus.png") black center
+  // no-repeat;
+  // background-size: contain;
+  // background-color: #000;
+
+  .bottom-area {
+    display: flex;
+    color: #fff;
+    position: relative;
+    &:before {
+      content: "";
+      width: calc(100% + 5rem);
+      height: 1px;
+      background: red;
+      position: absolute;
+      top: 0;
+      left: -2.5rem;
+    }
+    & > div {
+      flex: 1;
+      height: 320px;
+      padding: 2.5rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-end;
+      gap: 10px;
+    }
+  }
+}
