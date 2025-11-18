@@ -6,8 +6,8 @@ import "@/components/main/main.scss";
 export default function Home() {
   return (
     <div className=" ">
-      {/* <KeyVisual />
-      <Application /> */}
+      <KeyVisual />
+      <Application />
       <Product />
     </div>
   );
