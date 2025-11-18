@@ -183,7 +183,6 @@
 
 //Application
 .application {
-  padding-bottom: 500px;
   .itme-list {
     display: flex;
     height: 784px;
@@ -220,7 +219,6 @@
 
       &:hover {
         flex: 2;
-        // flex: auto;
         .title {
           font-size: 40px;
         }
@@ -230,7 +228,7 @@
       }
     }
     &:hover a:not(:hover) {
-      flex: 1; /* hover 안 한 아이는 작게 유지 */
+      flex: 1;
     }
   }
 }

@@ -4,7 +4,6 @@ import { LangContext } from "@/context/LangContext";
 import HomeAppliance from "@/public/images/content/application-HomeAppliance.png";
 import MicroLED from "@/public/images/content/application-MicroDisplay.png";
 import SensorData from "@/public/images/content/application-SensorData.png";
-import Image from "next/image";
 import Link from "next/link";
 
 const Application = () => {
