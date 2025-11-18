@@ -168,20 +168,69 @@
 .main-section {
   .title-area {
     padding: 2.5rem;
-  }
-  .title {
-    margin-top: 60px;
-    font-size: 60px;
-    font-weight: 500;
-    line-height: 1.4;
-  }
-  .desc {
-    margin-top: 10px;
-    font-size: 24px;
+    .title {
+      margin-top: 60px;
+      font-size: 60px;
+      font-weight: 500;
+      line-height: 1.4;
+    }
+    .desc {
+      margin-top: 10px;
+      font-size: 24px;
+    }
   }
 }
 
 //Application
-
 .application {
+  padding-bottom: 500px;
+  .itme-list {
+    display: flex;
+    height: 784px;
+    a {
+      .title {
+        font-size: 24px;
+      }
+      .desc {
+        margin-top: 10px;
+      }
+      display: block;
+      width: 100%;
+      flex: 1;
+      transition: flex 0.4s ease, width 0.4s ease;
+
+      padding: 30px;
+      color: #fff;
+
+      &:first-child {
+        background: url("./../../public/images/content/application-HomeAppliance.png")
+          center no-repeat;
+        background-size: cover;
+      }
+      &:nth-child(2) {
+        background: url("./../../public/images/content/application-MicroDisplay.png")
+          center no-repeat;
+        background-size: cover;
+      }
+      &:last-child {
+        background: url("./../../public/images/content/application-SensorData.png")
+          center no-repeat;
+        background-size: cover;
+      }
+
+      &:hover {
+        flex: 2;
+        // flex: auto;
+        .title {
+          font-size: 40px;
+        }
+        .desc {
+          font-size: 22px;
+        }
+      }
+    }
+    &:hover a:not(:hover) {
+      flex: 1; /* hover 안 한 아이는 작게 유지 */
+    }
+  }
 }

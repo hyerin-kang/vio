@@ -43,8 +43,8 @@ const Application = () => {
         {menuItems.map((item, i) => {
           return (
             <Link href={item.link} key={i}>
-              {item.title} / {item.description}
-              <Image src={item.img} alt={item.title} />
+              <p className="title">{item.title}</p>
+              <p className="desc">{item.description}</p>
             </Link>
           );
         })}
