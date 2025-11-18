@@ -164,6 +164,7 @@
   }
 }
 
+//메인 공통
 .main-section {
   .title-area {
     padding: 2.5rem;
@@ -174,4 +175,13 @@
     font-weight: 500;
     line-height: 1.4;
   }
+  .desc {
+    margin-top: 10px;
+    font-size: 24px;
+  }
+}
+
+//Application
+
+.application {
 }
