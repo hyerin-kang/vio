@@ -1,0 +1,27 @@
+.footer {
+  .footer-pc {
+    height: 840px;
+    background: #000;
+    color: #fff;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    .info {
+      .logo {
+        a {
+          display: block;
+          background: url("./../../public/images/common/footer-logo.svg");
+          width: 300px;
+          height: 44px;
+        }
+      }
+    }
+    .menu {
+      grid-column: span 3 / span 3;
+      display: flex;
+      > div {
+        flex: 1;
+        border: 1px solid #fff;
+      }
+    }
+  }
+}

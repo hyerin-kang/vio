@@ -2,6 +2,7 @@
 import { getDict } from "@/lib/getDict";
 import { LangProvider } from "@/context/LangContext"; // app/[lang]/layout.jsx
 import Header from "@/components/Header/Header";
+import Footer from "@/components/Footer/Footer";
 import "@/styles/global.scss";
 
 export default async function LangLayout({ children, params: paramsPromise }) {
@@ -13,6 +14,7 @@ export default async function LangLayout({ children, params: paramsPromise }) {
     <LangProvider dict={dict} params={params}>
       <Header />
       <main>{children}</main>
+      <Footer />
     </LangProvider>
   );
 }
