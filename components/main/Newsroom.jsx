@@ -24,9 +24,9 @@ const Newsroom = () => {
         <p className="desc">{dict.main.newsroom.desc}</p>
       </div>
 
-      <div className="news-data">
+      <div className="news-list">
         {newsData?.data?.map((item) => (
-          <div key={item.mediaCenterMasterId}>
+          <div key={item.mediaCenterMasterId} className="news-item">
             <Link href={`/media/news/${item.mediaCenterMasterId}`}>
               <div className="img">
                 <Image
@@ -37,9 +37,9 @@ const Newsroom = () => {
                 />
               </div>
               <div className="txt">
-                <p>{item.division}</p>
-                <p>{item.title}</p>
-                <p>{item.preview}</p>
+                <p className="division">{item.division}</p>
+                <p className="title">{item.title}</p>
+                <p className="prev">{item.preview}</p>
               </div>
             </Link>
           </div>
