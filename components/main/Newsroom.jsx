@@ -18,7 +18,7 @@ const Newsroom = () => {
 
   console.log(newsData, "newsData");
   return (
-    <section className="main-section">
+    <section className="main-section newsroom">
       <div className="title-area">
         <h2 className="title">Newsroom</h2>
         <p className="desc">{dict.main.newsroom.desc}</p>

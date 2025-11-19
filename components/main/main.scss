@@ -344,6 +344,9 @@
 }
 
 //newsroom
+.newsroom {
+  padding-bottom: 120px;
+}
 .news-list {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -353,6 +356,7 @@
   }
   .news-item {
     border-top: 1px solid rgba(48, 174, 86, 0.2);
+    border-bottom: 1px solid rgba(48, 174, 86, 0.2);
     border-right: 1px solid rgba(48, 174, 86, 0.2);
     a:hover {
       .txt {
@@ -390,6 +394,54 @@
       font-size: 14px;
       --tw-text-opacity: 1;
       color: #474747;
+    }
+  }
+}
+
+//showRoom
+.show-room {
+  position: relative;
+  overflow: hidden;
+  height: 460px;
+  padding: 0 40px;
+  color: #fff;
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: url("./../../public/images/content/banner-virtualShowroom.png")
+      right center / cover no-repeat;
+
+    transform: scale(1);
+    transform-origin: right center;
+    transition: transform 0.7s ease;
+  }
+
+  &:hover::before {
+    transform: scale(1.03);
+  }
+
+  .content {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    .title {
+      font-size: 50px;
+    }
+    .desc {
+      font-size: 24px;
+    }
+    .btn {
+      display: block;
+      background: #fff;
+      color: #000;
+      padding: 10px 40px;
+      width: fit-content;
+      border-radius: 50px;
     }
   }
 }

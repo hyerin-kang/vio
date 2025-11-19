@@ -3,6 +3,8 @@ import Application from "@/components/main/Application";
 import Product from "@/components/main/Product";
 import AboutUs from "@/components/main/AboutUs";
 import Newsroom from "@/components/main/Newsroom";
+import ShowRoom from "@/components/main/ShowRoom";
+import ContactUs from "@/components/main/ContactUs";
 import "@/components/main/main.scss";
 
 export default function Home() {
@@ -13,6 +15,8 @@ export default function Home() {
       <Product />
       <AboutUs />
       <Newsroom />
+      <ShowRoom />
+      <ContactUs />
     </div>
   );
 }
