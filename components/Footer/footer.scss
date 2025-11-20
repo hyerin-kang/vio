@@ -217,4 +217,29 @@
       }
     }
   }
+  .footer-mo {
+    background: #000;
+    color: white;
+    //아코디언
+    .ant-collapse-header {
+      color: #fff;
+      .ant-collapse-expand-icon {
+        position: relative;
+        &::before {
+          content: "";
+          display: block;
+          position: absolute;
+          top: 50%;
+          l: 50%;
+          width: 8px;
+          height: 1px;
+          background: #fff;
+          transform: translate(-50%, -50%);
+        }
+        svg {
+          display: none;
+        }
+      }
+    }
+  }
 }

@@ -2,6 +2,7 @@
 import { useContext } from "react";
 import "./footer.scss";
 import FooterPC from "./FooterPC";
+import FooterMO from "./FooterMO";
 import { LangContext } from "@/context/LangContext";
 import useSWR from "swr";
 
@@ -16,6 +17,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <FooterPC gnbList={gnbList} />
+      <FooterMO gnbList={gnbList} />
     </footer>
   );
 };
