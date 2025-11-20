@@ -16,7 +16,6 @@ const Newsroom = () => {
     fetcher
   );
 
-  console.log(newsData, "newsData");
   return (
     <section className="main-section newsroom">
       <div className="title-area">
