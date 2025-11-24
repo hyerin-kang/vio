@@ -2,7 +2,7 @@
 import { LangContext } from "@/context/LangContext";
 import { axiosInstance } from "@/lib/axiosInstance";
 import Link from "next/link";
-import { useContext, useState } from "react";
+import { useContext, useEffect, useState } from "react";
 import useSWR from "swr";
 import "./header.scss";
 import LocaleSwitcher from "./LocaleSwitcher";
@@ -15,9 +15,39 @@ const Header = () => {
   const [hoverIndex, setHoverIndex] = useState(null);
   const [position, setPosition] = useState(0);
 
+  //스크롤기능
+  const [hideHeader, setHideHeader] = useState(false);
+  const [isTop, setIsTop] = useState(true);
+  useEffect(() => {
+    let lastScroll = 0;
+
+    const handleScroll = () => {
+      const current = window.scrollY;
+
+      if (current < 300) {
+        setHideHeader(false);
+        setIsTop(true);
+      } else {
+        setIsTop(false);
+
+        if (current > lastScroll) {
+          setHideHeader(true);
+        } else {
+          setHideHeader(false);
+        }
+      }
+
+      lastScroll = current;
+    };
+
+    window.addEventListener("scroll", handleScroll);
+    return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
   const { lang } = useContext(LangContext);
   const { data: gnbData, error: gnbErr } = useSWR(`/${lang}/gnb`, fetcher);
 
+  //gnb위치
   const handleMouseEnter = (e, navIndex) => {
     const rect = e.currentTarget.getBoundingClientRect();
     const left = rect.left + window.scrollX;
@@ -27,7 +57,11 @@ const Header = () => {
 
   return (
     <>
-      <div className={`header ${hoverIndex !== null ? "open" : ""}`}>
+      <div
+        className={`header${hoverIndex !== null ? "open" : ""} ${
+          hideHeader ? "hide" : "show"
+        } ${isTop ? "top" : ""}`}
+      >
         <div className="left">
           <div className="logo">
             <Link href={`/${lang}`} />

@@ -1,4 +1,5 @@
 .header {
+  transition: all 0.3s ease;
   background: transparent;
   border-bottom: 1px solid rgba(48, 174, 86, 0.2);
   color: #fff;
@@ -171,4 +172,12 @@
       }
     }
   }
+}
+
+.header.hide {
+  opacity: 0;
+  pointer-events: none;
+}
+.header.show {
+  opacity: 1;
 }
