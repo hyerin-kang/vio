@@ -58,9 +58,9 @@ const Header = () => {
   return (
     <>
       <div
-        className={`header${hoverIndex !== null ? "open" : ""} ${
-          hideHeader ? "hide" : "show"
-        } ${isTop ? "top" : ""}`}
+        className={`header ${hoverIndex !== null ? "open" : ""} ${
+          isTop ? "top" : hideHeader ? "hide" : "show"
+        }`}
       >
         <div className="left">
           <div className="logo">
