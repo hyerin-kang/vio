@@ -14,6 +14,8 @@ const FooterPC = ({ gnbList }) => {
   const { lang } = useContext(LangContext);
   const [isFamilySite, setIsFamilySite] = useState(false);
 
+  console.log(gnbList, "gnbListPC");
+
   if (!gnbList?.data) return null;
 
   const [

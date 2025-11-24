@@ -220,24 +220,76 @@
   .footer-mo {
     background: #000;
     color: white;
-    //아코디언
-    .ant-collapse-header {
-      color: #fff;
-      .ant-collapse-expand-icon {
-        position: relative;
-        &::before {
-          content: "";
-          display: block;
-          position: absolute;
-          top: 50%;
-          l: 50%;
-          width: 8px;
-          height: 1px;
-          background: #fff;
-          transform: translate(-50%, -50%);
+    .info {
+      padding: 30px 20px;
+      font-size: 14px;
+      ul {
+        margin-top: 30px;
+        li {
+          margin-top: 10px;
+          display: flex;
+          align-items: center;
+          gap: 10px;
         }
-        svg {
-          display: none;
+      }
+    }
+    //아코디언
+    .ant-collapse {
+      border: 0;
+      border-bottom: 1px solid #ccc;
+      border-radius: 0;
+      &:first-child {
+        border-top: 1px solid #ccc;
+      }
+      .ant-collapse-header {
+        display: flex;
+        flex-direction: row-reverse;
+        justify-content: space-between;
+        color: #fff;
+        border: 0;
+        &[aria-expanded="true"] {
+          .ant-collapse-expand-icon {
+            &:after {
+              display: none;
+            }
+          }
+        }
+        .ant-collapse-expand-icon {
+          position: relative;
+          &::before {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 8px;
+            height: 1px;
+            background: #fff;
+            transform: translate(-50%, -50%);
+          }
+          &:after {
+            content: "";
+            display: block;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            width: 1px;
+            height: 8px;
+            background: #fff;
+            transform: translate(-50%, -50%);
+          }
+          svg {
+            display: none;
+          }
+        }
+      }
+      .ant-collapse-content {
+        border-radius: 0;
+        color: #fff;
+        background: #000;
+        a {
+          display: block;
+          opacity: 0.6;
         }
       }
     }

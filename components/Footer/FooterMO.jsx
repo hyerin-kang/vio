@@ -8,31 +8,11 @@ import IcoMail from "@/public/images/icon/footer-icon-contact.svg";
 import IcoSearch from "@/public/images/icon/footer-icon-search.svg";
 import { useContext } from "react";
 import { LangContext } from "@/context/LangContext";
-import { label } from "motion/react-client";
 import { Collapse } from "antd";
 
 const FooterMO = ({ gnbList }) => {
   const { lang } = useContext(LangContext);
 
-  const collGnbList = gnbList?.data?.map((item, index) => ({
-    key: index,
-    label: item.title,
-    children: item.children.map((dep2) => (
-      <a href={dep2.url} key={dep2.id}>
-        {dep2.title}
-      </a>
-    )),
-  }));
-  //   if (!gnbList?.data) return null;
-  //   const [
-  //     GNBApplication,
-  //     GNBTechnology,
-  //     GNBProduct,
-  //     GNBSupport,
-  //     GNBCompany,
-  //     GNBIR,
-  //     GNBMedia,
-  //   ] = gnbList?.data ?? [];
   return (
     <div className="footer-mo block lg:hidden">
       <div className="info">
@@ -58,8 +38,8 @@ const FooterMO = ({ gnbList }) => {
           </li>
           <li>
             <Image src={IcoMail} alt="ico-location" />
-            <Link href={`${lang}/support/contact`} className="underline">
-              <span>
+            <Link href={`${lang}/support/contact`}>
+              <span className="underline">
                 {lang === "kr" ? "제품 및 샘플 문의하기" : "Get Support"}
               </span>
             </Link>

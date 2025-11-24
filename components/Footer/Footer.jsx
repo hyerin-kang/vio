@@ -13,7 +13,6 @@ const Footer = () => {
 
   const { data: gnbList, error: gnbListErr } = useSWR(`/${lang}/gnb`, fetcher);
 
-  //   console.log(gnbList, "gnbList");
   return (
     <footer className="footer">
       <FooterPC gnbList={gnbList} />
