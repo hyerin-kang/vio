@@ -1,10 +1,10 @@
-import KeyVisual from "@/components/main/KeyVisual";
-import Application from "@/components/main/Application";
-import Product from "@/components/main/Product";
-import AboutUs from "@/components/main/AboutUs";
-import Newsroom from "@/components/main/Newsroom";
-import ShowRoom from "@/components/main/ShowRoom";
-import ContactUs from "@/components/main/ContactUs";
+import KeyVisual from "@/components/Main/KeyVisual";
+import Application from "@/components/Main/Application";
+import Product from "@/components/Main/Product";
+import AboutUs from "@/components/Main/AboutUs";
+import Newsroom from "@/components/Main/Newsroom";
+import ShowRoom from "@/components/Main/ShowRoom";
+import ContactUs from "@/components/Main/ContactUs";
 import "@/components/main/main.scss";
 
 export default function Home() {

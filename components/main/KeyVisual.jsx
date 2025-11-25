@@ -10,7 +10,7 @@ import AnimatedTextWrapper from "@/components/AnimateText/AnimatedTextWrapper";
 import AnimatedTextCharacter from "@/components/AnimateText/AnimatedTextCharacter";
 import useSWR from "swr";
 import { useContext, useRef } from "react";
-import TextReveal from "./../AnimateText/TextReveal";
+import TextReveal from "../AnimateText/TextReveal";
 import { LangContext } from "@/context/LangContext";
 import Image from "next/image";
 

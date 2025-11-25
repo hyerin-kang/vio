@@ -57,10 +57,10 @@
           transition: width 0.2s ease-in;
         }
         &.on {
-          color: green;
+          color: #30ae56;
           &::before {
             width: calc(100% - 10px); // 20*2 : navGap
-            background-color: green;
+            background-color: #30ae56;
           }
         }
       }
@@ -84,7 +84,7 @@
     ul {
       li.link-contact {
         padding: 10px;
-        color: green;
+        color: #30ae56;
         font-weight: 600;
       }
     }

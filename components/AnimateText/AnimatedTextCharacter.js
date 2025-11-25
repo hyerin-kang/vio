@@ -1,7 +1,7 @@
 import { motion, AnimatePresence, useAnimation } from "framer-motion";
 import { useEffect } from "react";
 
-export default function AnimatedTextCharacter({ text, isInView }) {
+export default function AnimatedTextCharacter({ text, isInView, className }) {
   const letters = Array.from(text);
   const container = useAnimation();
 
@@ -44,7 +44,7 @@ export default function AnimatedTextCharacter({ text, isInView }) {
         animate={container}
         exit="hidden"
       >
-        <h1>
+        <h1 className={className}>
           {letters.map((letter, idx) => (
             <motion.span key={idx} variants={child} className="-inter">
               {" "}
