@@ -2,6 +2,7 @@ import Image from "next/image";
 import "./subpage-bg.scss";
 import Link from "next/link";
 import { motion } from "framer-motion";
+import Breadcrumb from "@/components/Breadcrumb/page";
 
 const containerVariants = {
   hidden: { opacity: 0 },
@@ -48,13 +49,7 @@ const SubpageBG = ({
 
       <div className="inner">
         {/* breadcrumb */}
-        <div className="breadcrumb">
-          {data.map((item, index) => (
-            <Link href={item.link} key={index}>
-              {item.title}
-            </Link>
-          ))}
-        </div>
+        <Breadcrumb data={data} />
 
         {/* TEXT AREA */}
         <div className="text-area">

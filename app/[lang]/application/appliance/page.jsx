@@ -1,9 +1,8 @@
 "use client";
-// import SubpageBG from "@/components/SubpageBG/page";
 import { LangContext } from "@/context/LangContext";
 import SubpageBG from "../../../../components/SubpageBG/page";
 import { useContext } from "react";
-// import VideoHomeAppliance from "@/public/video/application/HomeAppliance.mp4";
+import FloationLnb from "../../../../components/FloatingLnb/page";
 
 const Appliance = () => {
   const { dict, lang } = useContext(LangContext);
@@ -20,11 +19,21 @@ const Appliance = () => {
         subTitle="Seoul Viosys<br/>Application"
         subText="World's 1st UV LED"
         lang={lang}
-        // sns
-        // src=""
         dimmed={true}
         heading
       />
+      <FloationLnb
+        data={[
+          { title: dict?.breadcrumb?.home, link: "/" },
+          { title: dict?.breadcrumb?.application, link: "" },
+          { title: "Home Appliance & Industrial", link: "" },
+        ]}
+        title={"Home Appliance & Industrial"}
+        category={"application"}
+        lang={lang}
+      />
+
+      <section className="contents-bpdy"></section>
     </div>
   );
 };
